@@ -1,1 +1,3 @@
-# genetic_algorythms
+# Genetic Algorithms
+
+(Readme pending)
