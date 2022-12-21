@@ -1,0 +1,1435 @@
+﻿city;city_ascii;state_id;state_name;county_fips;county_name;lat;lng;population;density;source;military;incorporated;timezone;ranking;id
+New York;New York;NY;New York;36081;Queens;40,6943;-73,9249;18680025;10768;shape;FALSE;TRUE;America/New_York;1;1840034016
+Los Angeles;Los Angeles;CA;California;06037;Los Angeles;34,1141;-118,4068;12531334;3267;shape;FALSE;TRUE;America/Los_Angeles;1;1840020491
+Chicago;Chicago;IL;Illinois;17031;Cook;41,8375;-87,6866;8586888;4576;shape;FALSE;TRUE;America/Chicago;1;1840000494
+Miami;Miami;FL;Florida;12086;Miami-Dade;25,784;-80,2101;6076316;4945;shape;FALSE;TRUE;America/New_York;1;1840015149
+Dallas;Dallas;TX;Texas;48113;Dallas;32,7935;-96,7667;5910669;1522;shape;FALSE;TRUE;America/Chicago;1;1840019440
+Houston;Houston;TX;Texas;48201;Harris;29,786;-95,3885;5724418;1394;shape;FALSE;TRUE;America/Chicago;1;1840020925
+Philadelphia;Philadelphia;PA;Pennsylvania;42101;Philadelphia;40,0077;-75,1339;5540199;4544;shape;FALSE;TRUE;America/New_York;1;1840000673
+Atlanta;Atlanta;GA;Georgia;13121;Fulton;33,7628;-84,422;5151496;1419;shape;FALSE;TRUE;America/New_York;1;1840013660
+Washington;Washington;DC;District of Columbia;11001;District of Columbia;38,9047;-77,0163;5066973;4434;shape;FALSE;TRUE;America/New_York;1;1840006060
+Boston;Boston;MA;Massachusetts;25025;Suffolk;42,3188;-71,0852;4465966;5505;shape;FALSE;TRUE;America/New_York;1;1840000455
+Phoenix;Phoenix;AZ;Arizona;04013;Maricopa;33,5722;-112,0892;4187723;1236;shape;FALSE;TRUE;America/Phoenix;1;1840020568
+Detroit;Detroit;MI;Michigan;26163;Wayne;42,3834;-83,1024;3731486;1871;shape;FALSE;TRUE;America/Detroit;1;1840003971
+San Francisco;San Francisco;CA;California;06075;San Francisco;37,7558;-122,4449;3557982;7199;shape;FALSE;TRUE;America/Los_Angeles;1;1840021543
+Seattle;Seattle;WA;Washington;53033;King;47,6211;-122,3244;3530752;3414;shape;FALSE;TRUE;America/Los_Angeles;1;1840021117
+San Diego;San Diego;CA;California;06073;San Diego;32,8313;-117,1222;3178495;1675;shape;FALSE;TRUE;America/Los_Angeles;1;1840021990
+Minneapolis;Minneapolis;MN;Minnesota;27053;Hennepin;44,9635;-93,2678;2885614;3035;shape;FALSE;TRUE;America/Chicago;1;1840007830
+Tampa;Tampa;FL;Florida;12057;Hillsborough;27,9945;-82,4447;2771700;1340;shape;FALSE;TRUE;America/New_York;1;1840015982
+Brooklyn;Brooklyn;NY;New York;36047;Kings;40,6501;-73,9496;2736074;15200;point;FALSE;TRUE;America/New_York;1;1840034030
+Denver;Denver;CO;Colorado;08031;Denver;39,762;-104,8758;2709398;1805;shape;FALSE;TRUE;America/Denver;1;1840018789
+Queens;Queens;NY;New York;36081;Queens;40,7498;-73,7976;2405464;8503;point;FALSE;TRUE;America/New_York;1;1840034002
+Baltimore;Baltimore;MD;Maryland;24510;Baltimore;39,3051;-76,6144;2270087;2872;shape;FALSE;TRUE;America/New_York;1;1840001592
+Las Vegas;Las Vegas;NV;Nevada;32003;Clark;36,2333;-115,2654;2165405;1754;shape;FALSE;TRUE;America/Los_Angeles;1;1840020364
+St. Louis;St. Louis;MO;Missouri;29510;St. Louis;38,6359;-90,2451;2144317;1905;shape;FALSE;TRUE;America/Chicago;1;1840001651
+Riverside;Riverside;CA;California;06065;Riverside;33,9381;-117,3949;2112239;1556;shape;FALSE;TRUE;America/Los_Angeles;1;1840020551
+Portland;Portland;OR;Oregon;41051;Multnomah;45,5371;-122,65;2072553;1881;shape;FALSE;TRUE;America/Los_Angeles;1;1840019941
+San Antonio;San Antonio;TX;Texas;48029;Bexar;29,4632;-98,5238;2036324;1183;shape;FALSE;TRUE;America/Chicago;1;1840022220
+Sacramento;Sacramento;CA;California;06067;Sacramento;38,5677;-121,4685;1882358;1971;shape;FALSE;TRUE;America/Los_Angeles;1;1840021491
+San Juan;San Juan;PR;Puerto Rico;72127;San Juan;18,3985;-66,061;1854549;2982;shape;FALSE;FALSE;America/Puerto_Rico;1;1630035577
+San Jose;San Jose;CA;California;06085;Santa Clara;37,3012;-121,848;1797166;2229;shape;FALSE;TRUE;America/Los_Angeles;1;1840021570
+Orlando;Orlando;FL;Florida;12095;Orange;28,4773;-81,337;1792047;994;shape;FALSE;TRUE;America/New_York;1;1840015099
+Cleveland;Cleveland;OH;Ohio;39035;Cuyahoga;41,4764;-81,6805;1742437;1903;shape;FALSE;TRUE;America/New_York;1;1840000596
+Pittsburgh;Pittsburgh;PA;Pennsylvania;42003;Allegheny;40,4397;-79,9763;1719289;2100;shape;FALSE;TRUE;America/New_York;1;1840001254
+Manhattan;Manhattan;NY;New York;36061;New York;40,7834;-73,9662;1694263;28653;point;FALSE;TRUE;America/New_York;1;1840034000
+Austin;Austin;TX;Texas;48453;Travis;30,3005;-97,7522;1685522;1165;shape;FALSE;TRUE;America/Chicago;1;1840019590
+Cincinnati;Cincinnati;OH;Ohio;39061;Hamilton;39,1413;-84,506;1684800;1501;shape;FALSE;TRUE;America/New_York;1;1840003814
+Indianapolis;Indianapolis;IN;Indiana;18097;Marion;39,7771;-86,1458;1636763;928;shape;FALSE;TRUE;America/Indiana/Indianapolis;1;1840030084
+Kansas City;Kansas City;MO;Missouri;29095;Jackson;39,1238;-94,5541;1602005;602;shape;FALSE;TRUE;America/Chicago;1;1840008535
+Columbus;Columbus;OH;Ohio;39049;Franklin;39,9862;-82,9855;1547862;1560;shape;FALSE;TRUE;America/New_York;1;1840003760
+Charlotte;Charlotte;NC;North Carolina;37119;Mecklenburg;35,2083;-80,8303;1526465;1094;shape;FALSE;TRUE;America/New_York;1;1840014557
+Virginia Beach;Virginia Beach;VA;Virginia;51810;Virginia Beach;36,7335;-76,0435;1475522;711;shape;FALSE;TRUE;America/New_York;1;1840003871
+Bronx;Bronx;NY;New York;36005;Bronx;40,8501;-73,8662;1472654;13356;point;FALSE;TRUE;America/New_York;1;1840033999
+Milwaukee;Milwaukee;WI;Wisconsin;55079;Milwaukee;43,0642;-87,9675;1390046;2379;shape;FALSE;TRUE;America/Chicago;1;1840003046
+Providence;Providence;RI;Rhode Island;44007;Providence;41,823;-71,4187;1204385;3764;shape;FALSE;TRUE;America/New_York;1;1840003289
+Jacksonville;Jacksonville;FL;Florida;12031;Duval;30,3322;-81,6749;1165107;466;shape;FALSE;TRUE;America/New_York;1;1840015031
+Salt Lake City;Salt Lake City;UT;Utah;49035;Salt Lake;40,7776;-111,9311;1135747;700;shape;FALSE;TRUE;America/Denver;1;1840021383
+Nashville;Nashville;TN;Tennessee;47037;Davidson;36,1715;-86,7842;1081876;541;shape;FALSE;TRUE;America/Chicago;1;1840036155
+Raleigh;Raleigh;NC;North Carolina;37183;Wake;35,8324;-78,6429;1073795;1232;shape;FALSE;TRUE;America/New_York;1;1840014497
+Memphis;Memphis;TN;Tennessee;47157;Shelby;35,1087;-89,9663;1072330;846;shape;FALSE;TRUE;America/Chicago;1;1840015457
+Richmond;Richmond;VA;Virginia;51760;Richmond;37,5295;-77,4756;1025117;1476;shape;FALSE;TRUE;America/New_York;1;1840001698
+Louisville;Louisville;KY;Kentucky;21111;Jefferson;38,1663;-85,6485;1004821;906;shape;FALSE;TRUE;America/New_York;1;1840030815
+New Orleans;New Orleans;LA;Louisiana;22071;Orleans;30,0687;-89,9288;957783;891;shape;FALSE;TRUE;America/Chicago;2;1840001839
+Bridgeport;Bridgeport;CT;Connecticut;09001;Fairfield;41,1918;-73,1954;948918;3485;shape;FALSE;TRUE;America/New_York;2;1840004836
+Oklahoma City;Oklahoma City;OK;Oklahoma;40109;Oklahoma;35,4676;-97,5136;947247;413;shape;FALSE;TRUE;America/Chicago;2;1840020428
+Buffalo;Buffalo;NY;New York;36029;Erie;42,9018;-78,8487;926607;2446;shape;FALSE;TRUE;America/New_York;2;1840000386
+Hartford;Hartford;CT;Connecticut;09003;Hartford;41,7661;-72,6834;918434;2722;shape;FALSE;TRUE;America/New_York;2;1840004773
+Fort Worth;Fort Worth;TX;Texas;48439;Tarrant;32,7817;-97,3474;892221;992;shape;FALSE;TRUE;America/Chicago;2;1840020696
+Tucson;Tucson;AZ;Arizona;04019;Pima;32,1541;-110,8787;883127;873;shape;FALSE;TRUE;America/Phoenix;2;1840022101
+Honolulu;Honolulu;HI;Hawaii;15003;Honolulu;21,3294;-157,846;834138;2214;shape;FALSE;TRUE;Pacific/Honolulu;2;1840013305
+McAllen;McAllen;TX;Texas;48215;Hidalgo;26,2252;-98,2467;805270;883;shape;FALSE;TRUE;America/Chicago;2;1840021024
+El Paso;El Paso;TX;Texas;48141;El Paso;31,8476;-106,43;798217;1015;shape;FALSE;TRUE;America/Denver;2;1840023252
+Omaha;Omaha;NE;Nebraska;31055;Douglas;41,2627;-96,0529;791432;1307;shape;FALSE;TRUE;America/Chicago;2;1840009315
+Albuquerque;Albuquerque;NM;New Mexico;35001;Bernalillo;35,1054;-106,6465;762853;1155;shape;FALSE;TRUE;America/Denver;2;1840019176
+Birmingham;Birmingham;AL;Alabama;01073;Jefferson;33,5279;-86,7971;753721;553;shape;FALSE;TRUE;America/Chicago;2;1840006507
+Sarasota;Sarasota;FL;Florida;12115;Sarasota;27,3387;-82,5432;727388;1518;shape;FALSE;TRUE;America/New_York;2;1840015988
+Dayton;Dayton;OH;Ohio;39113;Montgomery;39,7805;-84,2003;723844;971;shape;FALSE;TRUE;America/New_York;2;1840034249
+Rochester;Rochester;NY;New York;36055;Monroe;43,168;-77,6162;720189;2227;shape;FALSE;TRUE;America/New_York;2;1840000373
+Fresno;Fresno;CA;California;06019;Fresno;36,783;-119,7939;702486;1763;shape;FALSE;TRUE;America/Los_Angeles;2;1840020319
+Tulsa;Tulsa;OK;Oklahoma;40143;Tulsa;36,1283;-95,9042;698349;786;shape;FALSE;TRUE;America/Chicago;2;1840021672
+Allentown;Allentown;PA;Pennsylvania;42077;Lehigh;40,5961;-75,4756;688658;2664;shape;FALSE;TRUE;America/New_York;2;1840001044
+Concord;Concord;CA;California;06013;Contra Costa;37,9722;-122,0016;667250;1633;shape;FALSE;TRUE;America/Los_Angeles;2;1840018905
+Cape Coral;Cape Coral;FL;Florida;12071;Lee;26,6443;-81,9957;649339;690;shape;FALSE;TRUE;America/New_York;2;1840015130
+Charleston;Charleston;SC;South Carolina;45019;Charleston;32,8168;-79,9687;645413;461;shape;FALSE;TRUE;America/New_York;2;1840015163
+Colorado Springs;Colorado Springs;CO;Colorado;08041;El Paso;38,8674;-104,7605;621332;932;shape;FALSE;TRUE;America/Denver;2;1840018825
+Springfield;Springfield;MA;Massachusetts;25013;Hampden;42,1155;-72,5395;615728;1861;shape;FALSE;TRUE;America/New_York;2;1840000466
+Grand Rapids;Grand Rapids;MI;Michigan;26081;Kent;42,9619;-85,6562;615273;1719;shape;FALSE;TRUE;America/Detroit;2;1840002928
+Ogden;Ogden;UT;Utah;49057;Weber;41,2279;-111,9682;615015;1221;shape;FALSE;TRUE;America/Denver;2;1840020135
+Columbia;Columbia;SC;South Carolina;45079;Richland;34,0378;-80,9036;609689;378;shape;FALSE;TRUE;America/New_York;2;1840014730
+Baton Rouge;Baton Rouge;LA;Louisiana;22033;East Baton Rouge;30,442;-91,1311;605449;993;shape;FALSE;TRUE;America/Chicago;2;1840013941
+Knoxville;Knoxville;TN;Tennessee;47093;Knox;35,9692;-83,9496;603685;733;shape;FALSE;TRUE;America/New_York;2;1840014486
+Mission Viejo;Mission Viejo;CA;California;06059;Orange;33,6096;-117,6551;600802;2091;shape;FALSE;TRUE;America/Los_Angeles;2;1840020580
+Albany;Albany;NY;New York;36001;Albany;42,6664;-73,7987;590823;1747;shape;FALSE;TRUE;America/New_York;2;1840000417
+Akron;Akron;OH;Ohio;39153;Summit;41,0798;-81,5219;570375;1230;shape;FALSE;TRUE;America/New_York;2;1840000791
+New Haven;New Haven;CT;Connecticut;09009;New Haven;41,3113;-72,9246;566683;2693;shape;FALSE;TRUE;America/New_York;2;1840004850
+Provo;Provo;UT;Utah;49049;Utah;40,2457;-111,6457;563884;1082;shape;FALSE;TRUE;America/Denver;2;1840020174
+Bakersfield;Bakersfield;CA;California;06029;Kern;35,3529;-119,0359;556892;979;shape;FALSE;TRUE;America/Los_Angeles;2;1840019148
+Murrieta;Murrieta;CA;California;06065;Riverside;33,5719;-117,1909;524133;1310;shape;FALSE;TRUE;America/Los_Angeles;2;1840020553
+Des Moines;Des Moines;IA;Iowa;19153;Polk;41,5725;-93,6105;519180;943;shape;FALSE;TRUE;America/Chicago;2;1840007069
+Worcester;Worcester;MA;Massachusetts;25027;Worcester;42,2705;-71,8079;516483;1913;shape;FALSE;TRUE;America/New_York;2;1840000434
+Mesa;Mesa;AZ;Arizona;04013;Maricopa;33,4015;-111,7178;508918;1416;shape;FALSE;TRUE;America/Phoenix;2;1840020566
+Toledo;Toledo;OH;Ohio;39095;Lucas;41,6638;-83,5827;498645;1319;shape;FALSE;TRUE;America/New_York;2;1840000572
+Palm Bay;Palm Bay;FL;Florida;12009;Brevard;27,9631;-80,6593;496640;508;shape;FALSE;TRUE;America/New_York;2;1840015094
+Staten Island;Staten Island;NY;New York;36085;Richmond;40,5834;-74,1496;495747;3286;point;FALSE;TRUE;America/New_York;2;1840034032
+Wichita;Wichita;KS;Kansas;20173;Sedgwick;37,6895;-97,3443;484715;930;shape;FALSE;TRUE;America/Chicago;2;1840001686
+Harrisburg;Harrisburg;PA;Pennsylvania;42043;Dauphin;40,2752;-76,8843;472261;2342;shape;FALSE;TRUE;America/New_York;2;1840001288
+Long Beach;Long Beach;CA;California;06037;Los Angeles;33,7977;-118,167;462081;3518;shape;FALSE;TRUE;America/Los_Angeles;2;1840020490
+Little Rock;Little Rock;AR;Arkansas;05119;Pulaski;34,7256;-92,3577;446814;637;shape;FALSE;TRUE;America/Chicago;2;1840015509
+Madison;Madison;WI;Wisconsin;55025;Dane;43,0822;-89,393;445499;1253;shape;FALSE;TRUE;America/Chicago;2;1840002915
+Greenville;Greenville;SC;South Carolina;45045;Greenville;34,8354;-82,3646;441303;905;shape;FALSE;TRUE;America/New_York;2;1840013501
+Reno;Reno;NV;Nevada;32031;Washoe;39,5497;-119,8483;440547;890;shape;FALSE;TRUE;America/Los_Angeles;2;1840020121
+Port St. Lucie;Port St. Lucie;FL;Florida;12111;St. Lucie;27,2796;-80,3884;435182;634;shape;FALSE;TRUE;America/New_York;2;1840015119
+Lancaster;Lancaster;PA;Pennsylvania;42071;Lancaster;40,042;-76,3012;430621;3169;shape;FALSE;TRUE;America/New_York;2;1840003718
+Spokane;Spokane;WA;Washington;53063;Spokane;47,6671;-117,433;426849;1230;shape;FALSE;TRUE;America/Los_Angeles;2;1840021093
+Denton;Denton;TX;Texas;48121;Denton;33,2175;-97,1418;425901;559;shape;FALSE;TRUE;America/Chicago;2;1840019390
+Poughkeepsie;Poughkeepsie;NY;New York;36027;Dutchess;41,695;-73,9211;423386;2277;shape;FALSE;TRUE;America/New_York;2;1840000500
+Oakland;Oakland;CA;California;06001;Alameda;37,7904;-122,2166;422575;2917;shape;FALSE;TRUE;America/Los_Angeles;2;1840020296
+Winston-Salem;Winston-Salem;NC;North Carolina;37067;Forsyth;36,1029;-80,261;416394;715;shape;FALSE;TRUE;America/New_York;2;1840015324
+Syracuse;Syracuse;NY;New York;36067;Onondaga;43,0407;-76,1437;407942;2196;shape;FALSE;TRUE;America/New_York;2;1840000378
+Boise;Boise;ID;Idaho;16001;Ada;43,6005;-116,2308;407550;1047;shape;FALSE;TRUE;America/Boise;2;1840027142
+Chattanooga;Chattanooga;TN;Tennessee;47065;Hamilton;35,066;-85,2481;404766;491;shape;FALSE;TRUE;America/New_York;2;1840014569
+Augusta;Augusta;GA;Georgia;13245;Richmond;33,3645;-82,0708;404125;252;shape;FALSE;TRUE;America/New_York;2;1840029462
+Arlington;Arlington;TX;Texas;48439;Tarrant;32,6998;-97,125;397269;1600;shape;FALSE;TRUE;America/Chicago;2;1840019422
+Stockton;Stockton;CA;California;06077;San Joaquin;37,9765;-121,3109;394919;1930;shape;FALSE;TRUE;America/Los_Angeles;2;1840021517
+Durham;Durham;NC;North Carolina;37063;Durham;35,9792;-78,9022;391371;945;shape;FALSE;TRUE;America/New_York;2;1840013364
+Palm Coast;Palm Coast;FL;Florida;12035;Flagler;29,5389;-81,2457;386415;357;shape;FALSE;TRUE;America/New_York;2;1840015064
+Scranton;Scranton;PA;Pennsylvania;42069;Lackawanna;41,4044;-75,6649;380870;1174;shape;FALSE;TRUE;America/New_York;2;1840003389
+Aurora;Aurora;CO;Colorado;08005;Arapahoe;39,7083;-104,7237;379434;914;shape;FALSE;TRUE;America/Denver;2;1840018794
+Oxnard;Oxnard;CA;California;06111;Ventura;34,1964;-119,1815;378990;3023;shape;FALSE;TRUE;America/Los_Angeles;2;1840020474
+Modesto;Modesto;CA;California;06099;Stanislaus;37,6375;-121,0028;376717;1923;shape;FALSE;TRUE;America/Los_Angeles;2;1840020287
+Indio;Indio;CA;California;06065;Riverside;33,7346;-116,2346;367174;1045;shape;FALSE;TRUE;America/Los_Angeles;2;1840019304
+Kissimmee;Kissimmee;FL;Florida;12097;Osceola;28,3041;-81,4169;366003;1299;shape;FALSE;TRUE;America/New_York;2;1840015109
+Youngstown;Youngstown;OH;Ohio;39099;Mahoning;41,0993;-80,6463;363541;730;shape;FALSE;TRUE;America/New_York;2;1840003563
+Pensacola;Pensacola;FL;Florida;12033;Escambia;30,4413;-87,1911;360711;901;shape;FALSE;TRUE;America/Chicago;2;1840015005
+Lancaster;Lancaster;CA;California;06037;Los Angeles;34,6935;-118,1753;353619;645;shape;FALSE;TRUE;America/Los_Angeles;2;1840020516
+Anaheim;Anaheim;CA;California;06059;Orange;33,839;-117,8574;353085;2711;shape;FALSE;TRUE;America/Los_Angeles;2;1840019322
+Fayetteville;Fayetteville;AR;Arkansas;05143;Washington;36,0714;-94,1661;350995;617;shape;FALSE;TRUE;America/Chicago;2;1840013368
+Jackson;Jackson;MS;Mississippi;28049;Hinds;32,3157;-90,2125;350373;566;shape;FALSE;TRUE;America/Chicago;2;1840014895
+Victorville;Victorville;CA;California;06071;San Bernardino;34,5277;-117,3536;350275;644;shape;FALSE;TRUE;America/Los_Angeles;2;1840021731
+Bonita Springs;Bonita Springs;FL;Florida;12071;Lee;26,3558;-81,7859;347581;580;shape;FALSE;TRUE;America/New_York;2;1840014227
+Greensboro;Greensboro;NC;North Carolina;37081;Guilford;36,0956;-79,8271;343505;877;shape;FALSE;TRUE;America/New_York;2;1840013356
+Corpus Christi;Corpus Christi;TX;Texas;48355;Nueces;27,7254;-97,3767;343031;776;shape;FALSE;TRUE;America/Chicago;2;1840019718
+Flint;Flint;MI;Michigan;26049;Genesee;43,0236;-83,6921;339283;1108;shape;FALSE;TRUE;America/Detroit;2;1840002949
+Fayetteville;Fayetteville;NC;North Carolina;37051;Cumberland;35,085;-78,9772;333366;550;shape;FALSE;TRUE;America/New_York;2;1840013490
+Santa Ana;Santa Ana;CA;California;06059;Orange;33,7367;-117,8819;332610;4697;shape;FALSE;TRUE;America/Los_Angeles;2;1840021964
+Fort Wayne;Fort Wayne;IN;Indiana;18003;Allen;41,0888;-85,1436;329170;935;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840008261
+Mobile;Mobile;AL;Alabama;01097;Mobile;30,6782;-88,1162;328610;525;shape;FALSE;TRUE;America/Chicago;2;1840006009
+Lansing;Lansing;MI;Michigan;26065;Ingham;42,7142;-84,5601;326380;1158;shape;FALSE;TRUE;America/Detroit;2;1840003102
+Ann Arbor;Ann Arbor;MI;Michigan;26161;Washtenaw;42,2759;-83,731;323593;1657;shape;FALSE;TRUE;America/Detroit;2;1840003172
+Huntsville;Huntsville;AL;Alabama;01089;Madison;34,6981;-86,6412;317279;353;shape;FALSE;TRUE;America/Chicago;2;1840005061
+Lexington;Lexington;KY;Kentucky;21067;Fayette;38,0423;-84,4587;316743;438;shape;FALSE;TRUE;America/New_York;2;1840015211
+Santa Rosa;Santa Rosa;CA;California;06097;Sonoma;38,4458;-122,7067;313875;1619;shape;FALSE;TRUE;America/Los_Angeles;2;1840021488
+Antioch;Antioch;CA;California;06013;Contra Costa;37,9787;-121,796;313532;1475;shape;FALSE;TRUE;America/Los_Angeles;2;1840018903
+Asheville;Asheville;NC;North Carolina;37021;Buncombe;35,5707;-82,5537;312618;783;shape;FALSE;TRUE;America/New_York;2;1840013411
+Henderson;Henderson;NV;Nevada;32003;Clark;36,0133;-115,0381;309955;1126;shape;FALSE;TRUE;America/Los_Angeles;2;1840020361
+St. Paul;St. Paul;MN;Minnesota;27123;Ramsey;44,9478;-93,1039;305877;2272;shape;FALSE;TRUE;America/Chicago;2;1840008940
+Fort Collins;Fort Collins;CO;Colorado;08069;Larimer;40,5477;-105,0656;304657;1120;shape;FALSE;TRUE;America/Denver;2;1840020151
+Lakeland;Lakeland;FL;Florida;12105;Polk;28,0557;-81,9545;300268;643;shape;FALSE;TRUE;America/New_York;2;1840015108
+Springfield;Springfield;MO;Missouri;29077;Greene;37,1943;-93,2916;295230;785;shape;FALSE;TRUE;America/Chicago;2;1840009904
+The Woodlands;The Woodlands;TX;Texas;48339;Montgomery;30,1738;-95,5134;294943;1020;shape;FALSE;FALSE;America/Chicago;2;1840019585
+Shreveport;Shreveport;LA;Louisiana;22017;Caddo;32,4653;-93,7955;291388;680;shape;FALSE;TRUE;America/Chicago;2;1840015768
+Trenton;Trenton;NJ;New Jersey;34021;Mercer;40,2237;-74,7641;291085;4248;shape;FALSE;TRUE;America/New_York;2;1840001383
+Plano;Plano;TX;Texas;48085;Collin;33,0502;-96,7486;288870;1555;shape;FALSE;TRUE;America/Chicago;2;1840020662
+Round Lake Beach;Round Lake Beach;IL;Illinois;17097;Lake;42,3791;-88,0811;287012;2090;shape;FALSE;TRUE;America/Chicago;2;1840011171
+South Bend;South Bend;IN;Indiana;18141;St. Joseph;41,6767;-86,2696;285569;944;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840009241
+Savannah;Savannah;GA;Georgia;13051;Chatham;32,0286;-81,1821;284429;525;shape;FALSE;TRUE;America/New_York;2;1840015830
+Newark;Newark;NJ;New Jersey;34013;Essex;40,7245;-74,1725;281917;4508;shape;FALSE;TRUE;America/New_York;2;1840002791
+Davenport;Davenport;IA;Iowa;19163;Scott;41,5565;-90,6053;281895;618;shape;FALSE;TRUE;America/Chicago;2;1840007081
+Myrtle Beach;Myrtle Beach;SC;South Carolina;45051;Horry;33,7094;-78,8844;281180;552;shape;FALSE;TRUE;America/New_York;2;1840014717
+Lincoln;Lincoln;NE;Nebraska;31109;Lancaster;40,8099;-96,6784;280780;1131;shape;FALSE;TRUE;America/Chicago;2;1840009357
+Rockford;Rockford;IL;Illinois;17201;Winnebago;42,2596;-89,064;280337;881;shape;FALSE;TRUE;America/Chicago;2;1840009132
+Reading;Reading;PA;Pennsylvania;42011;Berks;40,34;-75,9267;278693;3464;shape;FALSE;TRUE;America/New_York;2;1840001185
+Canton;Canton;OH;Ohio;39151;Stark;40,8078;-81,3676;277769;1039;shape;FALSE;TRUE;America/New_York;2;1840000963
+Irvine;Irvine;CA;California;06059;Orange;33,6772;-117,7738;272694;1604;shape;FALSE;TRUE;America/Los_Angeles;2;1840019325
+Eugene;Eugene;OR;Oregon;41039;Lane;44,0564;-123,1174;270013;1489;shape;FALSE;TRUE;America/Los_Angeles;2;1840020007
+Chula Vista;Chula Vista;CA;California;06073;San Diego;32,6281;-117,0144;268779;2090;shape;FALSE;TRUE;America/Los_Angeles;2;1840019350
+St. Petersburg;St. Petersburg;FL;Florida;12103;Pinellas;27,7931;-82,6652;264001;1648;shape;FALSE;TRUE;America/New_York;2;1840015977
+Salem;Salem;OR;Oregon;41047;Marion;44,9233;-123,0244;263571;1359;shape;FALSE;TRUE;America/Los_Angeles;2;1840021224
+Lafayette;Lafayette;LA;Louisiana;22055;Lafayette;30,2082;-92,0325;263551;876;shape;FALSE;TRUE;America/Chicago;2;1840015044
+Laredo;Laredo;TX;Texas;48479;Webb;27,5625;-99,4874;262774;944;shape;FALSE;TRUE;America/Chicago;2;1840021002
+Jersey City;Jersey City;NJ;New Jersey;34017;Hudson;40,7184;-74,0686;262652;6878;shape;FALSE;TRUE;America/New_York;2;1840003600
+Santa Clarita;Santa Clarita;CA;California;06037;Los Angeles;34,4175;-118,4964;260999;1159;shape;FALSE;TRUE;America/Los_Angeles;2;1840021864
+Aguadilla;Aguadilla;PR;Puerto Rico;72005;Aguadilla;18,4382;-67,1537;260331;1681;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035605
+Wilmington;Wilmington;NC;North Carolina;37129;New Hanover;34,2099;-77,8866;260170;917;shape;FALSE;TRUE;America/New_York;2;1840015576
+Lubbock;Lubbock;TX;Texas;48303;Lubbock;33,5657;-101,8879;257835;737;shape;FALSE;TRUE;America/Chicago;2;1840020604
+Chandler;Chandler;AZ;Arizona;04013;Maricopa;33,2825;-111,8514;257076;1520;shape;FALSE;TRUE;America/Phoenix;2;1840019309
+Scottsdale;Scottsdale;AZ;Arizona;04013;Maricopa;33,6872;-111,8651;254995;535;shape;FALSE;TRUE;America/Phoenix;2;1840021940
+Tallahassee;Tallahassee;FL;Florida;12073;Leon;30,4551;-84,2527;254250;737;shape;FALSE;TRUE;America/New_York;2;1840015913
+Montgomery;Montgomery;AL;Alabama;01101;Montgomery;32,3482;-86,2668;253540;480;shape;FALSE;TRUE;America/Chicago;2;1840008353
+Peoria;Peoria;IL;Illinois;17143;Peoria;40,752;-89,6154;253461;906;shape;FALSE;TRUE;America/Chicago;2;1840009373
+Glendale;Glendale;AZ;Arizona;04013;Maricopa;33,5791;-112,2311;250290;1568;shape;FALSE;TRUE;America/Phoenix;2;1840020563
+Columbus;Columbus;GA;Georgia;13215;Muscogee;32,51;-84,8771;249510;348;shape;FALSE;TRUE;America/New_York;2;1840014887
+Anchorage;Anchorage;AK;Alaska;02020;Anchorage;61,1508;-149,1091;248902;66;shape;FALSE;TRUE;America/Anchorage;2;1840023385
+Gilbert;Gilbert;AZ;Arizona;04013;Maricopa;33,31;-111,7463;248349;1398;shape;FALSE;TRUE;America/Phoenix;2;1840021947
+North Las Vegas;North Las Vegas;NV;Nevada;32003;Clark;36,2883;-115,0888;247248;942;shape;FALSE;TRUE;America/Los_Angeles;2;1840020363
+Avondale;Avondale;AZ;Arizona;04013;Maricopa;33,3873;-112,3235;247103;703;shape;FALSE;TRUE;America/Phoenix;2;1840019310
+McKinney;McKinney;TX;Texas;48085;Collin;33,2016;-96,667;244536;1102;shape;FALSE;TRUE;America/Chicago;2;1840020657
+Norfolk;Norfolk;VA;Virginia;51710;Norfolk;36,8945;-76,259;244300;1770;shape;FALSE;TRUE;America/New_York;2;1840003869
+Chesapeake;Chesapeake;VA;Virginia;51550;Chesapeake;36,6778;-76,3023;242647;276;shape;FALSE;TRUE;America/New_York;2;1840003874
+Kennewick;Kennewick;WA;Washington;53005;Benton;46,1978;-119,1732;240876;1162;shape;FALSE;TRUE;America/Los_Angeles;2;1840018481
+Winter Haven;Winter Haven;FL;Florida;12105;Polk;28,0118;-81,7014;240768;510;shape;FALSE;TRUE;America/New_York;2;1840015970
+Irving;Irving;TX;Texas;48113;Dallas;32,8583;-96,9702;240475;1386;shape;FALSE;TRUE;America/Chicago;2;1840019438
+Garland;Garland;TX;Texas;48113;Dallas;32,91;-96,6304;238622;1612;shape;FALSE;TRUE;America/Chicago;2;1840020707
+York;York;PA;Pennsylvania;42133;York;39,9651;-76,7315;236818;3211;shape;FALSE;TRUE;America/New_York;2;1840001472
+Concord;Concord;NC;North Carolina;37025;Cabarrus;35,3933;-80,6369;236626;572;shape;FALSE;TRUE;America/New_York;2;1840014559
+Arlington;Arlington;VA;Virginia;51013;Arlington;38,8786;-77,1011;236434;3511;shape;FALSE;FALSE;America/New_York;2;1840006112
+Atlantic City;Atlantic City;NJ;New Jersey;34001;Atlantic;39,3797;-74,4527;236314;1356;shape;FALSE;TRUE;America/New_York;2;1840003798
+Visalia;Visalia;CA;California;06107;Tulare;36,3276;-119,3269;235184;1354;shape;FALSE;TRUE;America/Los_Angeles;2;1840021639
+Fremont;Fremont;CA;California;06001;Alameda;37,5265;-121,9843;234829;1157;shape;FALSE;TRUE;America/Los_Angeles;2;1840020292
+Hialeah;Hialeah;FL;Florida;12086;Miami-Dade;25,8696;-80,3045;233876;4184;shape;FALSE;TRUE;America/New_York;2;1840015157
+Nashua;Nashua;NH;New Hampshire;33011;Hillsborough;42,7491;-71,491;231409;1115;shape;FALSE;TRUE;America/New_York;2;1840002984
+Killeen;Killeen;TX;Texas;48027;Bell;31,0753;-97,7297;231312;1045;shape;FALSE;TRUE;America/Chicago;2;1840020854
+Gulfport;Gulfport;MS;Mississippi;28047;Harrison;30,4274;-89,0704;230156;497;shape;FALSE;TRUE;America/Chicago;2;1840013947
+Brownsville;Brownsville;TX;Texas;48061;Cameron;25,9975;-97,458;229387;534;shape;FALSE;TRUE;America/Matamoros;2;1840019743
+Evansville;Evansville;IN;Indiana;18163;Vanderburgh;37,9881;-87,5341;227338;965;shape;FALSE;TRUE;America/Chicago;2;1840013730
+Appleton;Appleton;WI;Wisconsin;55087;Outagamie;44,278;-88,3892;225728;1150;shape;FALSE;TRUE;America/Chicago;2;1840002400
+Navarre;Navarre;FL;Florida;12113;Santa Rosa;30,4174;-86,8907;223951;625;shape;FALSE;FALSE;America/Chicago;2;1840027017
+Bel Air South;Bel Air South;MD;Maryland;24025;Harford;39,5022;-76,3113;222834;998;shape;FALSE;TRUE;America/New_York;2;1840073592
+Kalamazoo;Kalamazoo;MI;Michigan;26077;Kalamazoo;42,2749;-85,5882;220561;1189;shape;FALSE;TRUE;America/Detroit;2;1840003185
+Bremerton;Bremerton;WA;Washington;53035;Kitsap;47,5436;-122,7121;219538;560;shape;FALSE;TRUE;America/Los_Angeles;2;1840018410
+Spring Valley;Spring Valley;NV;Nevada;32003;Clark;36,0952;-115,2636;218697;2378;shape;FALSE;FALSE;America/Los_Angeles;2;1840033832
+San Bernardino;San Bernardino;CA;California;06071;San Bernardino;34,1416;-117,2943;216784;1347;shape;FALSE;TRUE;America/Los_Angeles;2;1840021728
+Roanoke;Roanoke;VA;Virginia;51770;Roanoke;37,2785;-79,9581;216388;900;shape;FALSE;TRUE;America/New_York;2;1840003858
+Spartanburg;Spartanburg;SC;South Carolina;45083;Spartanburg;34,9442;-81,9251;216021;720;shape;FALSE;TRUE;America/New_York;2;1840015482
+Tacoma;Tacoma;WA;Washington;53053;Pierce;47,2431;-122,4531;215766;1675;shape;FALSE;TRUE;America/Los_Angeles;2;1840021129
+Enterprise;Enterprise;NV;Nevada;32003;Clark;36,0091;-115,2278;214591;1255;shape;FALSE;FALSE;America/Los_Angeles;2;1840033827
+Green Bay;Green Bay;WI;Wisconsin;55009;Brown;44,5148;-87,9895;214438;887;shape;FALSE;TRUE;America/Chicago;2;1840002344
+Portland;Portland;ME;Maine;23005;Cumberland;43,6773;-70,2715;213986;1195;shape;FALSE;TRUE;America/New_York;2;1840000327
+Thousand Oaks;Thousand Oaks;CA;California;06111;Ventura;34,1914;-118,8756;212806;891;shape;FALSE;TRUE;America/Los_Angeles;2;1840021844
+Fontana;Fontana;CA;California;06071;San Bernardino;34,0968;-117,4599;212704;1906;shape;FALSE;TRUE;America/Los_Angeles;2;1840020402
+Hickory;Hickory;NC;North Carolina;37035;Catawba;35,741;-81,3223;211042;515;shape;FALSE;TRUE;America/New_York;2;1840014524
+Moreno Valley;Moreno Valley;CA;California;06065;Riverside;33,9244;-117,2045;208751;1570;shape;FALSE;TRUE;America/Los_Angeles;2;1840020552
+Deltona;Deltona;FL;Florida;12127;Volusia;28,905;-81,2137;205914;950;shape;FALSE;TRUE;America/New_York;2;1840015072
+Fargo;Fargo;ND;North Dakota;38017;Cass;46,8651;-96,8292;205472;957;shape;FALSE;TRUE;America/Chicago;2;1840000177
+Santa Barbara;Santa Barbara;CA;California;06083;Santa Barbara;34,4285;-119,7202;205215;1799;shape;FALSE;TRUE;America/Los_Angeles;2;1840021829
+College Station;College Station;TX;Texas;48041;Brazos;30,5852;-96,2959;203848;873;shape;FALSE;TRUE;America/Chicago;2;1840019570
+Gainesville;Gainesville;FL;Florida;12001;Alachua;29,6804;-82,3459;203541;816;shape;FALSE;TRUE;America/New_York;2;1840014022
+Amarillo;Amarillo;TX;Texas;48375;Potter;35,1984;-101,8316;202902;751;shape;FALSE;TRUE;America/Chicago;2;1840019156
+Norwich;Norwich;CT;Connecticut;09011;New London;41,5495;-72,0882;201726;538;shape;FALSE;TRUE;America/New_York;2;1840004828
+Olympia;Olympia;WA;Washington;53067;Thurston;47,0417;-122,8959;200836;1108;shape;FALSE;TRUE;America/Los_Angeles;2;1840019865
+Yonkers;Yonkers;NY;New York;36119;Westchester;40,9466;-73,8673;200183;4292;shape;FALSE;TRUE;America/New_York;2;1840003478
+Huntington Beach;Huntington Beach;CA;California;06059;Orange;33,696;-118,0018;199778;2857;shape;FALSE;TRUE;America/Los_Angeles;2;1840020578
+Glendale;Glendale;CA;California;06037;Los Angeles;34,1819;-118,2468;199357;2525;shape;FALSE;TRUE;America/Los_Angeles;2;1840020483
+Aurora;Aurora;IL;Illinois;17089;Kane;41,7638;-88,2902;199326;1709;shape;FALSE;TRUE;America/Chicago;2;1840007034
+Huntington;Huntington;WV;West Virginia;54011;Cabell;38,4109;-82,4345;199133;1098;shape;FALSE;TRUE;America/New_York;2;1840006211
+Sunrise Manor;Sunrise Manor;NV;Nevada;32003;Clark;36,1783;-115,0487;198187;2269;shape;FALSE;FALSE;America/Los_Angeles;2;1840033833
+North Port;North Port;FL;Florida;12115;Sarasota;27,0576;-82,1977;195848;267;shape;FALSE;TRUE;America/New_York;2;1840015120
+Hagerstown;Hagerstown;MD;Maryland;24043;Washington;39,6401;-77,7217;194602;1270;shape;FALSE;TRUE;America/New_York;2;1840005613
+Grand Prairie;Grand Prairie;TX;Texas;48113;Dallas;32,6871;-97,0208;193835;1031;shape;FALSE;TRUE;America/Chicago;2;1840020709
+Overland Park;Overland Park;KS;Kansas;20091;Johnson;38,887;-94,687;193412;993;shape;FALSE;TRUE;America/Chicago;2;1840003834
+Paradise;Paradise;NV;Nevada;32003;Clark;36,0872;-115,1355;193150;1758;shape;FALSE;FALSE;America/Los_Angeles;2;1840033743
+Tempe;Tempe;AZ;Arizona;04013;Maricopa;33,3881;-111,9319;191607;1852;shape;FALSE;TRUE;America/Phoenix;2;1840021942
+Salinas;Salinas;CA;California;06053;Monterey;36,6883;-121,6317;190345;2564;shape;FALSE;TRUE;America/Los_Angeles;2;1840021632
+Erie;Erie;PA;Pennsylvania;42049;Erie;42,1167;-80,0733;189513;1948;shape;FALSE;TRUE;America/New_York;2;1840000478
+Cedar Rapids;Cedar Rapids;IA;Iowa;19113;Linn;41,9662;-91,6783;188618;712;shape;FALSE;TRUE;America/Chicago;2;1840000471
+Waterbury;Waterbury;CT;Connecticut;09009;New Haven;41,5582;-73,0361;188607;1460;shape;FALSE;TRUE;America/New_York;2;1840004851
+Frisco;Frisco;TX;Texas;48085;Collin;33,156;-96,8216;188387;1059;shape;FALSE;TRUE;America/Chicago;2;1840020654
+Waco;Waco;TX;Texas;48309;McLennan;31,5599;-97,1882;186695;599;shape;FALSE;TRUE;America/Chicago;2;1840022140
+Gastonia;Gastonia;NC;North Carolina;37071;Gaston;35,2494;-81,1854;184902;572;shape;FALSE;TRUE;America/New_York;2;1840013468
+Clarksville;Clarksville;TN;Tennessee;47125;Montgomery;36,5692;-87,3413;183798;606;shape;FALSE;TRUE;America/Chicago;2;1840014421
+Vancouver;Vancouver;WA;Washington;53011;Clark;45,6366;-122,5967;182792;1448;shape;FALSE;TRUE;America/Los_Angeles;2;1840021189
+Lorain;Lorain;OH;Ohio;39093;Lorain;41,4409;-82,184;182015;1044;shape;FALSE;TRUE;America/New_York;2;1840000644
+Nampa;Nampa;ID;Idaho;16027;Canyon;43,5844;-116,5638;181887;1116;shape;FALSE;TRUE;America/Boise;2;1840020041
+Fort Lauderdale;Fort Lauderdale;FL;Florida;12011;Broward;26,1412;-80,1464;181818;2029;shape;FALSE;TRUE;America/New_York;2;1840014236
+Hemet;Hemet;CA;California;06065;Riverside;33,7341;-116,9969;180380;1116;shape;FALSE;TRUE;America/Los_Angeles;2;1840020550
+Newport News;Newport News;VA;Virginia;51700;Newport News;37,1051;-76,5185;179582;1005;shape;FALSE;TRUE;America/New_York;2;1840003862
+Ontario;Ontario;CA;California;06071;San Bernardino;34,0393;-117,6064;178194;1376;shape;FALSE;TRUE;America/Los_Angeles;2;1840020410
+Rancho Cucamonga;Rancho Cucamonga;CA;California;06071;San Bernardino;34,1247;-117,5667;178060;1714;shape;FALSE;TRUE;America/Los_Angeles;2;1840020411
+Vallejo;Vallejo;CA;California;06095;Solano;38,1125;-122,2342;177255;1539;shape;FALSE;TRUE;America/Los_Angeles;2;1840021499
+Oceanside;Oceanside;CA;California;06073;San Diego;33,2247;-117,3083;175694;1643;shape;FALSE;TRUE;America/Los_Angeles;2;1840020623
+Vero Beach South;Vero Beach South;FL;Florida;12061;Indian River;27,6132;-80,4163;174748;939;shape;FALSE;TRUE;America/New_York;2;1840073853
+Ocala;Ocala;FL;Florida;12083;Marion;29,178;-82,1511;174618;490;shape;FALSE;TRUE;America/New_York;2;1840015067
+Sioux Falls;Sioux Falls;SD;South Dakota;46099;Minnehaha;43,5396;-96,7311;173921;883;shape;FALSE;TRUE;America/Chicago;2;1840002648
+Danbury;Danbury;CT;Connecticut;09001;Fairfield;41,4015;-73,4709;173508;777;shape;FALSE;TRUE;America/New_York;2;1840004837
+Elk Grove;Elk Grove;CA;California;06067;Sacramento;38,4161;-121,3842;173370;1594;shape;FALSE;TRUE;America/Los_Angeles;2;1840020245
+High Point;High Point;NC;North Carolina;37081;Guilford;35,991;-79,9937;173324;770;shape;FALSE;TRUE;America/New_York;2;1840014479
+Garden Grove;Garden Grove;CA;California;06059;Orange;33,7787;-117,9601;172800;3715;shape;FALSE;TRUE;America/Los_Angeles;2;1840020577
+Peoria;Peoria;AZ;Arizona;04013;Maricopa;33,7843;-112,2989;172109;377;shape;FALSE;TRUE;America/Phoenix;2;1840020567
+Pembroke Pines;Pembroke Pines;FL;Florida;12011;Broward;26,0128;-80,3382;171979;2031;shape;FALSE;TRUE;America/New_York;2;1840015141
+Medford;Medford;OR;Oregon;41029;Jackson;42,3372;-122,854;171660;1224;shape;FALSE;TRUE;America/Los_Angeles;2;1840020076
+Murfreesboro;Murfreesboro;TN;Tennessee;47149;Rutherford;35,849;-86,4121;169243;869;shape;FALSE;TRUE;America/Chicago;2;1840014495
+Cary;Cary;NC;North Carolina;37183;Wake;35,7819;-78,8195;169177;1102;shape;FALSE;TRUE;America/New_York;2;1840016196
+Lafayette;Lafayette;IN;Indiana;18157;Tippecanoe;40,3991;-86,8593;168164;953;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840008354
+Corona;Corona;CA;California;06065;Riverside;33,8616;-117,5649;168112;1625;shape;FALSE;TRUE;America/Los_Angeles;2;1840019305
+Santa Cruz;Santa Cruz;CA;California;06087;Santa Cruz;36,9789;-122,0346;165933;1970;shape;FALSE;TRUE;America/Los_Angeles;2;1840021579
+Spring Hill;Spring Hill;FL;Florida;12053;Hernando;28,4798;-82,53;165526;732;shape;FALSE;FALSE;America/New_York;2;1840014105
+Muskegon;Muskegon;MI;Michigan;26121;Muskegon;43,2281;-86,2562;164136;1018;shape;FALSE;TRUE;America/Detroit;2;1840002870
+Manchester;Manchester;NH;New Hampshire;33011;Hillsborough;42,9848;-71,4447;163488;1312;shape;FALSE;TRUE;America/New_York;2;1840002983
+Marysville;Marysville;WA;Washington;53061;Snohomish;48,0809;-122,1561;162700;1295;shape;FALSE;TRUE;America/Los_Angeles;2;1840019789
+Springfield;Springfield;IL;Illinois;17167;Sangamon;39,7709;-89,654;162348;726;shape;FALSE;TRUE;America/Chicago;2;1840009517
+Frederick;Frederick;MD;Maryland;24021;Frederick;39,4337;-77,4141;158866;1158;shape;FALSE;TRUE;America/New_York;2;1840005710
+Hayward;Hayward;CA;California;06001;Alameda;37,6328;-122,0766;158817;1338;shape;FALSE;TRUE;America/Los_Angeles;2;1840020293
+Alexandria;Alexandria;VA;Virginia;51510;Alexandria;38,8185;-77,0861;158309;4092;shape;FALSE;TRUE;America/New_York;2;1840003837
+Bayamón;Bayamon;PR;Puerto Rico;72021;Bayamón;18,3794;-66,1635;157517;2250;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035622
+Port Arthur;Port Arthur;TX;Texas;48245;Jefferson;29,8554;-93,9264;156988;273;shape;FALSE;TRUE;America/Chicago;2;1840020919
+Lakewood;Lakewood;CO;Colorado;08059;Jefferson;39,6977;-105,1172;155733;1383;shape;FALSE;TRUE;America/Denver;2;1840020198
+Fredericksburg;Fredericksburg;VA;Virginia;51630;Fredericksburg;38,2992;-77,4872;155414;1073;shape;FALSE;TRUE;America/New_York;2;1840003845
+Leesburg;Leesburg;FL;Florida;12069;Lake;28,7672;-81,8962;154301;232;shape;FALSE;TRUE;America/New_York;2;1840015083
+Hollywood;Hollywood;FL;Florida;12011;Broward;26,0293;-80,1679;153834;2177;shape;FALSE;TRUE;America/New_York;2;1840015144
+Palmdale;Palmdale;CA;California;06037;Los Angeles;34,5944;-118,1057;153240;557;shape;FALSE;TRUE;America/Los_Angeles;2;1840020502
+Macon;Macon;GA;Georgia;13021;Bibb;32,8065;-83,6974;153026;236;shape;FALSE;TRUE;America/New_York;2;1840043455
+Kansas City;Kansas City;KS;Kansas;20209;Wyandotte;39,1235;-94,7443;153014;473;shape;FALSE;TRUE;America/Chicago;2;1840001626
+Champaign;Champaign;IL;Illinois;17019;Champaign;40,1142;-88,2737;152940;1486;shape;FALSE;TRUE;America/Chicago;2;1840007239
+Sunnyvale;Sunnyvale;CA;California;06085;Santa Clara;37,3836;-122,0255;152569;2670;shape;FALSE;TRUE;America/Los_Angeles;2;1840021573
+Pasadena;Pasadena;TX;Texas;48201;Harris;29,6575;-95,1498;152537;1348;shape;FALSE;TRUE;America/Chicago;2;1840020930
+Pomona;Pomona;CA;California;06037;Los Angeles;34,0585;-117,7626;151124;2538;shape;FALSE;TRUE;America/Los_Angeles;2;1840020507
+Escondido;Escondido;CA;California;06073;San Diego;33,1348;-117,0723;150396;1554;shape;FALSE;TRUE;America/Los_Angeles;2;1840020620
+Mauldin;Mauldin;SC;South Carolina;45045;Greenville;34,7821;-82,3032;149687;842;shape;FALSE;TRUE;America/New_York;2;1840015476
+New Bedford;New Bedford;MA;Massachusetts;25005;Bristol;41,6697;-70,9428;149570;1840;shape;FALSE;TRUE;America/New_York;2;1840003219
+Panama City;Panama City;FL;Florida;12005;Bay;30,1995;-85,6003;149366;395;shape;FALSE;TRUE;America/Chicago;2;1840015034
+Tuscaloosa;Tuscaloosa;AL;Alabama;01125;Tuscaloosa;33,2348;-87,5268;149302;627;shape;FALSE;TRUE;America/Chicago;2;1840005563
+Warner Robins;Warner Robins;GA;Georgia;13153;Houston;32,5961;-83,6527;148171;786;shape;FALSE;TRUE;America/New_York;2;1840015800
+Naperville;Naperville;IL;Illinois;17043;DuPage;41,748;-88,1659;147734;1459;shape;FALSE;TRUE;America/Chicago;2;1840008143
+Merced;Merced;CA;California;06047;Merced;37,3057;-120,4779;147690;1396;shape;FALSE;TRUE;America/Los_Angeles;2;1840020313
+Elkhart;Elkhart;IN;Indiana;18039;Elkhart;41,6916;-85,9627;147679;739;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840008187
+Joliet;Joliet;IL;Illinois;17197;Will;41,5188;-88,1499;147323;881;shape;FALSE;TRUE;America/Chicago;2;1840008192
+Binghamton;Binghamton;NY;New York;36007;Broome;42,1014;-75,9093;146870;1651;shape;FALSE;TRUE;America/New_York;2;1840000460
+Houma;Houma;LA;Louisiana;22109;Terrebonne;29,58;-90,7059;146665;882;shape;FALSE;TRUE;America/Chicago;2;1840015063
+Bellevue;Bellevue;WA;Washington;53033;King;47,5951;-122,1535;146145;1686;shape;FALSE;TRUE;America/Los_Angeles;2;1840018417
+Topeka;Topeka;KS;Kansas;20177;Shawnee;39,0346;-95,6955;145717;790;shape;FALSE;TRUE;America/Chicago;2;1840001621
+Paterson;Paterson;NJ;New Jersey;34031;Passaic;40,9147;-74,1624;145484;6676;shape;FALSE;TRUE;America/New_York;2;1840000838
+Lake Charles;Lake Charles;LA;Louisiana;22019;Calcasieu;30,201;-93,2111;145029;658;shape;FALSE;TRUE;America/Chicago;2;1840015039
+Torrance;Torrance;CA;California;06037;Los Angeles;33,8346;-118,3416;144430;2717;shape;FALSE;TRUE;America/Los_Angeles;2;1840021873
+Thornton;Thornton;CO;Colorado;08001;Adams;39,9197;-104,9438;144186;1549;shape;FALSE;TRUE;America/Denver;2;1840021422
+Tyler;Tyler;TX;Texas;48423;Smith;32,3184;-95,3062;143616;711;shape;FALSE;TRUE;America/Chicago;2;1840022076
+Athens;Athens;GA;Georgia;13059;Clarke;33,9508;-83,3689;143081;414;shape;FALSE;TRUE;America/New_York;2;1840029463
+Beaumont;Beaumont;TX;Texas;48245;Jefferson;30,0849;-94,1451;142759;549;shape;FALSE;TRUE;America/Chicago;2;1840019612
+Pueblo;Pueblo;CO;Colorado;08101;Pueblo;38,2701;-104,6114;142726;779;shape;FALSE;TRUE;America/Denver;2;1840020255
+Odessa;Odessa;TX;Texas;48135;Ector;31,8801;-102,3448;142581;926;shape;FALSE;TRUE;America/Chicago;2;1840020794
+Mesquite;Mesquite;TX;Texas;48113;Dallas;32,7602;-96,5865;142429;1134;shape;FALSE;TRUE;America/Chicago;2;1840020713
+Fairfield;Fairfield;CA;California;06095;Solano;38,2583;-122,0335;142042;1081;shape;FALSE;TRUE;America/Los_Angeles;2;1840020253
+Pasadena;Pasadena;CA;California;06037;Los Angeles;34,1597;-118,139;142017;2388;shape;FALSE;TRUE;America/Los_Angeles;2;1840020505
+Charleston;Charleston;WV;West Virginia;54039;Kanawha;38,3484;-81,6322;141640;579;shape;FALSE;TRUE;America/New_York;2;1840006196
+Fullerton;Fullerton;CA;California;06059;Orange;33,8841;-117,9279;141061;2429;shape;FALSE;TRUE;America/Los_Angeles;2;1840020576
+Miramar;Miramar;FL;Florida;12011;Broward;25,9773;-80,3351;140479;1879;shape;FALSE;TRUE;America/New_York;2;1840015137
+Midland;Midland;TX;Texas;48329;Midland;32,0243;-102,1147;140111;722;shape;FALSE;TRUE;America/Chicago;2;1840020792
+Gainesville;Gainesville;GA;Georgia;13139;Hall;34,2902;-83,8294;139507;479;shape;FALSE;TRUE;America/New_York;2;1840013612
+Orange;Orange;CA;California;06059;Orange;33,8038;-117,8218;139322;2095;shape;FALSE;TRUE;America/Los_Angeles;2;1840020582
+Olathe;Olathe;KS;Kansas;20091;Johnson;38,8833;-94,82;139216;868;shape;FALSE;TRUE;America/Chicago;2;1840003833
+Santa Maria;Santa Maria;CA;California;06083;Santa Barbara;34,9333;-120,4431;139072;1786;shape;FALSE;TRUE;America/Los_Angeles;2;1840021830
+Surprise;Surprise;AZ;Arizona;04013;Maricopa;33,6815;-112,4515;139007;486;shape;FALSE;TRUE;America/Phoenix;2;1840021941
+Roseville;Roseville;CA;California;06061;Placer;38,7703;-121,3196;138860;1216;shape;FALSE;TRUE;America/Los_Angeles;2;1840020233
+Metairie;Metairie;LA;Louisiana;22051;Jefferson;29,9977;-90,178;138511;2299;shape;FALSE;FALSE;America/Chicago;2;1840013994
+Yuma;Yuma;AZ;Arizona;04027;Yuma;32,5995;-114,5491;137612;311;shape;FALSE;TRUE;America/Phoenix;2;1840021998
+Carrollton;Carrollton;TX;Texas;48113;Dallas;32,989;-96,8999;137319;1446;shape;FALSE;TRUE;America/Chicago;2;1840019436
+Burlington;Burlington;NC;North Carolina;37001;Alamance;36,076;-79,4685;137096;699;shape;FALSE;TRUE;America/New_York;2;1840013362
+West Valley City;West Valley City;UT;Utah;49035;Salt Lake;40,6886;-112,0123;135610;1461;shape;FALSE;TRUE;America/Denver;2;1840021389
+Hampton;Hampton;VA;Virginia;51650;Hampton;37,0551;-76,363;135169;1014;shape;FALSE;TRUE;America/New_York;2;1840003866
+Racine;Racine;WI;Wisconsin;55101;Racine;42,7274;-87,8135;134679;1918;shape;FALSE;TRUE;America/Chicago;2;1840002493
+Greeley;Greeley;CO;Colorado;08123;Weld;40,4152;-104,7706;134417;847;shape;FALSE;TRUE;America/Denver;2;1840020149
+Harlingen;Harlingen;TX;Texas;48061;Cameron;26,1916;-97,6977;134306;625;shape;FALSE;TRUE;America/Chicago;2;1840021036
+Carolina;Carolina;PR;Puerto Rico;72031;Carolina;18,4054;-65,9792;134207;2502;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035637
+Warren;Warren;MI;Michigan;26099;Macomb;42,4934;-83,027;134188;1507;shape;FALSE;TRUE;America/Detroit;2;1840002418
+Grand Junction;Grand Junction;CO;Colorado;08077;Mesa;39,0877;-108,5673;134074;606;shape;FALSE;TRUE;America/Denver;2;1840020230
+Coral Springs;Coral Springs;FL;Florida;12011;Broward;26,2702;-80,2591;133370;2252;shape;FALSE;TRUE;America/New_York;2;1840015134
+Columbia;Columbia;MO;Missouri;29019;Boone;38,9472;-92,3268;132806;711;shape;FALSE;TRUE;America/Chicago;2;1840007391
+Bloomington;Bloomington;IL;Illinois;17113;McLean;40,4757;-88,9703;132710;1106;shape;FALSE;TRUE;America/Chicago;2;1840007207
+Sterling Heights;Sterling Heights;MI;Michigan;26099;Macomb;42,5809;-83,0305;132296;1401;shape;FALSE;TRUE;America/Detroit;2;1840003094
+Stamford;Stamford;CT;Connecticut;09001;Fairfield;41,1039;-73,5585;130057;1334;shape;FALSE;TRUE;America/New_York;2;1840004841
+Kent;Kent;WA;Washington;53033;King;47,3887;-122,2128;130038;1487;shape;FALSE;TRUE;America/Los_Angeles;2;1840018424
+Bellingham;Bellingham;WA;Washington;53073;Whatcom;48,7548;-122,469;129653;1246;shape;FALSE;TRUE;America/Los_Angeles;2;1840018346
+Las Cruces;Las Cruces;NM;New Mexico;35013;Doña Ana;32,3265;-106,7893;129538;516;shape;FALSE;TRUE;America/Denver;2;1840020683
+Greenville;Greenville;NC;North Carolina;37147;Pitt;35,5943;-77,376;129374;979;shape;FALSE;TRUE;America/New_York;2;1840013407
+Round Rock;Round Rock;TX;Texas;48491;Williamson;30,527;-97,6642;128812;1321;shape;FALSE;TRUE;America/Chicago;2;1840020879
+Elizabeth;Elizabeth;NJ;New Jersey;34039;Union;40,6658;-74,1913;128484;4027;shape;FALSE;TRUE;America/New_York;2;1840003613
+South Lyon;South Lyon;MI;Michigan;26125;Oakland;42,4614;-83,6526;128071;1219;shape;FALSE;TRUE;America/Detroit;2;1840002432
+Simi Valley;Simi Valley;CA;California;06111;Ventura;34,2663;-118,749;126782;1168;shape;FALSE;TRUE;America/Los_Angeles;2;1840021843
+Santa Clara;Santa Clara;CA;California;06085;Santa Clara;37,3646;-121,968;126723;2677;shape;FALSE;TRUE;America/Los_Angeles;2;1840021571
+Yakima;Yakima;WA;Washington;53077;Yakima;46,5923;-120,5496;126487;1302;shape;FALSE;TRUE;America/Los_Angeles;2;1840021154
+Johnson City;Johnson City;TN;Tennessee;47179;Washington;36,3406;-82,3806;126265;596;shape;FALSE;TRUE;America/New_York;2;1840014462
+Dover;Dover;DE;Delaware;10001;Kent;39,161;-75,5202;125931;617;shape;FALSE;TRUE;America/New_York;2;1840005810
+Pearland;Pearland;TX;Texas;48039;Brazoria;29,5581;-95,3218;125817;998;shape;FALSE;TRUE;America/Chicago;2;1840020979
+Lynchburg;Lynchburg;VA;Virginia;51680;Lynchburg;37,4003;-79,1909;125710;638;shape;FALSE;TRUE;America/New_York;2;1840003855
+Fort Smith;Fort Smith;AR;Arkansas;05131;Sebastian;35,3495;-94,3695;125306;529;shape;FALSE;TRUE;America/Chicago;2;1840013456
+Yuba City;Yuba City;CA;California;06101;Sutter;39,1357;-121,6383;124815;1718;shape;FALSE;TRUE;America/Los_Angeles;2;1840021463
+Lehigh Acres;Lehigh Acres;FL;Florida;12071;Lee;26,612;-81,6388;124523;518;shape;FALSE;FALSE;America/New_York;2;1840014220
+Kenosha;Kenosha;WI;Wisconsin;55059;Kenosha;42,5865;-87,8773;123865;1359;shape;FALSE;TRUE;America/Chicago;2;1840003160
+Arecibo;Arecibo;PR;Puerto Rico;72013;Arecibo;18,4491;-66,7387;123499;970;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023566
+Berkeley;Berkeley;CA;California;06001;Alameda;37,8722;-122,276;123065;4554;shape;FALSE;TRUE;America/Los_Angeles;2;1840018914
+Boulder;Boulder;CO;Colorado;08013;Boulder;40,0248;-105,2524;122549;1595;shape;FALSE;TRUE;America/Denver;2;1840018774
+Texas City;Texas City;TX;Texas;48167;Galveston;29,4154;-94,9682;122017;288;shape;FALSE;TRUE;America/Chicago;2;1840022234
+Iowa City;Iowa City;IA;Iowa;19103;Johnson;41,6559;-91,5303;120928;1144;shape;FALSE;TRUE;America/Chicago;2;1840000532
+Waldorf;Waldorf;MD;Maryland;24017;Charles;38,6085;-76,9194;120707;827;shape;FALSE;FALSE;America/New_York;2;1840006175
+East Los Angeles;East Los Angeles;CA;California;06037;Los Angeles;34,0326;-118,1691;120504;6242;shape;FALSE;FALSE;America/Los_Angeles;2;1840019206
+Redding;Redding;CA;California;06089;Shasta;40,5698;-122,365;120370;595;shape;FALSE;TRUE;America/Los_Angeles;2;1840020141
+Arvada;Arvada;CO;Colorado;08059;Jefferson;39,832;-105,151;120229;1193;shape;FALSE;TRUE;America/Denver;2;1840018788
+The Villages;The Villages;FL;Florida;12119;Sumter;28,9034;-81,9887;119296;963;shape;FALSE;FALSE;America/New_York;2;1840014065
+Saginaw;Saginaw;MI;Michigan;26145;Saginaw;43,4199;-83,9501;118845;1093;shape;FALSE;TRUE;America/Detroit;2;1840002813
+Ponce;Ponce;PR;Puerto Rico;72113;Ponce;18,0127;-66,6212;118641;1497;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023669
+Richardson;Richardson;TX;Texas;48113;Dallas;32,9716;-96,7093;118583;1602;shape;FALSE;TRUE;America/Chicago;2;1840020710
+Sugar Land;Sugar Land;TX;Texas;48157;Fort Bend;29,5935;-95,6358;118563;1131;shape;FALSE;TRUE;America/Chicago;2;1840022217
+Leominster;Leominster;MA;Massachusetts;25027;Worcester;42,5209;-71,7717;118190;557;shape;FALSE;TRUE;America/New_York;2;1840000437
+St. Cloud;St. Cloud;MN;Minnesota;27145;Stearns;45,534;-94,1718;118139;660;shape;FALSE;TRUE;America/Chicago;2;1840008881
+Duluth;Duluth;MN;Minnesota;27137;St. Louis;46,7756;-92,1393;117934;462;shape;FALSE;TRUE;America/Chicago;2;1840007685
+Cambridge;Cambridge;MA;Massachusetts;25017;Middlesex;42,3759;-71,1185;117822;7115;shape;FALSE;TRUE;America/New_York;2;1840000429
+Monroe;Monroe;LA;Louisiana;22073;Ouachita;32,5185;-92,0774;117197;623;shape;FALSE;TRUE;America/Chicago;2;1840014881
+Independence;Independence;MO;Missouri;29095;Jackson;39,0871;-94,3501;117139;579;shape;FALSE;TRUE;America/Chicago;2;1840008534
+Rochester;Rochester;MN;Minnesota;27109;Olmsted;44,0154;-92,478;116962;814;shape;FALSE;TRUE;America/Chicago;2;1840008987
+Rock Hill;Rock Hill;SC;South Carolina;45091;York;34,9415;-81,0241;116746;736;shape;FALSE;TRUE;America/New_York;2;1840014618
+Bloomington;Bloomington;IN;Indiana;18105;Monroe;39,1637;-86,5257;116615;1407;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840007376
+Billings;Billings;MT;Montana;30111;Yellowstone;45,7891;-108,5526;116593;945;shape;FALSE;TRUE;America/Denver;2;1840018496
+Seaside;Seaside;CA;California;06053;Monterey;36,6224;-121,8199;116189;1473;shape;FALSE;TRUE;America/Los_Angeles;2;1840021634
+Clearwater;Clearwater;FL;Florida;12103;Pinellas;27,979;-82,7623;115975;1716;shape;FALSE;TRUE;America/New_York;2;1840015110
+Brandon;Brandon;FL;Florida;12057;Hillsborough;27,9367;-82,3;115909;1350;shape;FALSE;FALSE;America/New_York;2;1840014151
+Burlington;Burlington;VT;Vermont;50007;Chittenden;44,4876;-73,2316;115682;1596;shape;FALSE;TRUE;America/New_York;2;1840002310
+Pottstown;Pottstown;PA;Pennsylvania;42091;Montgomery;40,2508;-75,6445;115413;1801;shape;FALSE;TRUE;America/New_York;2;1840001373
+Waterloo;Waterloo;IA;Iowa;19013;Black Hawk;42,4918;-92,3522;115266;424;shape;FALSE;TRUE;America/Chicago;2;1840000440
+West Jordan;West Jordan;UT;Utah;49035;Salt Lake;40,6024;-112,0008;115181;1375;shape;FALSE;TRUE;America/Denver;2;1840021388
+Coeur d'Alene;Coeur d'Alene;ID;Idaho;16055;Kootenai;47,704;-116,7936;114880;1234;shape;FALSE;TRUE;America/Los_Angeles;2;1840018402
+Westminster;Westminster;CO;Colorado;08001;Adams;39,8837;-105,0624;114832;1403;shape;FALSE;TRUE;America/Denver;2;1840021423
+St. George;St. George;UT;Utah;49053;Washington;37,0758;-113,5752;114612;429;shape;FALSE;TRUE;America/Denver;2;1840021559
+Gilroy;Gilroy;CA;California;06085;Santa Clara;37,0046;-121,5854;114461;1289;shape;FALSE;TRUE;America/Los_Angeles;2;1840020327
+Carlsbad;Carlsbad;CA;California;06073;San Diego;33,1246;-117,2834;114411;1169;shape;FALSE;TRUE;America/Los_Angeles;2;1840019352
+El Monte;El Monte;CA;California;06037;Los Angeles;34,0739;-118,0291;113917;4602;shape;FALSE;TRUE;America/Los_Angeles;2;1840020480
+North Charleston;North Charleston;SC;South Carolina;45019;Charleston;32,9067;-80,0722;113880;566;shape;FALSE;TRUE;America/New_York;2;1840015164
+Chico;Chico;CA;California;06007;Butte;39,7578;-121,8161;113201;1116;shape;FALSE;TRUE;America/Los_Angeles;2;1840018778
+Temecula;Temecula;CA;California;06065;Riverside;33,4928;-117,1315;113117;1171;shape;FALSE;TRUE;America/Los_Angeles;2;1840021937
+Costa Mesa;Costa Mesa;CA;California;06059;Orange;33,6667;-117,9135;112958;2759;shape;FALSE;TRUE;America/Los_Angeles;2;1840019326
+Utica;Utica;NY;New York;36065;Oneida;43,0962;-75,2261;112948;1384;shape;FALSE;TRUE;America/New_York;2;1840002746
+Clovis;Clovis;CA;California;06019;Fresno;36,8278;-119,683;112663;1711;shape;FALSE;TRUE;America/Los_Angeles;2;1840018944
+Norman;Norman;OK;Oklahoma;40027;Cleveland;35,2335;-97,3471;112576;267;shape;FALSE;TRUE;America/Chicago;2;1840020451
+Elgin;Elgin;IL;Illinois;17089;Kane;42,0383;-88,324;112062;1137;shape;FALSE;TRUE;America/Chicago;2;1840008134
+Centennial;Centennial;CO;Colorado;08005;Arapahoe;39,5926;-104,8673;111331;1446;shape;FALSE;TRUE;America/Denver;2;1840018792
+Lowell;Lowell;MA;Massachusetts;25017;Middlesex;42,6389;-71,3217;111311;3157;shape;FALSE;TRUE;America/New_York;2;1840000426
+Downey;Downey;CA;California;06037;Los Angeles;33,9379;-118,1311;111263;3462;shape;FALSE;TRUE;America/Los_Angeles;2;1840019245
+Pompano Beach;Pompano Beach;FL;Florida;12011;Broward;26,2428;-80,1312;111202;1787;shape;FALSE;TRUE;America/New_York;2;1840015143
+West Palm Beach;West Palm Beach;FL;Florida;12099;Palm Beach;26,7469;-80,132;111006;796;shape;FALSE;TRUE;America/New_York;2;1840015993
+Abilene;Abilene;TX;Texas;48441;Taylor;32,4543;-99,7384;110993;451;shape;FALSE;TRUE;America/Chicago;2;1840019476
+Everett;Everett;WA;Washington;53061;Snohomish;47,9525;-122,1669;110840;1289;shape;FALSE;TRUE;America/Los_Angeles;2;1840019785
+Miami Gardens;Miami Gardens;FL;Florida;12086;Miami-Dade;25,9433;-80,2426;110767;2346;shape;FALSE;TRUE;America/New_York;2;1840015151
+Gresham;Gresham;OR;Oregon;41051;Multnomah;45,5021;-122,4413;110456;1817;shape;FALSE;TRUE;America/Los_Angeles;2;1840019939
+El Centro;El Centro;CA;California;06025;Imperial;32,7865;-115,5595;110434;1430;shape;FALSE;TRUE;America/Los_Angeles;2;1840020630
+Richmond;Richmond;CA;California;06013;Contra Costa;37,9477;-122,3389;110051;1413;shape;FALSE;TRUE;America/Los_Angeles;2;1840020277
+Inglewood;Inglewood;CA;California;06037;Los Angeles;33,9566;-118,3444;109309;4654;shape;FALSE;TRUE;America/Los_Angeles;2;1840019237
+Salisbury;Salisbury;MD;Maryland;24045;Wicomico;38,3756;-75,5865;108982;920;shape;FALSE;TRUE;America/New_York;2;1840006219
+Broken Arrow;Broken Arrow;OK;Oklahoma;40143;Tulsa;36,038;-95,7806;108875;667;shape;FALSE;TRUE;America/Chicago;2;1840019059
+San Buenaventura;San Buenaventura;CA;California;06111;Ventura;34,2741;-119,2314;108467;1913;shape;FALSE;TRUE;America/Los_Angeles;2;1840037414
+Sandy Springs;Sandy Springs;GA;Georgia;13121;Fulton;33,9366;-84,3703;108180;1109;shape;FALSE;TRUE;America/New_York;2;1840015609
+Hillsboro;Hillsboro;OR;Oregon;41067;Washington;45,5273;-122,936;108026;1624;shape;FALSE;TRUE;America/Los_Angeles;2;1840019932
+Sioux City;Sioux City;IA;Iowa;19193;Woodbury;42,4959;-96,3901;107932;545;shape;FALSE;TRUE;America/Chicago;2;1840000447
+Jacksonville;Jacksonville;NC;North Carolina;37133;Onslow;34,7289;-77,3941;107890;589;shape;FALSE;TRUE;America/New_York;2;1840014653
+Meridian;Meridian;ID;Idaho;16001;Ada;43,6116;-116,3977;107787;1186;shape;FALSE;TRUE;America/Boise;2;1840020046
+Lewisville;Lewisville;TX;Texas;48121;Denton;33,0454;-96,9815;107740;1124;shape;FALSE;TRUE;America/Chicago;2;1840020639
+Bend;Bend;OR;Oregon;41017;Deschutes;44,0563;-121,3095;107460;1114;shape;FALSE;TRUE;America/Los_Angeles;2;1840018618
+Daly City;Daly City;CA;California;06081;San Mateo;37,6862;-122,4685;107197;5418;shape;FALSE;TRUE;America/Los_Angeles;2;1840018926
+Highlands Ranch;Highlands Ranch;CO;Colorado;08035;Douglas;39,5419;-104,9708;107017;1702;shape;FALSE;FALSE;America/Denver;2;1840028579
+Jurupa Valley;Jurupa Valley;CA;California;06065;Riverside;34,001;-117,4706;106646;958;shape;FALSE;TRUE;America/Los_Angeles;2;1840043419
+Temple;Temple;TX;Texas;48027;Bell;31,1068;-97,3891;106332;415;shape;FALSE;TRUE;America/Chicago;2;1840022154
+Logan;Logan;UT;Utah;49005;Cache;41,7399;-111,8422;106319;1109;shape;FALSE;TRUE;America/Denver;2;1840020108
+Kailua;Kailua;HI;Hawaii;15003;Honolulu;21,392;-157,7396;106260;1882;shape;FALSE;FALSE;Pacific/Honolulu;2;1840023244
+West Covina;West Covina;CA;California;06037;Los Angeles;34,0555;-117,9113;105808;2547;shape;FALSE;TRUE;America/Los_Angeles;2;1840021876
+Davie;Davie;FL;Florida;12011;Broward;26,0789;-80,287;105594;1168;shape;FALSE;TRUE;America/New_York;2;1840017272
+Columbia;Columbia;MD;Maryland;24027;Howard;39,2004;-76,859;105412;1274;shape;FALSE;FALSE;America/New_York;2;1840005803
+League City;League City;TX;Texas;48167;Galveston;29,4874;-95,1087;105410;793;shape;FALSE;TRUE;America/Chicago;2;1840020973
+Mandeville;Mandeville;LA;Louisiana;22103;St. Tammany;30,3751;-90,0904;105097;681;shape;FALSE;TRUE;America/Chicago;2;1840015909
+San Tan Valley;San Tan Valley;AZ;Arizona;04021;Pinal;33,1786;-111,5629;104936;534;shape;FALSE;FALSE;America/Phoenix;2;1840027990
+Turlock;Turlock;CA;California;06099;Stanislaus;37,5053;-120,8588;104719;1660;shape;FALSE;TRUE;America/Los_Angeles;2;1840021533
+Norwalk;Norwalk;CA;California;06037;Los Angeles;33,9069;-118,0829;104524;4157;shape;FALSE;TRUE;America/Los_Angeles;2;1840020501
+Allen;Allen;TX;Texas;48085;Collin;33,1088;-96,6735;104040;1521;shape;FALSE;TRUE;America/Chicago;2;1840019396
+San Germán;San German;PR;Puerto Rico;72125;San Germán;18,0827;-67,046;103747;1270;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023526
+San Mateo;San Mateo;CA;California;06081;San Mateo;37,5522;-122,3121;103619;3297;shape;FALSE;TRUE;America/Los_Angeles;2;1840021551
+Rialto;Rialto;CA;California;06071;San Bernardino;34,1175;-117,3892;103549;1659;shape;FALSE;TRUE;America/Los_Angeles;2;1840020407
+Burbank;Burbank;CA;California;06037;Los Angeles;34,1879;-118,3235;103411;2305;shape;FALSE;TRUE;America/Los_Angeles;2;1840019233
+El Cajon;El Cajon;CA;California;06073;San Diego;32,8017;-116,9604;103249;2747;shape;FALSE;TRUE;America/Los_Angeles;2;1840020618
+Eau Claire;Eau Claire;WI;Wisconsin;55035;Eau Claire;44,8197;-91,4948;103197;807;shape;FALSE;TRUE;America/Chicago;2;1840002296
+Sparks;Sparks;NV;Nevada;32031;Washoe;39,5736;-119,7161;102895;1090;shape;FALSE;TRUE;America/Los_Angeles;2;1840021337
+Charlottesville;Charlottesville;VA;Virginia;51540;Charlottesville;38,0375;-78,4855;102164;1779;shape;FALSE;TRUE;America/New_York;2;1840001678
+Renton;Renton;WA;Washington;53033;King;47,4784;-122,1918;101871;1675;shape;FALSE;TRUE;America/Los_Angeles;2;1840019827
+Idaho Falls;Idaho Falls;ID;Idaho;16019;Bonneville;43,4871;-112,0362;101326;1004;shape;FALSE;TRUE;America/Boise;2;1840018644
+Vista;Vista;CA;California;06073;San Diego;33,1896;-117,2386;100659;2073;shape;FALSE;TRUE;America/Los_Angeles;2;1840021994
+Holland;Holland;MI;Michigan;26139;Ottawa;42,7677;-86,0984;100202;771;shape;FALSE;TRUE;America/Detroit;2;1840002996
+Longmont;Longmont;CO;Colorado;08013;Boulder;40,1686;-105,1005;100146;1286;shape;FALSE;TRUE;America/Denver;2;1840020178
+Wichita Falls;Wichita Falls;TX;Texas;48485;Wichita;33,9072;-98,5291;100005;561;shape;FALSE;TRUE;America/Chicago;2;1840021923
+Orem;Orem;UT;Utah;49049;Utah;40,2981;-111,6994;97883;2030;shape;FALSE;TRUE;America/Denver;2;1840020171
+Compton;Compton;CA;California;06037;Los Angeles;33,893;-118,2274;95804;3688;shape;FALSE;TRUE;America/Los_Angeles;2;1840019240
+Santa Fe;Santa Fe;NM;New Mexico;35049;Santa Fe;35,6619;-105,9819;95498;624;shape;FALSE;TRUE;America/Denver;2;1840021707
+South Gate;South Gate;CA;California;06037;Los Angeles;33,9447;-118,1926;94905;5063;shape;FALSE;TRUE;America/Los_Angeles;2;1840021870
+Sunrise;Sunrise;FL;Florida;12011;Broward;26,1547;-80,2997;94657;2256;shape;FALSE;TRUE;America/New_York;2;1840016000
+Quincy;Quincy;MA;Massachusetts;25021;Norfolk;42,2506;-71,0187;94389;2199;shape;FALSE;TRUE;America/New_York;2;1840000461
+Lynn;Lynn;MA;Massachusetts;25009;Essex;42,4781;-70,9664;94201;3386;shape;FALSE;TRUE;America/New_York;2;1840000409
+Arden-Arcade;Arden-Arcade;CA;California;06067;Sacramento;38,6017;-121,3845;93719;2275;shape;FALSE;TRUE;America/Los_Angeles;2;1840036690
+Santa Monica;Santa Monica;CA;California;06037;Los Angeles;34,0235;-118,481;91600;4205;shape;FALSE;TRUE;America/Los_Angeles;2;1840021866
+Westminster;Westminster;CA;California;06059;Orange;33,7523;-117,9938;90857;3494;shape;FALSE;TRUE;America/Los_Angeles;2;1840021969
+San Leandro;San Leandro;CA;California;06001;Alameda;37,7074;-122,1599;90489;2622;shape;FALSE;TRUE;America/Los_Angeles;2;1840021538
+Bismarck;Bismarck;ND;North Dakota;38015;Burleigh;46,8143;-100,7694;90420;817;shape;FALSE;TRUE;America/Chicago;2;1840001926
+Germantown;Germantown;MD;Maryland;24031;Montgomery;39,1755;-77,2643;89529;2029;shape;FALSE;FALSE;America/New_York;2;1840005840
+Miami Beach;Miami Beach;FL;Florida;12086;Miami-Dade;25,8171;-80,1396;89439;4489;shape;FALSE;TRUE;America/New_York;2;1840015150
+State College;State College;PA;Pennsylvania;42027;Centre;40,7909;-77,8567;88526;3567;shape;FALSE;TRUE;America/New_York;2;1840000830
+Citrus Heights;Citrus Heights;CA;California;06067;Sacramento;38,6948;-121,288;87665;2380;shape;FALSE;TRUE;America/Los_Angeles;2;1840018845
+Hawthorne;Hawthorne;CA;California;06037;Los Angeles;33,9147;-118,3476;85410;5417;shape;FALSE;TRUE;America/Los_Angeles;2;1840020486
+Clifton;Clifton;NJ;New Jersey;34031;Passaic;40,863;-74,1575;85201;2917;shape;FALSE;TRUE;America/New_York;2;1840003511
+Whittier;Whittier;CA;California;06037;Los Angeles;33,9678;-118,0188;84821;2235;shape;FALSE;TRUE;America/Los_Angeles;2;1840021878
+Alhambra;Alhambra;CA;California;06037;Los Angeles;34,084;-118,1355;84509;4275;shape;FALSE;TRUE;America/Los_Angeles;2;1840019222
+Buena Park;Buena Park;CA;California;06059;Orange;33,8572;-118,0046;82228;3015;shape;FALSE;TRUE;America/Los_Angeles;2;1840019324
+Cicero;Cicero;IL;Illinois;17031;Cook;41,8445;-87,7593;81471;5363;shape;FALSE;TRUE;America/Chicago;2;1840009186
+Pine Hills;Pine Hills;FL;Florida;12095;Orange;28,5818;-81,4692;81415;2577;shape;FALSE;FALSE;America/New_York;2;1840014098
+Somerville;Somerville;MA;Massachusetts;25017;Middlesex;42,3908;-71,1014;81175;7602;shape;FALSE;TRUE;America/New_York;2;1840003123
+Silver Spring;Silver Spring;MD;Maryland;24031;Montgomery;39,0028;-77,0207;81069;3970;shape;FALSE;FALSE;America/New_York;2;1840005845
+Deerfield Beach;Deerfield Beach;FL;Florida;12011;Broward;26,305;-80,1277;80822;2087;shape;FALSE;TRUE;America/New_York;2;1840015136
+Tustin;Tustin;CA;California;06059;Orange;33,7311;-117,8107;80815;2795;shape;FALSE;TRUE;America/Los_Angeles;2;1840021967
+Lebanon;Lebanon;PA;Pennsylvania;42075;Lebanon;40,3412;-76,4228;80620;2388;shape;FALSE;TRUE;America/New_York;2;1840001347
+Yauco;Yauco;PR;Puerto Rico;72153;Yauco;18,0344;-66,8615;80307;2064;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035600
+Mountain View;Mountain View;CA;California;06085;Santa Clara;37,4001;-122,0796;80104;2586;shape;FALSE;TRUE;America/Los_Angeles;2;1840020332
+Lawrence;Lawrence;MA;Massachusetts;25009;Essex;42,7002;-71,1626;80022;4458;shape;FALSE;TRUE;America/New_York;2;1840000408
+Alameda;Alameda;CA;California;06001;Alameda;37,7668;-122,267;79827;2949;shape;FALSE;TRUE;America/Los_Angeles;2;1840018913
+Lakewood;Lakewood;CA;California;06037;Los Angeles;33,8471;-118,1222;79676;3272;shape;FALSE;TRUE;America/Los_Angeles;2;1840020515
+New Rochelle;New Rochelle;NY;New York;36119;Westchester;40,9304;-73,7836;79367;2979;shape;FALSE;TRUE;America/New_York;2;1840000782
+Davis;Davis;CA;California;06113;Yolo;38,5553;-121,737;78431;2657;shape;FALSE;TRUE;America/Los_Angeles;2;1840018833
+Cheyenne;Cheyenne;WY;Wyoming;56021;Laramie;41,135;-104,7902;76456;767;shape;FALSE;TRUE;America/Denver;2;1840018713
+Bellflower;Bellflower;CA;California;06037;Los Angeles;33,888;-118,1271;76339;4818;shape;FALSE;TRUE;America/Los_Angeles;2;1840019230
+Watsonville;Watsonville;CA;California;06087;Santa Cruz;36,9206;-121,7708;76285;3016;shape;FALSE;TRUE;America/Los_Angeles;2;1840021581
+Baldwin Park;Baldwin Park;CA;California;06037;Los Angeles;34,0829;-117,9722;75659;4404;shape;FALSE;TRUE;America/Los_Angeles;2;1840019227
+Milpitas;Milpitas;CA;California;06085;Santa Clara;37,4336;-121,8921;75182;2153;shape;FALSE;TRUE;America/Los_Angeles;2;1840020329
+Centreville;Centreville;VA;Virginia;51059;Fairfax;38,839;-77,4389;74230;2401;shape;FALSE;FALSE;America/New_York;2;1840006015
+Evanston;Evanston;IL;Illinois;17031;Cook;42,0464;-87,6943;73979;3671;shape;FALSE;TRUE;America/Chicago;2;1840008129
+Camden;Camden;NJ;New Jersey;34007;Camden;39,9361;-75,1073;73742;3191;shape;FALSE;TRUE;America/New_York;2;1840001507
+Caguas;Caguas;PR;Puerto Rico;72025;Caguas;18,2319;-66,0388;73040;2587;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023540
+New Britain;New Britain;CT;Connecticut;09003;Hartford;41,6759;-72,7862;72543;2090;shape;FALSE;TRUE;America/New_York;2;1840004774
+Lauderhill;Lauderhill;FL;Florida;12011;Broward;26,1605;-80,2241;71827;3255;shape;FALSE;TRUE;America/New_York;2;1840015146
+Pawtucket;Pawtucket;RI;Rhode Island;44007;Providence;41,8744;-71,3743;71821;3199;shape;FALSE;TRUE;America/New_York;2;1840003285
+Wilmington;Wilmington;DE;Delaware;10003;New Castle;39,7415;-75,5416;70655;2503;shape;FALSE;TRUE;America/New_York;2;1840005579
+Passaic;Passaic;NJ;New Jersey;34031;Passaic;40,8574;-74,1282;69789;8600;shape;FALSE;TRUE;America/New_York;2;1840000837
+Lynwood;Lynwood;CA;California;06037;Los Angeles;33,924;-118,2016;69625;5553;shape;FALSE;TRUE;America/Los_Angeles;2;1840020492
+Union City;Union City;NJ;New Jersey;34017;Hudson;40,7675;-74,0323;68073;20421;shape;FALSE;TRUE;America/New_York;2;1840001034
+Gaithersburg;Gaithersburg;MD;Maryland;24031;Montgomery;39,1346;-77,2131;67878;2539;shape;FALSE;TRUE;America/New_York;2;1840005848
+Mount Vernon;Mount Vernon;NY;New York;36119;Westchester;40,9136;-73,8291;67623;5943;shape;FALSE;TRUE;America/New_York;2;1840000781
+South San Francisco;South San Francisco;CA;California;06081;San Mateo;37,6538;-122,4196;66878;2805;shape;FALSE;TRUE;America/Los_Angeles;2;1840021552
+Guaynabo;Guaynabo;PR;Puerto Rico;72061;Guaynabo;18,3832;-66,1134;66751;2139;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023575
+Redondo Beach;Redondo Beach;CA;California;06037;Los Angeles;33,8577;-118,3765;66663;4148;shape;FALSE;TRUE;America/Los_Angeles;2;1840020509
+Tamarac;Tamarac;FL;Florida;12011;Broward;26,2056;-80,2539;66432;2213;shape;FALSE;TRUE;America/New_York;2;1840016001
+Eastvale;Eastvale;CA;California;06065;Riverside;33,9617;-117,5803;65766;2003;shape;FALSE;TRUE;America/Los_Angeles;2;1840028421
+Guayama;Guayama;PR;Puerto Rico;72057;Guayama;17,9743;-66,1104;65343;2100;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035675
+Schenectady;Schenectady;NY;New York;36093;Schenectady;42,8025;-73,9275;65336;2337;shape;FALSE;TRUE;America/New_York;2;1840000395
+Bayonne;Bayonne;NJ;New Jersey;34017;Hudson;40,6668;-74,1158;65112;4318;shape;FALSE;TRUE;America/New_York;2;1840003595
+Florence-Graham;Florence-Graham;CA;California;06037;Los Angeles;33,9682;-118,2447;64787;7127;shape;FALSE;TRUE;America/Los_Angeles;2;1840037057
+East Orange;East Orange;NJ;New Jersey;34013;Essex;40,7651;-74,2117;64650;6355;shape;FALSE;TRUE;America/New_York;2;1840002792
+Twin Rivers;Twin Rivers;NJ;New Jersey;34021;Mercer;40,2631;-74,4917;64012;2208;shape;FALSE;FALSE;America/New_York;2;1840005474
+The Hammocks;The Hammocks;FL;Florida;12086;Miami-Dade;25,67;-80,4482;63687;3117;shape;FALSE;FALSE;America/New_York;2;1840029009
+Skokie;Skokie;IL;Illinois;17031;Cook;42,036;-87,74;63300;2428;shape;FALSE;TRUE;America/Chicago;2;1840011321
+La Habra;La Habra;CA;California;06059;Orange;33,9282;-117,9515;62787;3207;shape;FALSE;TRUE;America/Los_Angeles;2;1840020585
+Brentwood;Brentwood;NY;New York;36103;Suffolk;40,7839;-73,2522;62743;2212;shape;FALSE;FALSE;America/New_York;2;1840005021
+Montebello;Montebello;CA;California;06037;Los Angeles;34,0155;-118,1108;62697;2906;shape;FALSE;TRUE;America/Los_Angeles;2;1840020499
+Pico Rivera;Pico Rivera;CA;California;06037;Los Angeles;33,9901;-118,0888;62507;2902;shape;FALSE;TRUE;America/Los_Angeles;2;1840020506
+North Miami;North Miami;FL;Florida;12086;Miami-Dade;25,9008;-80,1686;62468;2860;shape;FALSE;TRUE;America/New_York;2;1840015154
+National City;National City;CA;California;06073;San Diego;32,6654;-117,0983;61342;3246;shape;FALSE;TRUE;America/Los_Angeles;2;1840020622
+Coconut Creek;Coconut Creek;FL;Florida;12011;Broward;26,2803;-80,1842;60935;2106;shape;FALSE;TRUE;America/New_York;2;1840015132
+Malden;Malden;MA;Massachusetts;25017;Middlesex;42,4305;-71,0576;60710;4646;shape;FALSE;TRUE;America/New_York;2;1840000430
+Monterey Park;Monterey Park;CA;California;06037;Los Angeles;34,0497;-118,1326;60597;3049;shape;FALSE;TRUE;America/Los_Angeles;2;1840020500
+La Mesa;La Mesa;CA;California;06073;San Diego;32,7703;-117,0204;60208;2556;shape;FALSE;TRUE;America/Los_Angeles;2;1840020625
+Taylorsville;Taylorsville;UT;Utah;49035;Salt Lake;40,6569;-111,9493;59926;2132;shape;FALSE;TRUE;America/Denver;2;1840021387
+West Allis;West Allis;WI;Wisconsin;55079;Milwaukee;43,0068;-88,0296;59861;2030;shape;FALSE;TRUE;America/Chicago;2;1840003034
+Cupertino;Cupertino;CA;California;06085;Santa Clara;37,3168;-122,0466;59799;2038;shape;FALSE;TRUE;America/Los_Angeles;2;1840018950
+Gardena;Gardena;CA;California;06037;Los Angeles;33,8943;-118,3072;59401;3934;shape;FALSE;TRUE;America/Los_Angeles;2;1840020482
+Fountainebleau;Fountainebleau;FL;Florida;12086;Miami-Dade;25,7723;-80,346;59174;5773;shape;FALSE;FALSE;America/New_York;2;1840028983
+South Whittier;South Whittier;CA;California;06037;Los Angeles;33,9336;-118,0312;58616;4239;shape;FALSE;FALSE;America/Los_Angeles;2;1840019209
+Margate;Margate;FL;Florida;12011;Broward;26,2466;-80,2119;58465;2576;shape;FALSE;TRUE;America/New_York;2;1840015999
+Medford;Medford;MA;Massachusetts;25017;Middlesex;42,4234;-71,1087;58290;2778;shape;FALSE;TRUE;America/New_York;2;1840000431
+White Plains;White Plains;NY;New York;36119;Westchester;41,022;-73,7547;58171;2306;shape;FALSE;TRUE;America/New_York;2;1840003477
+Huntington Park;Huntington Park;CA;California;06037;Los Angeles;33,98;-118,2167;57761;7414;shape;FALSE;TRUE;America/Los_Angeles;2;1840019235
+Arcadia;Arcadia;CA;California;06037;Los Angeles;34,1342;-118,0373;57053;2015;shape;FALSE;TRUE;America/Los_Angeles;2;1840019223
+Fountain Valley;Fountain Valley;CA;California;06059;Orange;33,7105;-117,9514;56118;2388;shape;FALSE;TRUE;America/Los_Angeles;2;1840020575
+New Brunswick;New Brunswick;NJ;New Jersey;34023;Middlesex;40,487;-74,445;55992;4131;shape;FALSE;TRUE;America/New_York;2;1840001339
+Tamiami;Tamiami;FL;Florida;12086;Miami-Dade;25,7556;-80,4016;55757;3054;shape;FALSE;FALSE;America/New_York;2;1840029085
+Kendale Lakes;Kendale Lakes;FL;Florida;12086;Miami-Dade;25,7081;-80,4078;55732;2664;shape;FALSE;FALSE;America/New_York;2;1840029045
+Oak Lawn;Oak Lawn;IL;Illinois;17031;Cook;41,7139;-87,7528;55432;2497;shape;FALSE;TRUE;America/Chicago;2;1840011306
+Carson City;Carson City;NV;Nevada;32510;Carson City;39,1511;-119,7476;55244;147;shape;FALSE;TRUE;America/Los_Angeles;2;1840003826
+Berwyn;Berwyn;IL;Illinois;17031;Cook;41,8433;-87,7909;54850;5423;shape;FALSE;TRUE;America/Chicago;2;1840007027
+Westchester;Westchester;FL;Florida;12086;Miami-Dade;25,7471;-80,3523;54470;2644;shape;FALSE;FALSE;America/New_York;2;1840014241
+Paramount;Paramount;CA;California;06037;Los Angeles;33,8977;-118,1651;53949;4406;shape;FALSE;TRUE;America/Los_Angeles;2;1840020504
+Aspen Hill;Aspen Hill;MD;Maryland;24031;Montgomery;39,0927;-77,0826;53869;2189;shape;FALSE;FALSE;America/New_York;2;1840005825
+Rosemead;Rosemead;CA;California;06037;Los Angeles;34,0689;-118,0823;53850;4028;shape;FALSE;TRUE;America/Los_Angeles;2;1840020495
+Aloha;Aloha;OR;Oregon;41067;Washington;45,492;-122,8725;53724;2819;shape;FALSE;FALSE;America/Los_Angeles;2;1840017414
+Revere;Revere;MA;Massachusetts;25025;Suffolk;42,4189;-71,004;53400;3614;shape;FALSE;TRUE;America/New_York;2;1840000457
+Hoboken;Hoboken;NJ;New Jersey;34017;Hudson;40,7452;-74,0281;53283;16455;shape;FALSE;TRUE;America/New_York;2;1840003599
+West New York;West New York;NJ;New Jersey;34017;Hudson;40,7857;-74,0094;52778;20495;shape;FALSE;TRUE;America/New_York;2;1840001035
+Oak Park;Oak Park;IL;Illinois;17031;Cook;41,8872;-87,7899;52102;4280;shape;FALSE;TRUE;America/Chicago;2;1840011307
+Placentia;Placentia;CA;California;06059;Orange;33,8807;-117,8553;52049;3039;shape;FALSE;TRUE;America/Los_Angeles;2;1840020583
+Perth Amboy;Perth Amboy;NJ;New Jersey;34023;Middlesex;40,5202;-74,2724;51589;4272;shape;FALSE;TRUE;America/New_York;2;1840001340
+Levittown;Levittown;NY;New York;36059;Nassau;40,7241;-73,5125;51266;2905;shape;FALSE;FALSE;America/New_York;2;1840005270
+Wheaton;Wheaton;MD;Maryland;24031;Montgomery;39,0492;-77,0573;51191;2865;shape;FALSE;FALSE;America/New_York;2;1840031295
+Country Club;Country Club;FL;Florida;12086;Miami-Dade;25,9407;-80,3102;50436;4661;shape;FALSE;FALSE;America/New_York;2;1840029029
+Aliso Viejo;Aliso Viejo;CA;California;06059;Orange;33,5792;-117,7289;50385;2808;shape;FALSE;TRUE;America/Los_Angeles;2;1840019321
+Plainfield;Plainfield;NJ;New Jersey;34039;Union;40,6154;-74,4157;50252;3255;shape;FALSE;TRUE;America/New_York;2;1840001090
+Lakewood;Lakewood;OH;Ohio;39035;Cuyahoga;41,4822;-81,8008;50002;3483;shape;FALSE;TRUE;America/New_York;2;1840000608
+North Bethesda;North Bethesda;MD;Maryland;24031;Montgomery;39,0393;-77,1191;49719;2163;shape;FALSE;FALSE;America/New_York;2;1840031494
+Cerritos;Cerritos;CA;California;06037;Los Angeles;33,8678;-118,0686;49388;2185;shape;FALSE;TRUE;America/Los_Angeles;2;1840019215
+Cypress;Cypress;CA;California;06059;Orange;33,8171;-118,0386;49137;2868;shape;FALSE;TRUE;America/Los_Angeles;2;1840019327
+Florin;Florin;CA;California;06067;Sacramento;38,4832;-121,4043;48839;2164;shape;FALSE;FALSE;America/Los_Angeles;2;1840017581
+North Highlands;North Highlands;CA;California;06067;Sacramento;38,6713;-121,3721;48660;2132;shape;FALSE;FALSE;America/Los_Angeles;2;1840018841
+Antelope;Antelope;CA;California;06067;Sacramento;38,7153;-121,361;48468;2737;shape;FALSE;FALSE;America/Los_Angeles;2;1840022490
+University;University;FL;Florida;12057;Hillsborough;28,0771;-82,4335;48339;2948;shape;FALSE;TRUE;America/New_York;2;1840073852
+La Mirada;La Mirada;CA;California;06037;Los Angeles;33,9025;-118,0093;48260;2382;shape;FALSE;TRUE;America/Los_Angeles;2;1840020512
+Covina;Covina;CA;California;06037;Los Angeles;34,0903;-117,8818;47787;2622;shape;FALSE;TRUE;America/Los_Angeles;2;1840019241
+Everett;Everett;MA;Massachusetts;25017;Middlesex;42,4064;-71,0545;46275;5230;shape;FALSE;TRUE;America/New_York;2;1840000425
+Oakland Park;Oakland Park;FL;Florida;12011;Broward;26,178;-80,1528;44950;2303;shape;FALSE;TRUE;America/New_York;2;1840015139
+San Bruno;San Bruno;CA;California;06081;San Mateo;37,6256;-122,4313;44663;3141;shape;FALSE;TRUE;America/Los_Angeles;2;1840021549
+Whitney;Whitney;NV;Nevada;32003;Clark;36,1008;-115,0379;44488;2522;shape;FALSE;FALSE;America/Los_Angeles;2;1840033834
+Hackensack;Hackensack;NJ;New Jersey;34003;Bergen;40,8891;-74,0462;44266;4077;shape;FALSE;TRUE;America/New_York;2;1840003556
+North Lauderdale;North Lauderdale;FL;Florida;12011;Broward;26,2113;-80,2209;44189;3691;shape;FALSE;TRUE;America/New_York;2;1840015138
+Cleveland Heights;Cleveland Heights;OH;Ohio;39035;Cuyahoga;41,5113;-81,5636;44176;2114;shape;FALSE;TRUE;America/New_York;2;1840000597
+Concord;Concord;NH;New Hampshire;33013;Merrimack;43,2305;-71,5595;43503;262;shape;FALSE;TRUE;America/New_York;2;1840002747
+Salem;Salem;MA;Massachusetts;25009;Essex;42,5129;-70,9021;43350;2018;shape;FALSE;TRUE;America/New_York;2;1840000410
+Freeport;Freeport;NY;New York;36059;Nassau;40,6515;-73,585;42993;3625;shape;FALSE;TRUE;America/New_York;2;1840005288
+Campbell;Campbell;CA;California;06085;Santa Clara;37,2802;-121,9539;42891;2723;shape;FALSE;TRUE;America/Los_Angeles;2;1840018949
+North Miami Beach;North Miami Beach;FL;Florida;12086;Miami-Dade;25,9302;-80,1659;42824;3413;shape;FALSE;TRUE;America/New_York;2;1840015155
+Jefferson City;Jefferson City;MO;Missouri;29051;Cole;38,5676;-92,1759;42670;456;shape;FALSE;TRUE;America/Chicago;2;1840008615
+Rohnert Park;Rohnert Park;CA;California;06097;Sonoma;38,3479;-122,6965;42559;2255;shape;FALSE;TRUE;America/Los_Angeles;2;1840020243
+Hicksville;Hicksville;NY;New York;36059;Nassau;40,7637;-73,5245;42468;2414;shape;FALSE;FALSE;America/New_York;2;1840005266
+Annandale;Annandale;VA;Virginia;51059;Fairfax;38,8324;-77,196;42240;2078;shape;FALSE;FALSE;America/New_York;2;1840006011
+Bell Gardens;Bell Gardens;CA;California;06037;Los Angeles;33,9663;-118,155;41770;6558;shape;FALSE;TRUE;America/Los_Angeles;2;1840019229
+Trujillo Alto;Trujillo Alto;PR;Puerto Rico;72139;Trujillo Alto;18,3599;-66,0096;41659;2173;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023656
+Woonsocket;Woonsocket;RI;Rhode Island;44007;Providence;42,001;-71,4993;41616;2074;shape;FALSE;TRUE;America/New_York;2;1840003290
+Greenacres;Greenacres;FL;Florida;12099;Palm Beach;26,627;-80,1371;41242;2681;shape;FALSE;TRUE;America/New_York;2;1840036057
+Wilkes-Barre;Wilkes-Barre;PA;Pennsylvania;42079;Luzerne;41,2469;-75,876;40805;2300;shape;FALSE;TRUE;America/New_York;2;1840000777
+San Gabriel;San Gabriel;CA;California;06037;Los Angeles;34,0949;-118,099;40108;3737;shape;FALSE;TRUE;America/Los_Angeles;2;1840021862
+Montclair;Montclair;CA;California;06071;San Bernardino;34,0715;-117,6981;40041;2795;shape;FALSE;TRUE;America/Los_Angeles;2;1840020408
+Chelsea;Chelsea;MA;Massachusetts;25025;Suffolk;42,3959;-71,0325;39878;6939;shape;FALSE;TRUE;America/New_York;2;1840000456
+Hallandale Beach;Hallandale Beach;FL;Florida;12011;Broward;25,9854;-80,1423;39782;3646;shape;FALSE;TRUE;America/New_York;2;1840014237
+La Puente;La Puente;CA;California;06037;Los Angeles;34,0323;-117,9533;39780;4415;shape;FALSE;TRUE;America/Los_Angeles;2;1840020513
+Keizer;Keizer;OR;Oregon;41047;Marion;45,0028;-123,0243;39408;2117;shape;FALSE;TRUE;America/Los_Angeles;2;1840018581
+Annapolis;Annapolis;MD;Maryland;24003;Anne Arundel;38,9706;-76,5047;39321;2106;shape;FALSE;TRUE;America/New_York;2;1840005928
+Northglenn;Northglenn;CO;Colorado;08001;Adams;39,9108;-104,9783;39201;2056;shape;FALSE;TRUE;America/Denver;2;1840020192
+Culver City;Culver City;CA;California;06037;Los Angeles;34,0058;-118,3968;38913;2939;shape;FALSE;TRUE;America/Los_Angeles;2;1840019243
+Mission Bend;Mission Bend;TX;Texas;48157;Fort Bend;29,6948;-95,6658;38693;3212;shape;FALSE;FALSE;America/Chicago;2;1840019643
+Stanton;Stanton;CA;California;06059;Orange;33,8003;-117,9935;38317;4770;shape;FALSE;TRUE;America/Los_Angeles;2;1840021966
+Waipahu;Waipahu;HI;Hawaii;15003;Honolulu;21,3859;-158,0101;38276;5518;shape;FALSE;FALSE;Pacific/Honolulu;2;1840023258
+Kendall West;Kendall West;FL;Florida;12086;Miami-Dade;25,7065;-80,4388;38029;5335;shape;FALSE;TRUE;America/New_York;2;1840035805
+East Meadow;East Meadow;NY;New York;36059;Nassau;40,7197;-73,5604;37992;2327;shape;FALSE;FALSE;America/New_York;2;1840005236
+Fort Lee;Fort Lee;NJ;New Jersey;34003;Bergen;40,8509;-73,9713;37843;5803;shape;FALSE;TRUE;America/New_York;2;1840003552
+Hanover Park;Hanover Park;IL;Illinois;17043;DuPage;41,9818;-88,1446;37811;2273;shape;FALSE;TRUE;America/Chicago;2;1840011251
+Egypt Lake-Leto;Egypt Lake-Leto;FL;Florida;12057;Hillsborough;28,0177;-82,5062;37775;2468;shape;FALSE;TRUE;America/New_York;2;1840073269
+Valley Stream;Valley Stream;NY;New York;36059;Nassau;40,6647;-73,7043;37489;4162;shape;FALSE;TRUE;America/New_York;2;1840005331
+Park Ridge;Park Ridge;IL;Illinois;17031;Cook;42,0125;-87,8436;37431;2039;shape;FALSE;TRUE;America/Chicago;2;1840009183
+La Presa;La Presa;CA;California;06073;San Diego;32,711;-117,0027;37410;2627;shape;FALSE;FALSE;America/Los_Angeles;2;1840018023
+Aventura;Aventura;FL;Florida;12086;Miami-Dade;25,9566;-80,1371;37151;5416;shape;FALSE;TRUE;America/New_York;2;1840014243
+Richmond West;Richmond West;FL;Florida;12086;Miami-Dade;25,6105;-80,4297;37123;3435;shape;FALSE;TRUE;America/New_York;2;1840073270
+Lincoln Park;Lincoln Park;MI;Michigan;26163;Wayne;42,2432;-83,1811;36525;2416;shape;FALSE;TRUE;America/Detroit;2;1840003984
+Kearns;Kearns;UT;Utah;49035;Salt Lake;40,6519;-112,0095;36457;3039;shape;FALSE;TRUE;America/Denver;2;1840017500
+Winchester;Winchester;NV;Nevada;32003;Clark;36,1365;-115,137;36302;2826;shape;FALSE;FALSE;America/Los_Angeles;2;1840033770
+Richfield;Richfield;MN;Minnesota;27053;Hennepin;44,8763;-93,2829;36253;2065;shape;FALSE;TRUE;America/Chicago;2;1840008930
+Elmont;Elmont;NY;New York;36059;Nassau;40,7033;-73,7078;36245;4104;shape;FALSE;FALSE;America/New_York;2;1840005226
+Lauderdale Lakes;Lauderdale Lakes;FL;Florida;12011;Broward;26,1682;-80,2017;36063;3782;shape;FALSE;TRUE;America/New_York;2;1840015145
+Watertown Town;Watertown Town;MA;Massachusetts;25017;Middlesex;42,37;-71,1774;35749;3451;shape;FALSE;TRUE;America/New_York;2;1840031198
+Foothill Farms;Foothill Farms;CA;California;06067;Sacramento;38,6867;-121,3475;35711;3282;shape;FALSE;FALSE;America/Los_Angeles;2;1840017582
+Temple City;Temple City;CA;California;06037;Los Angeles;34,1022;-118,0579;35699;3442;shape;FALSE;TRUE;America/Los_Angeles;2;1840021872
+South Miami Heights;South Miami Heights;FL;Florida;12086;Miami-Dade;25,5886;-80,3862;35683;2807;shape;FALSE;FALSE;America/New_York;2;1840014240
+West Hollywood;West Hollywood;CA;California;06037;Los Angeles;34,0883;-118,3719;35506;7262;shape;FALSE;TRUE;America/Los_Angeles;2;1840028098
+Bell;Bell;CA;California;06037;Los Angeles;33,9801;-118,1798;35301;5434;shape;FALSE;TRUE;America/Los_Angeles;2;1840019228
+Westmont;Westmont;CA;California;06037;Los Angeles;33,9417;-118,3018;35188;7355;shape;FALSE;FALSE;America/Los_Angeles;2;1840028408
+Buenaventura Lakes;Buenaventura Lakes;FL;Florida;12097;Osceola;28,3349;-81,3539;35117;2431;shape;FALSE;FALSE;America/New_York;2;1840028974
+Manhattan Beach;Manhattan Beach;CA;California;06037;Los Angeles;33,8894;-118,3967;35064;3441;shape;FALSE;TRUE;America/Los_Angeles;2;1840020496
+Englewood;Englewood;CO;Colorado;08005;Arapahoe;39,6468;-104,9942;34840;2049;shape;FALSE;TRUE;America/Denver;2;1840020211
+Fair Oaks;Fair Oaks;VA;Virginia;51059;Fairfax;38,8653;-77,3586;34466;2665;shape;FALSE;FALSE;America/New_York;2;1840024568
+Montgomery Village;Montgomery Village;MD;Maryland;24031;Montgomery;39,1788;-77,1954;34413;3422;shape;FALSE;FALSE;America/New_York;2;1840005834
+Norristown;Norristown;PA;Pennsylvania;42091;Montgomery;40,1225;-75,3398;34392;3777;shape;FALSE;TRUE;America/New_York;2;1840003705
+University City;University City;MO;Missouri;29189;St. Louis;38,6657;-90,3315;34336;2255;shape;FALSE;TRUE;America/Chicago;2;1840010739
+Chillum;Chillum;MD;Maryland;24033;Prince George's;38,9666;-76,9791;34230;3919;shape;FALSE;FALSE;America/New_York;2;1840005948
+Glendale Heights;Glendale Heights;IL;Illinois;17043;DuPage;41,9196;-88,0785;33863;2428;shape;FALSE;TRUE;America/Chicago;2;1840011406
+Chester;Chester;PA;Pennsylvania;42045;Delaware;39,8456;-75,3718;33855;2704;shape;FALSE;TRUE;America/New_York;2;1840000690
+Golden Glades;Golden Glades;FL;Florida;12086;Miami-Dade;25,9129;-80,2013;33843;2704;shape;FALSE;FALSE;America/New_York;2;1840029039
+Dana Point;Dana Point;CA;California;06059;Orange;33,4733;-117,6967;33782;2010;shape;FALSE;TRUE;America/Los_Angeles;2;1840019328
+Beverly Hills;Beverly Hills;CA;California;06037;Los Angeles;34,0786;-118,4021;33709;2280;shape;FALSE;TRUE;America/Los_Angeles;2;1840019231
+Midvale;Midvale;UT;Utah;49035;Salt Lake;40,6148;-111,8927;33708;2200;shape;FALSE;TRUE;America/Denver;2;1840020158
+Huntington Station;Huntington Station;NY;New York;36103;Suffolk;40,8446;-73,405;33612;2370;shape;FALSE;FALSE;America/New_York;2;1840005081
+Long Beach;Long Beach;NY;New York;36059;Nassau;40,5887;-73,666;33475;5828;shape;FALSE;TRUE;America/New_York;2;1840000988
+Foster City;Foster City;CA;California;06081;San Mateo;37,5553;-122,2659;33056;3370;shape;FALSE;TRUE;America/Los_Angeles;2;1840020302
+Fair Lawn;Fair Lawn;NJ;New Jersey;34003;Bergen;40,9359;-74,1177;32986;2480;shape;FALSE;TRUE;America/New_York;2;1840003548
+Baldwin;Baldwin;NY;New York;36059;Nassau;40,6511;-73,6075;32939;3091;shape;FALSE;FALSE;America/New_York;2;1840005228
+Helena;Helena;MT;Montana;30049;Lewis and Clark;46,5965;-112,0202;32655;749;shape;FALSE;TRUE;America/Denver;2;1840019820
+Uniondale;Uniondale;NY;New York;36059;Nassau;40,7176;-73,5947;32621;2205;shape;FALSE;FALSE;America/New_York;2;1840005279
+Lawndale;Lawndale;CA;California;06037;Los Angeles;33,8884;-118,3531;32533;6369;shape;FALSE;TRUE;America/Los_Angeles;2;1840020517
+Spring Valley;Spring Valley;NY;New York;36087;Rockland;41,1151;-74,0486;32295;6201;shape;FALSE;TRUE;America/New_York;2;1840004986
+West Little River;West Little River;FL;Florida;12086;Miami-Dade;25,8571;-80,2367;32293;2718;shape;FALSE;FALSE;America/New_York;2;1840029096
+College Park;College Park;MD;Maryland;24033;Prince George's;38,996;-76,9337;32221;2217;shape;FALSE;TRUE;America/New_York;2;1840005971
+Eastpointe;Eastpointe;MI;Michigan;26099;Macomb;42,4657;-82,9461;32221;2412;shape;FALSE;TRUE;America/Detroit;2;1840002420
+Juneau;Juneau;AK;Alaska;02110;Juneau;58,4546;-134,1739;32099;4;shape;FALSE;TRUE;America/Juneau;2;1840023306
+Bay Shore;Bay Shore;NY;New York;36103;Suffolk;40,7288;-73,2495;31819;2163;shape;FALSE;FALSE;America/New_York;2;1840005017
+Garfield;Garfield;NJ;New Jersey;34003;Bergen;40,8791;-74,1085;31722;5801;shape;FALSE;TRUE;America/New_York;2;1840003554
+Franklin Square;Franklin Square;NY;New York;36059;Nassau;40,7002;-73,6775;31537;4228;shape;FALSE;FALSE;America/New_York;2;1840005256
+West Falls Church;West Falls Church;VA;Virginia;51059;Fairfax;38,8648;-77,1878;31262;2418;shape;FALSE;FALSE;America/New_York;2;1840006117
+Miami Lakes;Miami Lakes;FL;Florida;12086;Miami-Dade;25,9125;-80,3214;31021;2117;shape;FALSE;TRUE;America/New_York;2;1840017275
+San Pablo;San Pablo;CA;California;06013;Contra Costa;37,9629;-122,3426;30959;4554;shape;FALSE;TRUE;America/Los_Angeles;2;1840021529
+Sterling;Sterling;VA;Virginia;51107;Loudoun;39,0052;-77,405;30872;2185;shape;FALSE;FALSE;America/New_York;2;1840024508
+Ithaca;Ithaca;NY;New York;36109;Tompkins;42,4442;-76,5032;30715;2200;shape;FALSE;TRUE;America/New_York;2;1840000442
+Parkville;Parkville;MD;Maryland;24005;Baltimore;39,3832;-76,5519;30459;2744;shape;FALSE;FALSE;America/New_York;2;1840005685
+Long Branch;Long Branch;NJ;New Jersey;34025;Monmouth;40,2965;-73,9915;30424;2292;shape;FALSE;TRUE;America/New_York;2;1840003673
+Golden Gate;Golden Gate;FL;Florida;12021;Collier;26,1844;-81,7031;30376;3003;shape;FALSE;FALSE;America/New_York;2;1840014228
+Santa Paula;Santa Paula;CA;California;06111;Ventura;34,3545;-119,0656;30297;2115;shape;FALSE;TRUE;America/Los_Angeles;2;1840021842
+San Lorenzo;San Lorenzo;CA;California;06001;Alameda;37,6733;-122,1332;30117;3817;shape;FALSE;FALSE;America/Los_Angeles;2;1840018912
+Burlingame;Burlingame;CA;California;06081;San Mateo;37,5859;-122,3667;30071;2642;shape;FALSE;TRUE;America/Los_Angeles;2;1840018925
+East Niles;East Niles;CA;California;06029;Kern;35,3683;-118,9225;29885;2114;shape;FALSE;FALSE;America/Los_Angeles;2;1840150304
+Oceanside;Oceanside;NY;New York;36059;Nassau;40,6328;-73,6364;29850;2337;shape;FALSE;FALSE;America/New_York;2;1840005246
+Rahway;Rahway;NJ;New Jersey;34039;Union;40,6077;-74,2807;29691;2942;shape;FALSE;TRUE;America/New_York;2;1840001091
+San Carlos;San Carlos;CA;California;06081;San Mateo;37,4982;-122,2677;29647;2115;shape;FALSE;TRUE;America/Los_Angeles;2;1840021550
+Suisun City;Suisun City;CA;California;06095;Solano;38,2473;-122,0091;29459;2839;shape;FALSE;TRUE;America/Los_Angeles;2;1840028115
+East Palo Alto;East Palo Alto;CA;California;06081;San Mateo;37,4671;-122,1352;29448;4497;shape;FALSE;TRUE;America/Los_Angeles;2;1840020301
+Oak Park;Oak Park;MI;Michigan;26125;Oakland;42,4649;-83,1824;29446;2208;shape;FALSE;TRUE;America/Detroit;2;1840002424
+Port Chester;Port Chester;NY;New York;36119;Westchester;41,0051;-73,668;29210;4844;shape;FALSE;TRUE;America/New_York;2;1840004941
+Burbank;Burbank;IL;Illinois;17031;Cook;41,7444;-87,7686;28447;2634;shape;FALSE;TRUE;America/Chicago;2;1840007022
+Englewood;Englewood;NJ;New Jersey;34003;Bergen;40,8917;-73,9736;28390;2225;shape;FALSE;TRUE;America/New_York;2;1840003546
+Melrose;Melrose;MA;Massachusetts;25017;Middlesex;42,4556;-71,059;28054;2312;shape;FALSE;TRUE;America/New_York;2;1840000432
+Middletown;Middletown;NY;New York;36071;Orange;41,4459;-74,4236;28018;2038;shape;FALSE;TRUE;America/New_York;2;1840000585
+Drexel Hill;Drexel Hill;PA;Pennsylvania;42045;Delaware;39,9495;-75,3038;27925;3371;shape;FALSE;FALSE;America/New_York;2;1840005550
+Reisterstown;Reisterstown;MD;Maryland;24005;Baltimore;39,455;-76,814;27804;2108;shape;FALSE;FALSE;America/New_York;2;1840005689
+Frankfort;Frankfort;KY;Kentucky;21073;Franklin;38,1924;-84,8643;27705;724;shape;FALSE;TRUE;America/New_York;2;1840013210
+Mililani Town;Mililani Town;HI;Hawaii;15003;Honolulu;21,4465;-158,0147;27459;2644;shape;FALSE;FALSE;Pacific/Honolulu;2;1840023249
+Bergenfield;Bergenfield;NJ;New Jersey;34003;Bergen;40,9236;-73,9982;27375;3639;shape;FALSE;TRUE;America/New_York;2;1840000893
+Imperial Beach;Imperial Beach;CA;California;06073;San Diego;32,5693;-117,118;27334;2459;shape;FALSE;TRUE;America/Los_Angeles;2;1840019353
+Easton;Easton;PA;Pennsylvania;42095;Northampton;40,6858;-75,2209;27274;2470;shape;FALSE;TRUE;America/New_York;2;1840000970
+Maywood;Maywood;CA;California;06037;Los Angeles;33,9886;-118,1877;27127;8938;shape;FALSE;TRUE;America/Los_Angeles;2;1840020497
+Belmont;Belmont;CA;California;06081;San Mateo;37,5154;-122,2953;26963;2248;shape;FALSE;TRUE;America/Los_Angeles;2;1840018924
+Lindenhurst;Lindenhurst;NY;New York;36103;Suffolk;40,6858;-73,371;26885;2770;shape;FALSE;TRUE;America/New_York;2;1840005122
+Lemon Grove;Lemon Grove;CA;California;06073;San Diego;32,7331;-117,0344;26739;2661;shape;FALSE;TRUE;America/Los_Angeles;2;1840020621
+Leisure City;Leisure City;FL;Florida;12086;Miami-Dade;25,4935;-80,4363;26708;3161;shape;FALSE;FALSE;America/New_York;2;1840014245
+Ewa Gentry;Ewa Gentry;HI;Hawaii;15003;Honolulu;21,3344;-158,0262;26358;4780;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029577
+West Whittier-Los Nietos;West Whittier-Los Nietos;CA;California;06037;Los Angeles;33,9759;-118,0689;26121;4001;shape;FALSE;TRUE;America/Los_Angeles;2;1840074745
+Terrytown;Terrytown;LA;Louisiana;22051;Jefferson;29,9014;-90,0279;26044;2744;shape;FALSE;FALSE;America/Chicago;2;1840013990
+Cloverleaf;Cloverleaf;TX;Texas;48201;Harris;29,7882;-95,1724;25955;3260;shape;FALSE;FALSE;America/Chicago;2;1840018248
+Kiryas Joel;Kiryas Joel;NY;New York;36071;Orange;41,3411;-74,1667;25910;6843;shape;FALSE;TRUE;America/New_York;2;1840004872
+Laurel;Laurel;MD;Maryland;24033;Prince George's;39,0949;-76,8622;25734;2063;shape;FALSE;TRUE;America/New_York;2;1840005976
+Soledad;Soledad;CA;California;06053;Monterey;36,4432;-121,3426;25667;2221;shape;FALSE;TRUE;America/Los_Angeles;2;1840021635
+Coral Terrace;Coral Terrace;FL;Florida;12086;Miami-Dade;25,7464;-80,3049;25529;2934;shape;FALSE;FALSE;America/New_York;2;1840029028
+South Pasadena;South Pasadena;CA;California;06037;Los Angeles;34,1103;-118,1573;25478;2885;shape;FALSE;TRUE;America/Los_Angeles;2;1840021871
+Cliffside Park;Cliffside Park;NJ;New Jersey;34003;Bergen;40,8222;-73,9879;25410;10264;shape;FALSE;TRUE;America/New_York;2;1840003537
+Melrose Park;Melrose Park;IL;Illinois;17031;Cook;41,903;-87,8636;25404;2253;shape;FALSE;TRUE;America/Chicago;2;1840011296
+El Cerrito;El Cerrito;CA;California;06013;Contra Costa;37,9196;-122,3025;25280;2658;shape;FALSE;TRUE;America/Los_Angeles;2;1840020275
+Suitland;Suitland;MD;Maryland;24033;Prince George's;38,8492;-76,9225;25273;2298;shape;FALSE;FALSE;America/New_York;2;1840031466
+Tysons;Tysons;VA;Virginia;51059;Fairfax;38,9215;-77,2273;25230;2283;shape;FALSE;FALSE;America/New_York;2;1840006040
+Palm Springs;Palm Springs;FL;Florida;12099;Palm Beach;26,6348;-80,0969;25168;2309;shape;FALSE;TRUE;America/New_York;2;1840018308
+University Park;University Park;TX;Texas;48113;Dallas;32,8506;-96,7937;25027;2621;shape;FALSE;TRUE;America/Chicago;2;1840022055
+South Bradenton;South Bradenton;FL;Florida;12081;Manatee;27,4612;-82,5822;24885;2132;shape;FALSE;FALSE;America/New_York;2;1840029076
+Decatur;Decatur;GA;Georgia;13089;DeKalb;33,7711;-84,2963;24814;2084;shape;FALSE;TRUE;America/New_York;2;1840014777
+Ives Estates;Ives Estates;FL;Florida;12086;Miami-Dade;25,9632;-80,183;24732;3747;shape;FALSE;FALSE;America/New_York;2;1840028705
+Mill Creek East;Mill Creek East;WA;Washington;53061;Snohomish;47,8361;-122,1877;24643;2138;shape;FALSE;TRUE;America/Los_Angeles;2;1840041996
+Riverbank;Riverbank;CA;California;06099;Stanislaus;37,726;-120,9433;24623;2017;shape;FALSE;TRUE;America/Los_Angeles;2;1840020286
+Herndon;Herndon;VA;Virginia;51059;Fairfax;38,9699;-77,3867;24577;2213;shape;FALSE;TRUE;America/New_York;2;1840006037
+Rockville Centre;Rockville Centre;NY;New York;36059;Nassau;40,6643;-73,6383;24552;2915;shape;FALSE;TRUE;America/New_York;2;1840005320
+Watauga;Watauga;TX;Texas;48439;Tarrant;32,8719;-97,2515;24487;2273;shape;FALSE;TRUE;America/Chicago;2;1840022049
+Willowbrook;Willowbrook;CA;California;06037;Los Angeles;33,9209;-118,2356;24401;5619;shape;FALSE;FALSE;America/Los_Angeles;2;1840019220
+Lodi;Lodi;NJ;New Jersey;34003;Bergen;40,8784;-74,0814;24389;4144;shape;FALSE;TRUE;America/New_York;2;1840003535
+Elmwood Park;Elmwood Park;IL;Illinois;17031;Cook;41,9225;-87,8163;24274;4911;shape;FALSE;TRUE;America/Chicago;2;1840011272
+San Fernando;San Fernando;CA;California;06037;Los Angeles;34,2886;-118,4362;24244;3942;shape;FALSE;TRUE;America/Los_Angeles;2;1840021861
+Peekskill;Peekskill;NY;New York;36119;Westchester;41,2884;-73,9227;24111;2142;shape;FALSE;TRUE;America/New_York;2;1840000783
+North Lynnwood;North Lynnwood;WA;Washington;53061;Snohomish;47,8533;-122,2762;24084;2973;shape;FALSE;FALSE;America/Los_Angeles;2;1840037895
+Rosemont;Rosemont;CA;California;06067;Sacramento;38,5478;-121,3553;23755;2090;shape;FALSE;FALSE;America/Los_Angeles;2;1840018844
+Monsey;Monsey;NY;New York;36087;Rockland;41,1181;-74,0682;23733;3997;shape;FALSE;FALSE;America/New_York;2;1840004961
+Cudahy;Cudahy;CA;California;06037;Los Angeles;33,9631;-118,183;23606;7748;shape;FALSE;TRUE;America/Los_Angeles;2;1840019242
+Oak Ridge;Oak Ridge;FL;Florida;12095;Orange;28,4727;-81,4169;23596;2567;shape;FALSE;FALSE;America/New_York;2;1840029062
+Ashland;Ashland;CA;California;06001;Alameda;37,6942;-122,1159;23566;4938;shape;FALSE;FALSE;America/Los_Angeles;2;1840017619
+West Puente Valley;West Puente Valley;CA;California;06037;Los Angeles;34,0513;-117,9681;23555;4864;shape;FALSE;FALSE;America/Los_Angeles;2;1840028409
+Hialeah Gardens;Hialeah Gardens;FL;Florida;12086;Miami-Dade;25,8878;-80,3569;23546;2821;shape;FALSE;TRUE;America/New_York;2;1840015158
+Carteret;Carteret;NJ;New Jersey;34023;Middlesex;40,5849;-74,2284;23501;2066;shape;FALSE;TRUE;America/New_York;2;1840001331
+Bailey's Crossroads;Bailey's Crossroads;VA;Virginia;51059;Fairfax;38,8477;-77,1305;23459;4415;shape;FALSE;TRUE;America/New_York;2;1840037327
+Maywood;Maywood;IL;Illinois;17031;Cook;41,8798;-87,8442;23351;3317;shape;FALSE;TRUE;America/Chicago;2;1840011294
+Copiague;Copiague;NY;New York;36103;Suffolk;40,6707;-73,3922;23200;2896;shape;FALSE;FALSE;America/New_York;2;1840005031
+Blue Island;Blue Island;IL;Illinois;17031;Cook;41,6578;-87,6811;23160;2196;shape;FALSE;TRUE;America/Chicago;2;1840007028
+The Crossings;The Crossings;FL;Florida;12086;Miami-Dade;25,6708;-80,4018;23102;2579;shape;FALSE;FALSE;America/New_York;2;1840029008
+East San Gabriel;East San Gabriel;CA;California;06037;Los Angeles;34,1157;-118,0791;23076;4090;shape;FALSE;FALSE;America/Los_Angeles;2;1840028311
+Millbrae;Millbrae;CA;California;06081;San Mateo;37,5994;-122,4023;22998;2716;shape;FALSE;TRUE;America/Los_Angeles;2;1840020306
+Landover;Landover;MD;Maryland;24033;Prince George's;38,9241;-76,8875;22991;2219;shape;FALSE;FALSE;America/New_York;2;1840005956
+West Carson;West Carson;CA;California;06037;Los Angeles;33,8229;-118,2931;22697;3867;shape;FALSE;FALSE;America/Los_Angeles;2;1840028405
+Valinda;Valinda;CA;California;06037;Los Angeles;34,04;-117,93;22665;4347;shape;FALSE;FALSE;America/Los_Angeles;2;1840019213
+Woodlawn;Woodlawn;VA;Virginia;51059;Fairfax;38,7332;-77,1149;22620;3814;shape;FALSE;FALSE;America/New_York;2;1840145210
+Jasmine Estates;Jasmine Estates;FL;Florida;12101;Pasco;28,293;-82,6907;22572;2455;shape;FALSE;FALSE;America/New_York;2;1840014116
+Lennox;Lennox;CA;California;06037;Los Angeles;33,938;-118,3586;22476;7936;shape;FALSE;FALSE;America/Los_Angeles;2;1840017923
+Hayesville;Hayesville;OR;Oregon;41047;Marion;44,9793;-122,9738;22189;2836;shape;FALSE;FALSE;America/Los_Angeles;2;1840034726
+Four Square Mile;Four Square Mile;CO;Colorado;08005;Arapahoe;39,6808;-104,888;21993;3143;shape;FALSE;FALSE;America/Denver;2;1840153139
+West Rancho Dominguez;West Rancho Dominguez;CA;California;06037;Los Angeles;33,9057;-118,2683;21977;2135;shape;FALSE;FALSE;America/Los_Angeles;2;1840028406
+Sunny Isles Beach;Sunny Isles Beach;FL;Florida;12086;Miami-Dade;25,9385;-80,1246;21853;8349;shape;FALSE;TRUE;America/New_York;2;1840016007
+Hamtramck;Hamtramck;MI;Michigan;26163;Wayne;42,3954;-83,0559;21704;4009;shape;FALSE;TRUE;America/Detroit;2;1840003980
+Roselle;Roselle;NJ;New Jersey;34039;Union;40,6527;-74,2599;21699;3179;shape;FALSE;TRUE;America/New_York;2;1840001092
+Lealman;Lealman;FL;Florida;12103;Pinellas;27,8197;-82,6847;21621;2076;shape;FALSE;FALSE;America/New_York;2;1840025161
+Massapequa;Massapequa;NY;New York;36059;Nassau;40,6676;-73,4706;21531;2335;shape;FALSE;FALSE;America/New_York;2;1840005274
+North Plainfield;North Plainfield;NJ;New Jersey;34035;Somerset;40,6209;-74,4386;21445;2949;shape;FALSE;TRUE;America/New_York;2;1840001059
+North Bellmore;North Bellmore;NY;New York;36059;Nassau;40,6904;-73,539;21422;3156;shape;FALSE;FALSE;America/New_York;2;1840005240
+Mountlake Terrace;Mountlake Terrace;WA;Washington;53061;Snohomish;47,7921;-122,3077;21328;2030;shape;FALSE;TRUE;America/Los_Angeles;2;1840019792
+Sweetwater;Sweetwater;FL;Florida;12086;Miami-Dade;25,7785;-80,376;20852;3672;shape;FALSE;TRUE;America/New_York;2;1840016008
+South El Monte;South El Monte;CA;California;06037;Los Angeles;34,0493;-118,0484;20791;2822;shape;FALSE;TRUE;America/Los_Angeles;2;1840021869
+McNair;McNair;VA;Virginia;51059;Fairfax;38,9513;-77,4115;20776;3928;shape;FALSE;TRUE;America/New_York;2;1840041794
+Palisades Park;Palisades Park;NJ;New Jersey;34003;Bergen;40,8472;-73,9966;20693;6448;shape;FALSE;TRUE;America/New_York;2;1840000915
+Bayshore Gardens;Bayshore Gardens;FL;Florida;12081;Manatee;27,4345;-82,5793;20380;2241;shape;FALSE;FALSE;America/New_York;2;1840014168
+Columbia Heights;Columbia Heights;MN;Minnesota;27003;Anoka;45,0484;-93,2472;20247;2306;shape;FALSE;TRUE;America/Chicago;2;1840006712
+Lomita;Lomita;CA;California;06037;Los Angeles;33,7933;-118,3175;20212;4080;shape;FALSE;TRUE;America/Los_Angeles;2;1840020489
+La Crescenta-Montrose;La Crescenta-Montrose;CA;California;06037;Los Angeles;34,2322;-118,2353;20171;2271;shape;FALSE;TRUE;America/Los_Angeles;2;1840074182
+Albany;Albany;CA;California;06001;Alameda;37,8897;-122,3018;20145;4345;shape;FALSE;TRUE;America/Los_Angeles;2;1840028140
+Ferndale;Ferndale;MI;Michigan;26125;Oakland;42,4592;-83,1313;20139;2005;shape;FALSE;TRUE;America/Detroit;2;1840002443
+West Chester;West Chester;PA;Pennsylvania;42029;Chester;39,9601;-75,6058;20033;4189;shape;FALSE;TRUE;America/New_York;2;1840001436
+Elmwood Park;Elmwood Park;NJ;New Jersey;34003;Bergen;40,9049;-74,1201;20019;2924;shape;FALSE;TRUE;America/New_York;2;1840003544
+Norwood;Norwood;OH;Ohio;39061;Hamilton;39,1605;-84,4535;19843;2437;shape;FALSE;TRUE;America/New_York;2;1840001610
+West Hempstead;West Hempstead;NY;New York;36059;Nassau;40,6959;-73,6507;19787;2874;shape;FALSE;FALSE;America/New_York;2;1840005282
+North Bay Shore;North Bay Shore;NY;New York;36103;Suffolk;40,7602;-73,2617;19728;2382;shape;FALSE;TRUE;America/New_York;2;1840005055
+Franconia;Franconia;VA;Virginia;51059;Fairfax;38,7682;-77,1587;19478;2161;shape;FALSE;FALSE;America/New_York;2;1840006027
+Lynbrook;Lynbrook;NY;New York;36059;Nassau;40,6579;-73,6742;19445;3729;shape;FALSE;TRUE;America/New_York;2;1840005304
+Central Falls;Central Falls;RI;Rhode Island;44007;Providence;41,8901;-71,3934;19437;6285;shape;FALSE;TRUE;America/New_York;2;1840003286
+Langley Park;Langley Park;MD;Maryland;24033;Prince George's;38,9897;-76,9808;19391;7530;shape;FALSE;FALSE;America/New_York;2;1840005959
+Evergreen Park;Evergreen Park;IL;Illinois;17031;Cook;41,7213;-87,7013;19290;2354;shape;FALSE;TRUE;America/Chicago;2;1840011273
+Mineola;Mineola;NY;New York;36059;Nassau;40,747;-73,6394;19267;4018;shape;FALSE;TRUE;America/New_York;2;1840005310
+Hermosa Beach;Hermosa Beach;CA;California;06037;Los Angeles;33,8653;-118,3962;19147;5185;shape;FALSE;TRUE;America/Los_Angeles;2;1840020487
+South San Jose Hills;South San Jose Hills;CA;California;06037;Los Angeles;34,0123;-117,9043;19104;4925;shape;FALSE;FALSE;America/Los_Angeles;2;1840019208
+Sherrelwood;Sherrelwood;CO;Colorado;08001;Adams;39,839;-105,0014;19082;3019;shape;FALSE;FALSE;America/Denver;2;1840028581
+Morristown;Morristown;NJ;New Jersey;34027;Morris;40,7967;-74,4772;19065;2530;shape;FALSE;TRUE;America/New_York;2;1840003577
+Seabrook;Seabrook;MD;Maryland;24033;Prince George's;38,9802;-76,8502;19020;2386;shape;FALSE;FALSE;America/New_York;2;1840024547
+North Amityville;North Amityville;NY;New York;36103;Suffolk;40,7005;-73,4119;18890;3094;shape;FALSE;FALSE;America/New_York;2;1840005053
+Bellaire;Bellaire;TX;Texas;48201;Harris;29,704;-95,4621;18862;2024;shape;FALSE;TRUE;America/Chicago;2;1840019617
+Bellwood;Bellwood;IL;Illinois;17031;Cook;41,8829;-87,8762;18799;3026;shape;FALSE;TRUE;America/Chicago;2;1840011248
+Hawthorne;Hawthorne;NJ;New Jersey;34031;Passaic;40,9579;-74,1582;18762;2182;shape;FALSE;TRUE;America/New_York;2;1840003513
+North Valley Stream;North Valley Stream;NY;New York;36059;Nassau;40,684;-73,7077;18712;3875;shape;FALSE;FALSE;America/New_York;2;1840005244
+Country Walk;Country Walk;FL;Florida;12086;Miami-Dade;25,633;-80,4353;18710;2801;shape;FALSE;FALSE;America/New_York;2;1840028979
+Point Pleasant;Point Pleasant;NJ;New Jersey;34029;Ocean;40,0772;-74,0702;18686;2066;shape;FALSE;TRUE;America/New_York;2;1840001485
+Cedar Mill;Cedar Mill;OR;Oregon;41067;Washington;45,5355;-122,8006;18661;2164;shape;FALSE;FALSE;America/Los_Angeles;2;1840034678
+East Massapequa;East Massapequa;NY;New York;36059;Nassau;40,6742;-73,4359;18564;2121;shape;FALSE;FALSE;America/New_York;2;1840034047
+Merrifield;Merrifield;VA;Virginia;51059;Fairfax;38,8731;-77,2426;18523;2650;shape;FALSE;FALSE;America/New_York;2;1840006019
+Brookfield;Brookfield;IL;Illinois;17031;Cook;41,8245;-87,847;18520;2333;shape;FALSE;TRUE;America/Chicago;2;1840010142
+Hybla Valley;Hybla Valley;VA;Virginia;51059;Fairfax;38,7484;-77,0821;18438;3467;shape;FALSE;FALSE;America/New_York;2;1840006031
+Rutherford;Rutherford;NJ;New Jersey;34003;Bergen;40,8203;-74,1057;18376;2551;shape;FALSE;TRUE;America/New_York;2;1840000902
+Harrison;Harrison;NJ;New Jersey;34017;Hudson;40,7431;-74,1531;18313;5837;shape;FALSE;TRUE;America/New_York;2;1840003598
+Schofield Barracks;Schofield Barracks;HI;Hawaii;15003;Honolulu;21,4936;-158,0617;18276;2546;shape;TRUE;TRUE;Pacific/Honolulu;2;1840075052
+Hyattsville;Hyattsville;MD;Maryland;24033;Prince George's;38,9613;-76,9548;18267;2607;shape;FALSE;TRUE;America/New_York;2;1840005975
+North Massapequa;North Massapequa;NY;New York;36059;Nassau;40,7031;-73,4678;18239;2351;shape;FALSE;FALSE;America/New_York;2;1840005241
+Idylwood;Idylwood;VA;Virginia;51059;Fairfax;38,8896;-77,2056;18099;2494;shape;FALSE;FALSE;America/New_York;2;1840006032
+Sudley;Sudley;VA;Virginia;51153;Prince William;38,7878;-77,4961;18019;2524;shape;FALSE;FALSE;America/New_York;2;1840006104
+Burke Centre;Burke Centre;VA;Virginia;51059;Fairfax;38,7903;-77,2999;17952;2212;shape;FALSE;TRUE;America/New_York;2;1840041683
+North Babylon;North Babylon;NY;New York;36103;Suffolk;40,7314;-73,3248;17872;2093;shape;FALSE;FALSE;America/New_York;2;1840005054
+Dover;Dover;NJ;New Jersey;34027;Morris;40,8859;-74,5597;17866;2578;shape;FALSE;TRUE;America/New_York;2;1840003581
+Takoma Park;Takoma Park;MD;Maryland;24031;Montgomery;38,981;-77,0028;17703;3269;shape;FALSE;TRUE;America/New_York;2;1840005850
+Bryn Mawr-Skyway;Bryn Mawr-Skyway;WA;Washington;53033;King;47,4949;-122,241;17643;2386;shape;FALSE;TRUE;America/Los_Angeles;2;1840037012
+Dumont;Dumont;NJ;New Jersey;34003;Bergen;40,9452;-73,9923;17598;3485;shape;FALSE;TRUE;America/New_York;2;1840003541
+Kingstowne;Kingstowne;VA;Virginia;51059;Fairfax;38,7625;-77,1444;17585;2367;shape;FALSE;TRUE;America/New_York;2;1840041770
+Greenfield;Greenfield;CA;California;06053;Monterey;36,3242;-121,2428;17565;2326;shape;FALSE;TRUE;America/Los_Angeles;2;1840020356
+Manassas Park;Manassas Park;VA;Virginia;51685;Manassas Park;38,7709;-77,4429;17548;2233;shape;FALSE;TRUE;America/New_York;2;1840003838
+Bostonia;Bostonia;CA;California;06073;San Diego;32,8189;-116,948;17532;3514;shape;FALSE;FALSE;America/Los_Angeles;2;1840018018
+South Houston;South Houston;TX;Texas;48201;Harris;29,6611;-95,2285;17522;2220;shape;FALSE;TRUE;America/Chicago;2;1840022199
+Brownsville;Brownsville;FL;Florida;12086;Miami-Dade;25,8216;-80,2417;17475;2959;shape;FALSE;FALSE;America/New_York;2;1840029024
+Iselin;Iselin;NJ;New Jersey;34023;Middlesex;40,5697;-74,3172;17356;2126;shape;FALSE;FALSE;America/New_York;2;1840005418
+Massapequa Park;Massapequa Park;NY;New York;36059;Nassau;40,6817;-73,4496;17152;3021;shape;FALSE;TRUE;America/New_York;2;1840005307
+East Cleveland;East Cleveland;OH;Ohio;39035;Cuyahoga;41,5317;-81,5794;17047;2134;shape;FALSE;TRUE;America/New_York;2;1840000599
+Pinewood;Pinewood;FL;Florida;12086;Miami-Dade;25,8697;-80,2174;17044;3754;shape;FALSE;FALSE;America/New_York;2;1840029066
+Woodmere;Woodmere;NY;New York;36059;Nassau;40,6375;-73,7219;17020;2546;shape;FALSE;FALSE;America/New_York;2;1840005284
+Ojus;Ojus;FL;Florida;12086;Miami-Dade;25,9563;-80,1606;16972;2473;shape;FALSE;FALSE;America/New_York;2;1840028742
+Lansdale;Lansdale;PA;Pennsylvania;42091;Montgomery;40,2417;-75,2812;16846;2173;shape;FALSE;TRUE;America/New_York;2;1840003703
+Bull Run;Bull Run;VA;Virginia;51153;Prince William;38,7802;-77,5204;16769;2481;shape;FALSE;FALSE;America/New_York;2;1840006093
+Clayton;Clayton;MO;Missouri;29189;St. Louis;38,6444;-90,3303;16763;2580;shape;FALSE;TRUE;America/Chicago;2;1840007439
+Roosevelt;Roosevelt;NY;New York;36059;Nassau;40,6797;-73,5837;16522;3603;shape;FALSE;FALSE;America/New_York;2;1840005253
+Hillcrest Heights;Hillcrest Heights;MD;Maryland;24033;Prince George's;38,8373;-76,9641;16498;2561;shape;FALSE;FALSE;America/New_York;2;1840005957
+Four Corners;Four Corners;OR;Oregon;41047;Marion;44,929;-122,9732;16491;2593;shape;FALSE;FALSE;America/Los_Angeles;2;1840034722
+New Milford;New Milford;NJ;New Jersey;34003;Bergen;40,9337;-74,0196;16477;2786;shape;FALSE;TRUE;America/New_York;2;1840000908
+Artesia;Artesia;CA;California;06037;Los Angeles;33,8676;-118,0805;16456;3920;shape;FALSE;TRUE;America/Los_Angeles;2;1840019224
+Hazel Park;Hazel Park;MI;Michigan;26125;Oakland;42,4619;-83,0977;16452;2254;shape;FALSE;TRUE;America/Detroit;2;1840002444
+Wahiawa;Wahiawa;HI;Hawaii;15003;Honolulu;21,5012;-158,0178;16442;2773;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029550
+Palmetto Estates;Palmetto Estates;FL;Florida;12086;Miami-Dade;25,6211;-80,3616;16419;2937;shape;FALSE;FALSE;America/New_York;2;1840029063
+Vincent;Vincent;CA;California;06037;Los Angeles;34,0983;-117,9238;16405;4300;shape;FALSE;TRUE;America/Los_Angeles;2;1840074687
+East Riverdale;East Riverdale;MD;Maryland;24033;Prince George's;38,96;-76,9109;16395;3918;shape;FALSE;FALSE;America/New_York;2;1840031482
+Adelphi;Adelphi;MD;Maryland;24033;Prince George's;39,0017;-76,9649;16364;2326;shape;FALSE;FALSE;America/New_York;2;1840005944
+Glassmanor;Glassmanor;MD;Maryland;24033;Prince George's;38,8181;-76,9833;16305;2707;shape;FALSE;FALSE;America/New_York;2;1840024545
+Parkway;Parkway;CA;California;06067;Sacramento;38,4993;-121,452;16282;2609;shape;FALSE;FALSE;America/Los_Angeles;2;1840024628
+Stanford;Stanford;CA;California;06085;Santa Clara;37,4252;-122,1674;16200;2274;shape;FALSE;FALSE;America/Los_Angeles;2;1840028400
+White Center;White Center;WA;Washington;53033;King;47,5086;-122,3479;15995;2718;shape;FALSE;FALSE;America/Los_Angeles;2;1840037727
+Floral Park;Floral Park;NY;New York;36059;Nassau;40,7227;-73,7029;15979;4341;shape;FALSE;TRUE;America/New_York;2;1840005286
+Cherryland;Cherryland;CA;California;06001;Alameda;37,6792;-122,1038;15976;5168;shape;FALSE;FALSE;America/Los_Angeles;2;1840028361
+Walnut Park;Walnut Park;CA;California;06037;Los Angeles;33,9682;-118,222;15939;8211;shape;FALSE;FALSE;America/Los_Angeles;2;1840019218
+Bellmore;Bellmore;NY;New York;36059;Nassau;40,6569;-73,5285;15887;2599;shape;FALSE;FALSE;America/New_York;2;1840005232
+South River;South River;NJ;New Jersey;34023;Middlesex;40,4455;-74,3783;15874;2200;shape;FALSE;TRUE;America/New_York;2;1840001335
+Isla Vista;Isla Vista;CA;California;06083;Santa Barbara;34,4128;-119,8614;15733;11020;shape;FALSE;FALSE;America/Los_Angeles;2;1840017887
+Ocean Pointe;Ocean Pointe;HI;Hawaii;15003;Honolulu;21,3145;-158,0289;15688;2992;shape;FALSE;TRUE;Pacific/Honolulu;2;1840039242
+North Arlington;North Arlington;NJ;New Jersey;34003;Bergen;40,7874;-74,1273;15681;2437;shape;FALSE;TRUE;America/New_York;2;1840000909
+La Palma;La Palma;CA;California;06059;Orange;33,8504;-118,0407;15657;3395;shape;FALSE;TRUE;America/Los_Angeles;2;1840020586
+Parlier;Parlier;CA;California;06019;Fresno;36,6087;-119,5434;15645;2507;shape;FALSE;TRUE;America/Los_Angeles;2;1840020323
+West University Place;West University Place;TX;Texas;48201;Harris;29,7157;-95,4321;15589;3003;shape;FALSE;TRUE;America/Chicago;2;1840022205
+La Grange;La Grange;IL;Illinois;17031;Cook;41,8072;-87,8741;15555;2378;shape;FALSE;TRUE;America/Chicago;2;1840011255
+Asbury Park;Asbury Park;NJ;New Jersey;34025;Monmouth;40,2226;-74,0119;15536;4197;shape;FALSE;TRUE;America/New_York;2;1840003684
+Pacific Grove;Pacific Grove;CA;California;06053;Monterey;36,6188;-121,9259;15471;2084;shape;FALSE;TRUE;America/Los_Angeles;2;1840020359
+Wilkinsburg;Wilkinsburg;PA;Pennsylvania;42003;Allegheny;40,4442;-79,8733;15367;2633;shape;FALSE;TRUE;America/New_York;2;1840001278
+Berkley;Berkley;MI;Michigan;26125;Oakland;42,4986;-83,1853;15352;2266;shape;FALSE;TRUE;America/Detroit;2;1840002437
+Westbury;Westbury;NY;New York;36059;Nassau;40,7599;-73,5891;15339;2527;shape;FALSE;TRUE;America/New_York;2;1840005332
+Salida;Salida;CA;California;06099;Stanislaus;37,7083;-121,0842;15269;2659;shape;FALSE;FALSE;America/Los_Angeles;2;1840018908
+East Rancho Dominguez;East Rancho Dominguez;CA;California;06037;Los Angeles;33,8949;-118,1956;15252;7170;shape;FALSE;FALSE;America/Los_Angeles;2;1840028368
+Seaford;Seaford;NY;New York;36059;Nassau;40,6678;-73,4922;15153;2241;shape;FALSE;FALSE;America/New_York;2;1840005275
+New Cassel;New Cassel;NY;New York;36059;Nassau;40,7602;-73,5649;15144;3915;shape;FALSE;FALSE;America/New_York;2;1840005239
+Glenmont;Glenmont;MD;Maryland;24031;Montgomery;39,0698;-77,0467;15111;2083;shape;FALSE;FALSE;America/New_York;2;1840024490
+Lemon Hill;Lemon Hill;CA;California;06067;Sacramento;38,5172;-121,4573;15104;3555;shape;FALSE;TRUE;America/Los_Angeles;2;1840075922
+Kenmore;Kenmore;NY;New York;36029;Erie;42,9646;-78,8713;15081;4055;shape;FALSE;TRUE;America/New_York;2;1840004386
+West Park;West Park;FL;Florida;12011;Broward;25,984;-80,1923;15052;2643;shape;FALSE;TRUE;America/New_York;2;1840016002
+Newport;Newport;KY;Kentucky;21037;Campbell;39,0856;-84,4868;15045;2108;shape;FALSE;TRUE;America/New_York;2;1840014261
+Stone Ridge;Stone Ridge;VA;Virginia;51107;Loudoun;38,9294;-77,5557;15034;2245;shape;FALSE;TRUE;America/New_York;2;1840041868
+North Fair Oaks;North Fair Oaks;CA;California;06081;San Mateo;37,4754;-122,2034;14992;4839;shape;FALSE;FALSE;America/Los_Angeles;2;1840028325
+North New Hyde Park;North New Hyde Park;NY;New York;36059;Nassau;40,746;-73,6876;14952;2899;shape;FALSE;FALSE;America/New_York;2;1840005243
+Kemp Mill;Kemp Mill;MD;Maryland;24031;Montgomery;39,0412;-77,0215;14812;2278;shape;FALSE;FALSE;America/New_York;2;1840005842
+South Farmingdale;South Farmingdale;NY;New York;36059;Nassau;40,7175;-73,4473;14766;2599;shape;FALSE;FALSE;America/New_York;2;1840005276
+Norridge;Norridge;IL;Illinois;17031;Cook;41,9637;-87,8231;14465;3089;shape;FALSE;TRUE;America/Chicago;2;1840011302
+Cayey;Cayey;PR;Puerto Rico;72035;Cayey;18,115;-66,163;14388;2188;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035640
+Falls Church;Falls Church;VA;Virginia;51610;Falls Church;38,8847;-77,1751;14309;2699;shape;FALSE;TRUE;America/New_York;2;1840003835
+Lake Stickney;Lake Stickney;WA;Washington;53061;Snohomish;47,8733;-122,2582;14306;2777;shape;FALSE;FALSE;America/Los_Angeles;2;1840037894
+Olympia Heights;Olympia Heights;FL;Florida;12086;Miami-Dade;25,724;-80,3388;14261;2034;shape;FALSE;FALSE;America/New_York;2;1840014247
+Princeton Meadows;Princeton Meadows;NJ;New Jersey;34023;Middlesex;40,3347;-74,5651;14261;2159;shape;FALSE;FALSE;America/New_York;2;1840033474
+Fairview;Fairview;NJ;New Jersey;34003;Bergen;40,8182;-74,0022;14218;6506;shape;FALSE;TRUE;America/New_York;2;1840003549
+Hawaiian Gardens;Hawaiian Gardens;CA;California;06037;Los Angeles;33,8304;-118,0728;14212;5807;shape;FALSE;TRUE;America/Los_Angeles;2;1840020485
+Flower Hill;Flower Hill;MD;Maryland;24031;Montgomery;39,1676;-77,1824;14185;2619;shape;FALSE;FALSE;America/New_York;2;1840148534
+Willowick;Willowick;OH;Ohio;39085;Lake;41,6342;-81,4678;14103;2146;shape;FALSE;TRUE;America/New_York;2;1840000549
+Chicago Ridge;Chicago Ridge;IL;Illinois;17031;Cook;41,7034;-87,7795;14028;2388;shape;FALSE;TRUE;America/Chicago;2;1840010146
+Halawa;Halawa;HI;Hawaii;15003;Honolulu;21,3753;-157,9185;13953;2255;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029579
+Pierre;Pierre;SD;South Dakota;46065;Hughes;44,3748;-100,3205;13908;412;shape;FALSE;TRUE;America/Chicago;2;1840000313
+Whitefish Bay;Whitefish Bay;WI;Wisconsin;55079;Milwaukee;43,1131;-87,9003;13890;2535;shape;FALSE;TRUE;America/Chicago;2;1840003036
+Avocado Heights;Avocado Heights;CA;California;06037;Los Angeles;34,0391;-117,997;13836;2373;shape;FALSE;FALSE;America/Los_Angeles;2;1840028318
+Harper Woods;Harper Woods;MI;Michigan;26163;Wayne;42,439;-82,9293;13829;2030;shape;FALSE;TRUE;America/Detroit;2;1840003981
+Forest Park;Forest Park;IL;Illinois;17031;Cook;41,8683;-87,8157;13808;2219;shape;FALSE;TRUE;America/Chicago;2;1840011276
+Bexley;Bexley;OH;Ohio;39049;Franklin;39,965;-82,9343;13805;2201;shape;FALSE;TRUE;America/New_York;2;1840003759
+Highland Park;Highland Park;NJ;New Jersey;34023;Middlesex;40,5006;-74,4283;13803;2926;shape;FALSE;TRUE;America/New_York;2;1840003636
+Ewa Beach;Ewa Beach;HI;Hawaii;15003;Honolulu;21,3181;-158,0073;13803;4473;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029470
+Waimalu;Waimalu;HI;Hawaii;15003;Honolulu;21,3913;-157,9345;13714;2891;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029588
+Roselle Park;Roselle Park;NJ;New Jersey;34039;Union;40,6653;-74,2666;13574;4280;shape;FALSE;TRUE;America/New_York;2;1840001093
+Ardmore;Ardmore;PA;Pennsylvania;42091;Montgomery;40,0033;-75,2947;13567;2658;shape;FALSE;FALSE;America/New_York;2;1840005455
+Federal Heights;Federal Heights;CO;Colorado;08001;Adams;39,8651;-105,0154;13537;2943;shape;FALSE;TRUE;America/Denver;2;1840028425
+Huntington;Huntington;VA;Virginia;51059;Fairfax;38,7916;-77,074;13526;4624;shape;FALSE;FALSE;America/New_York;2;1840006030
+Gladeview;Gladeview;FL;Florida;12086;Miami-Dade;25,8395;-80,2368;13490;2034;shape;FALSE;FALSE;America/New_York;2;1840029038
+Grover Beach;Grover Beach;CA;California;06079;San Luis Obispo;35,1204;-120,6197;13481;2251;shape;FALSE;TRUE;America/Los_Angeles;2;1840020414
+Carpinteria;Carpinteria;CA;California;06083;Santa Barbara;34,3962;-119,5118;13449;2006;shape;FALSE;TRUE;America/Los_Angeles;2;1840019187
+Shorewood;Shorewood;WI;Wisconsin;55079;Milwaukee;43,0913;-87,8864;13248;3217;shape;FALSE;TRUE;America/Chicago;2;1840003031
+Bothell East;Bothell East;WA;Washington;53061;Snohomish;47,8064;-122,1844;13164;2424;shape;FALSE;TRUE;America/Los_Angeles;2;1840041892
+Indiana;Indiana;PA;Pennsylvania;42063;Indiana;40,622;-79,1552;13162;2888;shape;FALSE;TRUE;America/New_York;2;1840000997
+La Grange Park;La Grange Park;IL;Illinois;17031;Cook;41,8308;-87,8723;13129;2270;shape;FALSE;TRUE;America/Chicago;2;1840011256
+Westmont;Westmont;NJ;New Jersey;34007;Camden;39,9082;-75,0551;13104;2273;shape;FALSE;FALSE;America/New_York;2;1840033439
+Coatesville;Coatesville;PA;Pennsylvania;42029;Chester;39,9849;-75,82;13096;2795;shape;FALSE;TRUE;America/New_York;2;1840001424
+Ridgefield Park;Ridgefield Park;NJ;New Jersey;34003;Bergen;40,8543;-74,0201;12928;2928;shape;FALSE;TRUE;America/New_York;2;1840000898
+New Carrollton;New Carrollton;MD;Maryland;24033;Prince George's;38,9656;-76,8775;12925;3187;shape;FALSE;TRUE;America/New_York;2;1840005978
+University Heights;University Heights;OH;Ohio;39035;Cuyahoga;41,4948;-81,535;12908;2728;shape;FALSE;TRUE;America/New_York;2;1840003416
+Edgewater;Edgewater;NJ;New Jersey;34003;Bergen;40,8237;-73,974;12890;5125;shape;FALSE;TRUE;America/New_York;2;1840003543
+Key Biscayne;Key Biscayne;FL;Florida;12086;Miami-Dade;25,6908;-80,1653;12867;3983;shape;FALSE;TRUE;America/New_York;2;1840018333
+Kingston;Kingston;PA;Pennsylvania;42079;Luzerne;41,2652;-75,8876;12859;2313;shape;FALSE;TRUE;America/New_York;2;1840000756
+Cornelius;Cornelius;OR;Oregon;41067;Washington;45,5188;-123,051;12767;2107;shape;FALSE;TRUE;America/Los_Angeles;2;1840018557
+Clarkston;Clarkston;GA;Georgia;13089;DeKalb;33,8117;-84,2403;12747;2667;shape;FALSE;TRUE;America/New_York;2;1840014776
+Sugarland Run;Sugarland Run;VA;Virginia;51107;Loudoun;39,0309;-77,3762;12656;2432;shape;FALSE;FALSE;America/New_York;2;1840024510
+Maili;Maili;HI;Hawaii;15003;Honolulu;21,4133;-158,1701;12591;2844;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029522
+Wilton Manors;Wilton Manors;FL;Florida;12011;Broward;26,1593;-80,1395;12582;2466;shape;FALSE;TRUE;America/New_York;2;1840016004
+Fords;Fords;NJ;New Jersey;34023;Middlesex;40,5359;-74,3126;12509;2556;shape;FALSE;FALSE;America/New_York;2;1840005409
+Salisbury;Salisbury;NY;New York;36059;Nassau;40,7454;-73,5604;12463;2757;shape;FALSE;FALSE;America/New_York;2;1840005255
+Patchogue;Patchogue;NY;New York;36103;Suffolk;40,7621;-73,0185;12389;2116;shape;FALSE;TRUE;America/New_York;2;1840005129
+Río Grande;Rio Grande;PR;Puerto Rico;72119;Río Grande;18,3789;-65,8388;12300;3434;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023701
+Naranja;Naranja;FL;Florida;12086;Miami-Dade;25,5164;-80,4222;12267;3160;shape;FALSE;FALSE;America/New_York;2;1840014246
+Manatí;Manati;PR;Puerto Rico;72091;Manatí;18,4283;-66,4823;12231;2270;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023562
+Somerville;Somerville;NJ;New Jersey;34035;Somerset;40,5696;-74,6092;12139;2004;shape;FALSE;TRUE;America/New_York;2;1840001056
+Red Bank;Red Bank;NJ;New Jersey;34025;Monmouth;40,348;-74,0672;12039;2662;shape;FALSE;TRUE;America/New_York;2;1840001358
+North Merrick;North Merrick;NY;New York;36059;Nassau;40,6871;-73,5615;12037;2703;shape;FALSE;FALSE;America/New_York;2;1840005242
+Home Gardens;Home Gardens;CA;California;06065;Riverside;33,8783;-117,5116;12027;3075;shape;FALSE;FALSE;America/Los_Angeles;2;1840017987
+Hasbrouck Heights;Hasbrouck Heights;NJ;New Jersey;34003;Bergen;40,8618;-74,0741;12026;3047;shape;FALSE;TRUE;America/New_York;2;1840003558
+South Miami;South Miami;FL;Florida;12086;Miami-Dade;25,7079;-80,2952;11958;2036;shape;FALSE;TRUE;America/New_York;2;1840016006
+Rossmoor;Rossmoor;CA;California;06059;Orange;33,7887;-118,0803;11923;2952;shape;FALSE;FALSE;America/Los_Angeles;2;1840019320
+Clawson;Clawson;MI;Michigan;26125;Oakland;42,5367;-83,1504;11909;2090;shape;FALSE;TRUE;America/Detroit;2;1840002440
+Hillcrest;Hillcrest;CA;California;06029;Kern;35,379;-118,9578;11801;3305;shape;FALSE;FALSE;America/Los_Angeles;2;1840145203
+Alum Rock;Alum Rock;CA;California;06085;Santa Clara;37,3694;-121,8238;11798;5242;shape;FALSE;FALSE;America/Los_Angeles;2;1840017638
+Caño Martin Peña;Cano Martin Pena;PR;Puerto Rico;72127;San Juan;18,4309;-66,0507;11795;6617;shape;FALSE;FALSE;America/Puerto_Rico;2;1630142912
+North Wantagh;North Wantagh;NY;New York;36059;Nassau;40,6983;-73,5086;11792;2392;shape;FALSE;FALSE;America/New_York;2;1840005245
+Oak Hills;Oak Hills;OR;Oregon;41067;Washington;45,5405;-122,8413;11682;2896;shape;FALSE;FALSE;America/Los_Angeles;2;1840034830
+Emeryville;Emeryville;CA;California;06001;Alameda;37,8382;-122,2932;11679;3541;shape;FALSE;TRUE;America/Los_Angeles;2;1840020291
+University of California-Santa Barbara;University of California-Santa Barbara;CA;California;06083;Santa Barbara;34,4151;-119,8568;11671;3469;shape;FALSE;FALSE;America/Los_Angeles;2;1840153164
+Wyandanch;Wyandanch;NY;New York;36103;Suffolk;40,7496;-73,3633;11632;2068;shape;FALSE;FALSE;America/New_York;2;1840005115
+View Park-Windsor Hills;View Park-Windsor Hills;CA;California;06037;Los Angeles;33,9955;-118,3483;11621;2436;shape;FALSE;TRUE;America/Los_Angeles;2;1840074686
+La Riviera;La Riviera;CA;California;06067;Sacramento;38,5683;-121,3544;11570;2351;shape;FALSE;FALSE;America/Los_Angeles;2;1840028382
+Wallington;Wallington;NJ;New Jersey;34003;Bergen;40,8536;-74,1069;11553;4487;shape;FALSE;TRUE;America/New_York;2;1840000922
+River Edge;River Edge;NJ;New Jersey;34003;Bergen;40,9269;-74,0387;11510;2425;shape;FALSE;TRUE;America/New_York;2;1840000900
+Cherry Creek;Cherry Creek;CO;Colorado;08005;Arapahoe;39,6094;-104,8645;11503;2661;shape;FALSE;FALSE;America/Denver;2;1840028588
+Newman;Newman;CA;California;06099;Stanislaus;37,3156;-121,0212;11498;2152;shape;FALSE;TRUE;America/Los_Angeles;2;1840020288
+Yeadon;Yeadon;PA;Pennsylvania;42045;Delaware;39,9325;-75,2527;11495;2782;shape;FALSE;TRUE;America/New_York;2;1840000715
+Piedmont;Piedmont;CA;California;06001;Alameda;37,8225;-122,2301;11454;2601;shape;FALSE;TRUE;America/Los_Angeles;2;1840020297
+Signal Hill;Signal Hill;CA;California;06037;Los Angeles;33,803;-118,1681;11430;2015;shape;FALSE;TRUE;America/Los_Angeles;2;1840021868
+Guttenberg;Guttenberg;NJ;New Jersey;34017;Hudson;40,7928;-74,0049;11284;18829,8;shape;FALSE;TRUE;America/New_York;2;1840003597
+Summit;Summit;IL;Illinois;17031;Cook;41,7877;-87,8146;11171;2035;shape;FALSE;TRUE;America/Chicago;2;1840011329
+Coamo;Coamo;PR;Puerto Rico;72043;Coamo;18,0765;-66,3638;11100;2351;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035648
+Westwood Lakes;Westwood Lakes;FL;Florida;12086;Miami-Dade;25,7237;-80,3717;11086;2581;shape;FALSE;FALSE;America/New_York;2;1840028796
+Suffern;Suffern;NY;New York;36087;Rockland;41,1138;-74,1422;10945;2015;shape;FALSE;TRUE;America/New_York;2;1840004987
+North Lindenhurst;North Lindenhurst;NY;New York;36103;Suffolk;40,7072;-73,3859;10860;2172;shape;FALSE;FALSE;America/New_York;2;1840005058
+Potomac Park;Potomac Park;CA;California;06029;Kern;35,3636;-118,965;10833;2925;shape;FALSE;FALSE;America/Los_Angeles;2;1840147389
+Little Ferry;Little Ferry;NJ;New Jersey;34003;Bergen;40,8464;-74,0388;10761;2812;shape;FALSE;TRUE;America/New_York;2;1840003534
+Waipio;Waipio;HI;Hawaii;15003;Honolulu;21,4143;-157,9966;10745;3327;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029589
+Northbrook;Northbrook;OH;Ohio;39061;Hamilton;39,2467;-84,5796;10744;2148;shape;FALSE;FALSE;America/New_York;2;1840034123
+Darby;Darby;PA;Pennsylvania;42045;Delaware;39,921;-75,261;10711;4910;shape;FALSE;TRUE;America/New_York;2;1840000695
+Lansdowne;Lansdowne;PA;Pennsylvania;42045;Delaware;39,9408;-75,276;10637;3476;shape;FALSE;TRUE;America/New_York;2;1840000700
+Jacinto City;Jacinto City;TX;Texas;48201;Harris;29,7663;-95,241;10544;2196;shape;FALSE;TRUE;America/Chicago;2;1840019619
+Timberlane;Timberlane;LA;Louisiana;22051;Jefferson;29,8781;-90,0303;10498;2695;shape;FALSE;FALSE;America/Chicago;2;1840031154
+Del Aire;Del Aire;CA;California;06037;Los Angeles;33,9167;-118,3693;10424;3991;shape;FALSE;FALSE;America/Los_Angeles;2;1840028367
+River Road;River Road;OR;Oregon;41039;Lane;44,0833;-123,132;10352;2189;shape;FALSE;FALSE;America/Los_Angeles;2;1840034832
+Bound Brook;Bound Brook;NJ;New Jersey;34035;Somerset;40,5676;-74,5383;10254;2383;shape;FALSE;TRUE;America/New_York;2;1840001053
+East Bakersfield;East Bakersfield;CA;California;06029;Kern;35,3832;-118,9743;10254;5029;shape;FALSE;FALSE;America/Los_Angeles;2;1840150305
+West Haverstraw;West Haverstraw;NY;New York;36087;Rockland;41,2063;-73,9884;10220;2592;shape;FALSE;TRUE;America/New_York;2;1840004990
+East Whittier;East Whittier;CA;California;06037;Los Angeles;33,9244;-117,9887;10182;3606;shape;FALSE;FALSE;America/Los_Angeles;2;1840019205
+Great Neck;Great Neck;NY;New York;36059;Nassau;40,8029;-73,7333;10172;2965;shape;FALSE;TRUE;America/New_York;2;1840005290
+Orange Cove;Orange Cove;CA;California;06019;Fresno;36,6211;-119,3188;10120;2180;shape;FALSE;TRUE;America/Los_Angeles;2;1840020322
+Citrus;Citrus;CA;California;06037;Los Angeles;34,116;-117,8891;10105;4453;shape;FALSE;FALSE;America/Los_Angeles;2;1840017916
+Blacklick Estates;Blacklick Estates;OH;Ohio;39049;Franklin;39,9049;-82,8655;10097;2064;shape;FALSE;FALSE;America/New_York;2;1840034379
+Capitola;Capitola;CA;California;06087;Santa Cruz;36,9773;-121,9537;10090;2443;shape;FALSE;TRUE;America/Los_Angeles;2;1840018959
+Marina del Rey;Marina del Rey;CA;California;06037;Los Angeles;33,9765;-118,4486;10065;4531;shape;FALSE;FALSE;America/Los_Angeles;2;1840017920
+Westgate;Westgate;FL;Florida;12099;Palm Beach;26,6994;-80,0989;10027;2548;shape;FALSE;TRUE;America/New_York;2;1840042909
+La Cresta;La Cresta;CA;California;06029;Kern;35,3972;-118,9892;9990;3686;shape;FALSE;FALSE;America/Los_Angeles;2;1840147387
+Watervliet;Watervliet;NY;New York;36001;Albany;42,7243;-73,7068;9976;2870;shape;FALSE;TRUE;America/New_York;2;1840002495
+Charter Oak;Charter Oak;CA;California;06037;Los Angeles;34,1025;-117,8564;9963;4146;shape;FALSE;FALSE;America/Los_Angeles;2;1840017919
+Stonegate;Stonegate;CO;Colorado;08035;Douglas;39,5357;-104,8032;9860;2077;shape;FALSE;FALSE;America/Denver;2;1840028570
+East Rockaway;East Rockaway;NY;New York;36059;Nassau;40,6432;-73,6672;9810;3720;shape;FALSE;TRUE;America/New_York;2;1840005343
+Inwood;Inwood;NY;New York;36059;Nassau;40,6219;-73,7506;9804;2373;shape;FALSE;FALSE;America/New_York;2;1840005267
+New Hyde Park;New Hyde Park;NY;New York;36059;Nassau;40,7323;-73,6858;9746;4438;shape;FALSE;TRUE;America/New_York;2;1840005313
+Woodlyn;Woodlyn;PA;Pennsylvania;42045;Delaware;39,8774;-75,3445;9732;2244;shape;FALSE;FALSE;America/New_York;2;1840035266
+Aiea;Aiea;HI;Hawaii;15003;Honolulu;21,3865;-157,9232;9730;2261;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029469
+Keansburg;Keansburg;NJ;New Jersey;34025;Monmouth;40,4469;-74,1315;9697;3491;shape;FALSE;TRUE;America/New_York;2;1840003690
+West Perrine;West Perrine;FL;Florida;12086;Miami-Dade;25,6061;-80,3639;9653;2125;shape;FALSE;FALSE;America/New_York;2;1840029018
+Richmond Heights;Richmond Heights;FL;Florida;12086;Miami-Dade;25,6347;-80,3721;9640;2335;shape;FALSE;FALSE;America/New_York;2;1840014249
+Maywood;Maywood;NJ;New Jersey;34003;Bergen;40,9025;-74,0634;9626;2888;shape;FALSE;TRUE;America/New_York;2;1840003536
+Brookdale;Brookdale;NJ;New Jersey;34013;Essex;40,8348;-74,1798;9604;2313;shape;FALSE;FALSE;America/New_York;2;1840024254
+West Athens;West Athens;CA;California;06037;Los Angeles;33,9235;-118,3033;9554;2759;shape;FALSE;FALSE;America/Los_Angeles;2;1840028403
+Lincoln Village;Lincoln Village;OH;Ohio;39049;Franklin;39,9532;-83,1314;9546;2019;shape;FALSE;FALSE;America/New_York;2;1840034388
+Pájaros;Pajaros;PR;Puerto Rico;72135;Toa Alta;18,361;-66,2184;9528;2398;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035532
+Coral Hills;Coral Hills;MD;Maryland;24033;Prince George's;38,8706;-76,9215;9457;2236;shape;FALSE;FALSE;America/New_York;2;1840005950
+Bladensburg;Bladensburg;MD;Maryland;24033;Prince George's;38,9424;-76,9264;9428;3676;shape;FALSE;TRUE;America/New_York;2;1840005981
+Brentwood;Brentwood;PA;Pennsylvania;42003;Allegheny;40,3734;-79,9757;9319;2483;shape;FALSE;TRUE;America/New_York;2;1840001212
+Leisure World;Leisure World;MD;Maryland;24031;Montgomery;39,1023;-77,0689;9314;3187;shape;FALSE;TRUE;America/New_York;2;1840073671
+Roslyn;Roslyn;PA;Pennsylvania;42091;Montgomery;40,1311;-75,1374;9263;2715;shape;FALSE;FALSE;America/New_York;2;1840035292
+Lake Hiawatha;Lake Hiawatha;NJ;New Jersey;34027;Morris;40,8816;-74,3826;9220;3225;shape;FALSE;FALSE;America/New_York;2;1840033318
+Derby;Derby;CO;Colorado;08001;Adams;39,84;-104,9172;9156;2020;shape;FALSE;FALSE;America/Denver;2;1840028576
+Boulder Hill;Boulder Hill;IL;Illinois;17093;Kendall;41,7113;-88,3353;9081;2404;shape;FALSE;FALSE;America/Chicago;2;1840004821
+Leonia;Leonia;NJ;New Jersey;34003;Bergen;40,8638;-73,99;9059;2296;shape;FALSE;TRUE;America/New_York;2;1840000904
+Seven Corners;Seven Corners;VA;Virginia;51059;Fairfax;38,8658;-77,1445;9041;5124;shape;FALSE;FALSE;America/New_York;2;1840006038
+University of California-Davis;University of California-Davis;CA;California;06113;Yolo;38,5378;-121,7579;9031;2018;shape;FALSE;TRUE;America/Los_Angeles;2;1840042938
+Wood-Ridge;Wood-Ridge;NJ;New Jersey;34003;Bergen;40,8508;-74,0878;9016;3126;shape;FALSE;TRUE;America/New_York;2;1840000925
+North Kensington;North Kensington;MD;Maryland;24031;Montgomery;39,0393;-77,0723;8879;2292;shape;FALSE;FALSE;America/New_York;2;1840031382
+Farmingdale;Farmingdale;NY;New York;36059;Nassau;40,7328;-73,4468;8869;3129;shape;FALSE;TRUE;America/New_York;2;1840005285
+South Amboy;South Amboy;NJ;New Jersey;34023;Middlesex;40,4852;-74,2831;8868;2226;shape;FALSE;TRUE;America/New_York;2;1840001333
+Plainedge;Plainedge;NY;New York;36059;Nassau;40,7241;-73,477;8865;2437;shape;FALSE;FALSE;America/New_York;2;1840005249
+Collingdale;Collingdale;PA;Pennsylvania;42045;Delaware;39,9151;-75,2776;8776;3897;shape;FALSE;TRUE;America/New_York;2;1840000693
+Swissvale;Swissvale;PA;Pennsylvania;42003;Allegheny;40,4206;-79,8859;8724;2791;shape;FALSE;TRUE;America/New_York;2;1840001264
+Folsom;Folsom;PA;Pennsylvania;42045;Delaware;39,8924;-75,3287;8706;2689;shape;FALSE;FALSE;America/New_York;2;1840034970
+Midway City;Midway City;CA;California;06059;Orange;33,7452;-117,9849;8681;5498;shape;FALSE;FALSE;America/Los_Angeles;2;1840025037
+Audubon;Audubon;NJ;New Jersey;34007;Camden;39,8906;-75,0722;8656;2254;shape;FALSE;TRUE;America/New_York;2;1840003775
+Juncos;Juncos;PR;Puerto Rico;72077;Juncos;18,2256;-65,9161;8639;2222;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023721
+New Square;New Square;NY;New York;36087;Rockland;41,141;-74,0294;8589;3150,1;shape;FALSE;TRUE;America/New_York;2;1840004980
+Stony Brook University;Stony Brook University;NY;New York;36103;Suffolk;40,9098;-73,1217;8574;2007;shape;FALSE;TRUE;America/New_York;2;1840042758
+Malverne;Malverne;NY;New York;36059;Nassau;40,6746;-73,6721;8516;3107;shape;FALSE;TRUE;America/New_York;2;1840005305
+Jennings Lodge;Jennings Lodge;OR;Oregon;41005;Clackamas;45,3927;-122,6152;8500;2064;shape;FALSE;FALSE;America/Los_Angeles;2;1840017419
+South San Gabriel;South San Gabriel;CA;California;06037;Los Angeles;34,0488;-118,0961;8420;3897;shape;FALSE;FALSE;America/Los_Angeles;2;1840019207
+Heber;Heber;CA;California;06025;Imperial;32,7325;-115,5294;8413;2262;shape;FALSE;FALSE;America/Los_Angeles;2;1840018034
+Harwood Heights;Harwood Heights;IL;Illinois;17031;Cook;41,9663;-87,8057;8393;3928;shape;FALSE;TRUE;America/Chicago;2;1840011252
+Calumet Park;Calumet Park;IL;Illinois;17031;Cook;41,665;-87,6577;8383;2897;shape;FALSE;TRUE;America/Chicago;2;1840010145
+Bogota;Bogota;NJ;New Jersey;34003;Bergen;40,8751;-74,0293;8375;4285;shape;FALSE;TRUE;America/New_York;2;1840000894
+Dormont;Dormont;PA;Pennsylvania;42003;Allegheny;40,3941;-80,0377;8335;4232;shape;FALSE;TRUE;America/New_York;2;1840001222
+Haledon;Haledon;NJ;New Jersey;34031;Passaic;40,9363;-74,1887;8298;2637;shape;FALSE;TRUE;America/New_York;2;1840003512
+San Isidro;San Isidro;PR;Puerto Rico;72029;Canóvanas;18,3921;-65,8844;8296;4271;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035575
+Four Corners;Four Corners;MD;Maryland;24031;Montgomery;39,0235;-77,0102;8268;2181;shape;FALSE;FALSE;America/New_York;2;1840024489
+Grandview Heights;Grandview Heights;OH;Ohio;39049;Franklin;39,9793;-83,0408;8254;2417;shape;FALSE;TRUE;America/New_York;2;1840003761
+Cheviot;Cheviot;OH;Ohio;39061;Hamilton;39,1577;-84,6139;8241;2738;shape;FALSE;TRUE;America/New_York;2;1840003813
+Temple Hills;Temple Hills;MD;Maryland;24033;Prince George's;38,8106;-76,9495;8221;2254;shape;FALSE;FALSE;America/New_York;2;1840005967
+Broadview Park;Broadview Park;FL;Florida;12011;Broward;26,0978;-80,209;8156;3143;shape;FALSE;FALSE;America/New_York;2;1840028918
+West Miami;West Miami;FL;Florida;12086;Miami-Dade;25,7578;-80,2969;8152;4439;shape;FALSE;TRUE;America/New_York;2;1840016009
+Mount Rainier;Mount Rainier;MD;Maryland;24033;Prince George's;38,9423;-76,9645;8149;4944;shape;FALSE;TRUE;America/New_York;2;1840005977
+North Bay Village;North Bay Village;FL;Florida;12086;Miami-Dade;25,8487;-80,1535;8108;4987,1;shape;FALSE;TRUE;America/New_York;2;1840015153
+Bellevue;Bellevue;PA;Pennsylvania;42003;Allegheny;40,4945;-80,055;8088;3092;shape;FALSE;TRUE;America/New_York;2;1840001203
+Garden City Park;Garden City Park;NY;New York;36059;Nassau;40,7435;-73,6639;8087;3145;shape;FALSE;FALSE;America/New_York;2;1840005257
+August;August;CA;California;06077;San Joaquin;37,9797;-121,2625;8046;2473;shape;FALSE;FALSE;America/Los_Angeles;2;1840028357
+Conshohocken;Conshohocken;PA;Pennsylvania;42091;Montgomery;40,0772;-75,3034;8039;3090;shape;FALSE;TRUE;America/New_York;2;1840003697
+Boyes Hot Springs;Boyes Hot Springs;CA;California;06097;Sonoma;38,3126;-122,4888;8006;2915;shape;FALSE;FALSE;America/Los_Angeles;2;1840017572
+Alondra Park;Alondra Park;CA;California;06037;Los Angeles;33,8885;-118,335;8000;2795;shape;FALSE;FALSE;America/Los_Angeles;2;1840028356
+Caldwell;Caldwell;NJ;New Jersey;34013;Essex;40,8389;-74,2776;7970;2612;shape;FALSE;TRUE;America/New_York;2;1840005354
+Arroyo;Arroyo;PR;Puerto Rico;72015;Arroyo;17,9706;-66,0598;7887;2187;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035613
+East Franklin;East Franklin;NJ;New Jersey;34035;Somerset;40,4933;-74,471;7864;2788;shape;FALSE;TRUE;America/New_York;2;1840039869
+Gurabo;Gurabo;PR;Puerto Rico;72063;Gurabo;18,2528;-65,9785;7811;2506;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035678
+Wilson;Wilson;PA;Pennsylvania;42095;Northampton;40,6844;-75,2407;7809;2609;shape;FALSE;TRUE;America/New_York;2;1840000984
+Rutgers University-Busch Campus;Rutgers University-Busch Campus;NJ;New Jersey;34023;Middlesex;40,5214;-74,4654;7718;2436;shape;FALSE;FALSE;America/New_York;2;1840153049
+Fanwood;Fanwood;NJ;New Jersey;34039;Union;40,6417;-74,3857;7686;2215;shape;FALSE;TRUE;America/New_York;2;1840003614
+Guadalupe;Guadalupe;CA;California;06083;Santa Barbara;34,9609;-120,5735;7654;2255;shape;FALSE;TRUE;America/Los_Angeles;2;1840020467
+Park City;Park City;IL;Illinois;17097;Lake;42,3521;-87,8914;7636;2547;shape;FALSE;TRUE;America/Chicago;2;1840009133
+Glen Ridge;Glen Ridge;NJ;New Jersey;34013;Essex;40,8041;-74,2043;7583;2296;shape;FALSE;TRUE;America/New_York;2;1840005356
+Luquillo;Luquillo;PR;Puerto Rico;72089;Luquillo;18,3719;-65,7221;7478;2718;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023692
+Hillcrest;Hillcrest;NY;New York;36087;Rockland;41,1298;-74,035;7478;2220;shape;FALSE;FALSE;America/New_York;2;1840004967
+Hatboro;Hatboro;PA;Pennsylvania;42091;Montgomery;40,1775;-75,1055;7458;2025;shape;FALSE;TRUE;America/New_York;2;1840003700
+Montpelier;Montpelier;VT;Vermont;50023;Washington;44,2659;-72,5717;7434;285;shape;FALSE;TRUE;America/New_York;2;1840002187
+Winooski;Winooski;VT;Vermont;50007;Chittenden;44,4948;-73,1846;7320;2013;shape;FALSE;TRUE;America/New_York;2;1840002312
+Paloma Creek South;Paloma Creek South;TX;Texas;48121;Denton;33,21;-96,9325;7299;2239;shape;FALSE;TRUE;America/Chicago;2;1840041381
+Williston Park;Williston Park;NY;New York;36059;Nassau;40,7587;-73,6465;7266;4479;shape;FALSE;TRUE;America/New_York;2;1840005333
+Waikele;Waikele;HI;Hawaii;15003;Honolulu;21,4025;-158,0058;7246;2542;shape;FALSE;TRUE;Pacific/Honolulu;2;1840039259
+Glenside;Glenside;PA;Pennsylvania;42091;Montgomery;40,1032;-75,1517;7237;2182;shape;FALSE;FALSE;America/New_York;2;1840005462
+Dunellen;Dunellen;NJ;New Jersey;34023;Middlesex;40,5903;-74,4656;7215;2622;shape;FALSE;TRUE;America/New_York;2;1840003634
+Sky Lake;Sky Lake;FL;Florida;12095;Orange;28,4611;-81,3913;7204;2205;shape;FALSE;FALSE;America/New_York;2;1840014085
+West Samoset;West Samoset;FL;Florida;12081;Manatee;27,4702;-82,5552;7191;2078;shape;FALSE;FALSE;America/New_York;2;1840029097
+Sabana Seca;Sabana Seca;PR;Puerto Rico;72137;Toa Baja;18,4273;-66,1809;7146;2496;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035569
+Nyack;Nyack;NY;New York;36087;Rockland;41,0919;-73,9143;7130;3573;shape;FALSE;TRUE;America/New_York;2;1840004981
+Watsessing;Watsessing;NJ;New Jersey;34013;Essex;40,7866;-74,2007;7094;4426;shape;FALSE;FALSE;America/New_York;2;1840145023
+Glenolden;Glenolden;PA;Pennsylvania;42045;Delaware;39,8996;-75,2919;7094;2810;shape;FALSE;TRUE;America/New_York;2;1840000699
+Orland Hills;Orland Hills;IL;Illinois;17031;Cook;41,5905;-87,8414;7069;2384;shape;FALSE;TRUE;America/Chicago;2;1840011309
+Hewlett;Hewlett;NY;New York;36059;Nassau;40,6422;-73,6942;7064;3097;shape;FALSE;FALSE;America/New_York;2;1840005265
+Ridley Park;Ridley Park;PA;Pennsylvania;42045;Delaware;39,8785;-75,3251;7042;2520;shape;FALSE;TRUE;America/New_York;2;1840000708
+Hutchison;Hutchison;VA;Virginia;51059;Fairfax;38,9636;-77,411;7030;4946;shape;FALSE;FALSE;America/New_York;2;1840153056
+Souderton;Souderton;PA;Pennsylvania;42091;Montgomery;40,311;-75,3224;7019;2416;shape;FALSE;TRUE;America/New_York;2;1840001378
+Shamokin;Shamokin;PA;Pennsylvania;42097;Northumberland;40,7881;-76,555;7007;3278;shape;FALSE;TRUE;America/New_York;2;1840000849
+Puerto Real;Puerto Real;PR;Puerto Rico;72023;Cabo Rojo;18,0767;-67,1858;6991;2258;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035555
+Great Neck Plaza;Great Neck Plaza;NY;New York;36059;Nassau;40,7869;-73,7262;6980;5918,8;shape;FALSE;TRUE;America/New_York;2;1840005292
+Yabucoa;Yabucoa;PR;Puerto Rico;72151;Yabucoa;18,0464;-65,8803;6854;2036;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023682
+Manorhaven;Manorhaven;NY;New York;36059;Nassau;40,8399;-73,7127;6725;5530;shape;FALSE;TRUE;America/New_York;2;1840005306
+Lauderdale-by-the-Sea;Lauderdale-by-the-Sea;FL;Florida;12011;Broward;26,1991;-80,0971;6703;2951;shape;FALSE;TRUE;America/New_York;2;1840017271
+Clifton Heights;Clifton Heights;PA;Pennsylvania;42045;Delaware;39,9301;-75,2958;6700;4104;shape;FALSE;TRUE;America/New_York;2;1840000692
+Notre Dame;Notre Dame;IN;Indiana;18141;St. Joseph;41,7014;-86,2378;6699;2188;shape;FALSE;TRUE;America/Indiana/Indianapolis;2;1840039286
+West Loch Estate;West Loch Estate;HI;Hawaii;15003;Honolulu;21,3617;-158,0246;6685;3915;shape;FALSE;TRUE;Pacific/Honolulu;2;1840039268
+Contra Costa Centre;Contra Costa Centre;CA;California;06013;Contra Costa;37,926;-122,054;6667;4042;shape;FALSE;FALSE;America/Los_Angeles;2;1840028422
+Cedarhurst;Cedarhurst;NY;New York;36059;Nassau;40,6252;-73,7278;6642;3800;shape;FALSE;TRUE;America/New_York;2;1840005339
+Folcroft;Folcroft;PA;Pennsylvania;42045;Delaware;39,8891;-75,277;6629;2055;shape;FALSE;TRUE;America/New_York;2;1840000698
+Guadalupe;Guadalupe;AZ;Arizona;04013;Maricopa;33,3665;-111,9633;6572;3156;shape;FALSE;TRUE;America/Phoenix;2;1840021948
+South Monrovia Island;South Monrovia Island;CA;California;06037;Los Angeles;34,1234;-117,9958;6565;4624;shape;FALSE;TRUE;America/Los_Angeles;2;1840043043
+Tuckahoe;Tuckahoe;NY;New York;36119;Westchester;40,9531;-73,823;6548;4206;shape;FALSE;TRUE;America/New_York;2;1840004946
+West View;West View;PA;Pennsylvania;42003;Allegheny;40,5182;-80,0333;6547;2502;shape;FALSE;TRUE;America/New_York;2;1840001274
+South Valley Stream;South Valley Stream;NY;New York;36059;Nassau;40,6558;-73,7185;6519;2893;shape;FALSE;FALSE;America/New_York;2;1840034062
+Prospect Park;Prospect Park;PA;Pennsylvania;42045;Delaware;39,8859;-75,3075;6495;3427;shape;FALSE;TRUE;America/New_York;2;1840000707
+Ambler;Ambler;PA;Pennsylvania;42091;Montgomery;40,1564;-75,2215;6494;2942;shape;FALSE;TRUE;America/New_York;2;1840003693
+Ewa Villages;Ewa Villages;HI;Hawaii;15003;Honolulu;21,3417;-158,0389;6452;2209;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029578
+Bronxville;Bronxville;NY;New York;36119;Westchester;40,9395;-73,8265;6450;2560;shape;FALSE;TRUE;America/New_York;2;1840004949
+Naples Manor;Naples Manor;FL;Florida;12021;Collier;26,0892;-81,7254;6391;3605;shape;FALSE;FALSE;America/New_York;2;1840014232
+Kingston Estates;Kingston Estates;NJ;New Jersey;34007;Camden;39,9188;-74,9898;6335;2111;shape;FALSE;FALSE;America/New_York;2;1840033314
+Castroville;Castroville;CA;California;06053;Monterey;36,7649;-121,7534;6332;2392;shape;FALSE;FALSE;America/Los_Angeles;2;1840017682
+Kennett Square;Kennett Square;PA;Pennsylvania;42029;Chester;39,8438;-75,7113;6182;2240;shape;FALSE;TRUE;America/New_York;2;1840001428
+Pleasure Point;Pleasure Point;CA;California;06087;Santa Cruz;36,9619;-121,9715;6173;3179;shape;FALSE;TRUE;America/Los_Angeles;2;1840074532
+Binghamton University;Binghamton University;NY;New York;36007;Broome;42,0893;-75,9684;6162;3067;shape;FALSE;TRUE;America/New_York;2;1840043235
+Larchmont;Larchmont;NY;New York;36119;Westchester;40,9258;-73,7531;6159;2170;shape;FALSE;TRUE;America/New_York;2;1840004934
+Holtville;Holtville;CA;California;06025;Imperial;32,8129;-115,3779;6129;2051;shape;FALSE;TRUE;America/Los_Angeles;2;1840020631
+Saranap;Saranap;CA;California;06013;Contra Costa;37,8878;-122,076;6027;2050;shape;FALSE;FALSE;America/Los_Angeles;2;1840024710
+District Heights;District Heights;MD;Maryland;24033;Prince George's;38,8588;-76,8885;5996;2676;shape;FALSE;TRUE;America/New_York;2;1840005972
+Shaw Heights;Shaw Heights;CO;Colorado;08001;Adams;39,8566;-105,0391;5987;3299;shape;FALSE;FALSE;America/Denver;2;1840028586
+Forest Glen;Forest Glen;MD;Maryland;24031;Montgomery;39,019;-77,0447;5957;2293;shape;FALSE;FALSE;America/New_York;2;1840005824
+Norwood;Norwood;PA;Pennsylvania;42045;Delaware;39,8864;-75,2964;5957;2956;shape;FALSE;TRUE;America/New_York;2;1840000705
+McKees Rocks;McKees Rocks;PA;Pennsylvania;42003;Allegheny;40,4688;-80,063;5892;2154;shape;FALSE;TRUE;America/New_York;2;1840001244
+Jamesburg;Jamesburg;NJ;New Jersey;34023;Middlesex;40,3493;-74,4399;5876;2571;shape;FALSE;TRUE;America/New_York;2;1840003637
+Naguabo;Naguabo;PR;Puerto Rico;72103;Naguabo;18,2117;-65,737;5859;3605;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035528
+Prospect Park;Prospect Park;NJ;New Jersey;34031;Passaic;40,938;-74,1736;5853;4857;shape;FALSE;TRUE;America/New_York;2;1840000834
+South Highpoint;South Highpoint;FL;Florida;12103;Pinellas;27,9086;-82,7162;5844;2615;shape;FALSE;FALSE;America/New_York;2;1840029006
+Bay Harbor Islands;Bay Harbor Islands;FL;Florida;12086;Miami-Dade;25,8877;-80,1334;5832;5680;shape;FALSE;TRUE;America/New_York;2;1840016005
+Elsmere;Elsmere;DE;Delaware;10003;New Castle;39,7384;-75,5946;5814;2275;shape;FALSE;TRUE;America/New_York;2;1840005574
+White City;White City;UT;Utah;49035;Salt Lake;40,5666;-111,8636;5792;2566;shape;FALSE;TRUE;America/Denver;2;1840037177
+Bellevue;Bellevue;KY;Kentucky;21037;Campbell;39,1012;-84,4775;5786;2467;shape;FALSE;TRUE;America/New_York;2;1840013164
+Plymouth;Plymouth;PA;Pennsylvania;42079;Luzerne;41,2404;-75,9507;5780;2079;shape;FALSE;TRUE;America/New_York;2;1840000767
+Santa Isabel;Santa Isabel;PR;Puerto Rico;72133;Santa Isabel;17,9691;-66,4051;5779;2184;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023545
+Fruitridge Pocket;Fruitridge Pocket;CA;California;06067;Sacramento;38,5326;-121,4558;5771;3766;shape;FALSE;TRUE;America/Los_Angeles;2;1840075898
+Penn Wynne;Penn Wynne;PA;Pennsylvania;42091;Montgomery;39,9867;-75,2715;5769;2095;shape;FALSE;FALSE;America/New_York;2;1840035305
+New Brighton;New Brighton;PA;Pennsylvania;42007;Beaver;40,7355;-80,309;5731;2144;shape;FALSE;TRUE;America/New_York;2;1840001026
+Lewisburg;Lewisburg;PA;Pennsylvania;42119;Union;40,9641;-76,8901;5730;2273;shape;FALSE;TRUE;America/New_York;2;1840003531
+Lakeview;Lakeview;NY;New York;36059;Nassau;40,6775;-73,6493;5727;2209;shape;FALSE;FALSE;America/New_York;2;1840005269
+Cameron Park;Cameron Park;TX;Texas;48061;Cameron;25,9706;-97,4775;5716;4046;shape;FALSE;FALSE;America/Chicago;2;1840037105
+Savannah;Savannah;TX;Texas;48121;Denton;33,2257;-96,9081;5708;2271;shape;FALSE;TRUE;America/Chicago;2;1840041547
+Palm Springs North;Palm Springs North;FL;Florida;12086;Miami-Dade;25,9351;-80,3339;5694;2763;shape;FALSE;FALSE;America/New_York;2;1840047821
+South Tucson;South Tucson;AZ;Arizona;04019;Pima;32,1955;-110,9692;5692;2140;shape;FALSE;TRUE;America/Phoenix;2;1840022100
+Mayflower Village;Mayflower Village;CA;California;06037;Los Angeles;34,116;-118,0096;5687;3200;shape;FALSE;FALSE;America/Los_Angeles;2;1840028387
+Sharon Hill;Sharon Hill;PA;Pennsylvania;42045;Delaware;39,9075;-75,2679;5680;2841;shape;FALSE;TRUE;America/New_York;2;1840000711
+Vauxhall;Vauxhall;NJ;New Jersey;34039;Union;40,7174;-74,2838;5677;3723;shape;FALSE;FALSE;America/New_York;2;1840081470
+Mount Carmel;Mount Carmel;PA;Pennsylvania;42097;Northumberland;40,7959;-76,4119;5672;3310;shape;FALSE;TRUE;America/New_York;2;1840000846
+Surfside;Surfside;FL;Florida;12086;Miami-Dade;25,8787;-80,125;5665;3924;shape;FALSE;TRUE;America/New_York;2;1840017278
+Media;Media;PA;Pennsylvania;42045;Delaware;39,9199;-75,3889;5658;2864;shape;FALSE;TRUE;America/New_York;2;1840000702
+Belmar;Belmar;NJ;New Jersey;34025;Monmouth;40,1798;-74,0255;5613;2073;shape;FALSE;TRUE;America/New_York;2;1840001355
+Bryn Mawr;Bryn Mawr;PA;Pennsylvania;42091;Montgomery;40,0208;-75,3161;5611;2263;shape;FALSE;FALSE;America/New_York;2;1840005456
+Naval Academy;Naval Academy;MD;Maryland;24003;Anne Arundel;38,9858;-76,488;5609;4051;shape;TRUE;TRUE;America/New_York;2;1840073633
+Deer Park;Deer Park;OH;Ohio;39061;Hamilton;39,2039;-84,3978;5561;2515;shape;FALSE;TRUE;America/New_York;2;1840003815
+Waipio Acres;Waipio Acres;HI;Hawaii;15003;Honolulu;21,4688;-158,0173;5556;2189;shape;FALSE;FALSE;Pacific/Honolulu;2;1840029562
+Twin Lakes;Twin Lakes;CA;California;06087;Santa Cruz;36,9646;-121,9896;5546;3098;shape;FALSE;FALSE;America/Los_Angeles;2;1840028200
+Peñuelas;Penuelas;PR;Puerto Rico;72111;Peñuelas;18,0595;-66,7206;5489;2198;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023556
+Edgewater;Edgewater;CO;Colorado;08059;Jefferson;39,7508;-105,0627;5410;3007;shape;FALSE;TRUE;America/Denver;2;1840020196
+Pennside;Pennside;PA;Pennsylvania;42011;Berks;40,3384;-75,8764;5381;2048;shape;FALSE;FALSE;America/New_York;2;1840035147
+Kaser;Kaser;NY;New York;36087;Rockland;41,1214;-74,0684;5367;6246;shape;FALSE;TRUE;America/New_York;2;1840004977
+Marlene Village;Marlene Village;OR;Oregon;41067;Washington;45,5173;-122,8199;5356;2258;shape;FALSE;FALSE;America/Los_Angeles;2;1840097733
+Shillington;Shillington;PA;Pennsylvania;42011;Berks;40,3029;-75,967;5306;2050;shape;FALSE;TRUE;America/New_York;2;1840001188
+Highwood;Highwood;IL;Illinois;17097;Lake;42,206;-87,8128;5293;2835;shape;FALSE;TRUE;America/Chicago;2;1840006974
+Glasgow Village;Glasgow Village;MO;Missouri;29189;St. Louis;38,7578;-90,1984;5285;2123;shape;FALSE;FALSE;America/Chicago;2;1840006118
+Añasco;Anasco;PR;Puerto Rico;72011;Añasco;18,2861;-67,1409;5220;2418;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023590
+Benton Park;Benton Park;CA;California;06029;Kern;35,3463;-119,0297;5212;2683;shape;FALSE;FALSE;America/Los_Angeles;2;1840149289
+Glendale;Glendale;CO;Colorado;08005;Arapahoe;39,7036;-104,9352;5186;3524;shape;FALSE;TRUE;America/Denver;2;1840028450
+Kensington;Kensington;CA;California;06013;Contra Costa;37,9083;-122,2805;5171;2071;shape;FALSE;FALSE;America/Los_Angeles;2;1840017613
+Turtle Creek;Turtle Creek;PA;Pennsylvania;42003;Allegheny;40,4085;-79,8214;5161;2047;shape;FALSE;TRUE;America/New_York;2;1840001267
+Ampere North;Ampere North;NJ;New Jersey;34013;Essex;40,7758;-74,1918;5145;3282,1;shape;FALSE;FALSE;America/New_York;2;1840153051
+Kenneth City;Kenneth City;FL;Florida;12103;Pinellas;27,8156;-82,7162;5119;2769;shape;FALSE;TRUE;America/New_York;2;1840017244
+South Pasadena;South Pasadena;FL;Florida;12103;Pinellas;27,7526;-82,7394;5090;3221;shape;FALSE;TRUE;America/New_York;2;1840015979
+Mechanicville;Mechanicville;NY;New York;36091;Saratoga;42,9036;-73,6894;5077;2336;shape;FALSE;TRUE;America/New_York;2;1840000368
+Mattawa;Mattawa;WA;Washington;53025;Grant;46,737;-119,9043;5040;2110;shape;FALSE;TRUE;America/Los_Angeles;2;1840022292
+Salinas;Salinas;PR;Puerto Rico;72123;Salinas;17,9778;-66,2962;5037;2487;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035570
+Bret Harte;Bret Harte;CA;California;06099;Stanislaus;37,6021;-121,0045;5020;3522;shape;FALSE;TRUE;America/Los_Angeles;2;1840036997
+Iroquois Point;Iroquois Point;HI;Hawaii;15003;Honolulu;21,3218;-157,9803;4968;2359;shape;TRUE;TRUE;Pacific/Honolulu;2;1840029590
+Albertson;Albertson;NY;New York;36059;Nassau;40,7715;-73,6482;4930;2803;shape;FALSE;FALSE;America/New_York;2;1840005227
+Tara Hills;Tara Hills;CA;California;06013;Contra Costa;37,9939;-122,3188;4915;2845;shape;FALSE;FALSE;America/Los_Angeles;2;1840028315
+Meadows Place;Meadows Place;TX;Texas;48157;Fort Bend;29,6513;-95,5874;4899;2026;shape;FALSE;TRUE;America/Chicago;2;1840020949
+Mayfair;Mayfair;CA;California;06019;Fresno;36,7694;-119,7612;4878;3633;shape;FALSE;TRUE;America/Los_Angeles;2;1840075970
+Peppermill Village;Peppermill Village;MD;Maryland;24033;Prince George's;38,8939;-76,8878;4861;2504;shape;FALSE;FALSE;America/New_York;2;1840031500
+Byram;Byram;CT;Connecticut;09001;Fairfield;41,0011;-73,6528;4855;2369;shape;FALSE;FALSE;America/New_York;2;1840026280
+Arnold;Arnold;PA;Pennsylvania;42129;Westmoreland;40,5788;-79,7655;4852;2559;shape;FALSE;TRUE;America/New_York;2;1840003624
+Stone Park;Stone Park;IL;Illinois;17031;Cook;41,9033;-87,8805;4842;3725,7;shape;FALSE;TRUE;America/Chicago;2;1840011327
+Island Park;Island Park;NY;New York;36059;Nassau;40,6051;-73,6553;4835;4197;shape;FALSE;TRUE;America/New_York;2;1840005297
+Penns Grove;Penns Grove;NJ;New Jersey;34033;Salem;39,7275;-75,4691;4793;2073;shape;FALSE;TRUE;America/New_York;2;1840001530
+Pacheco;Pacheco;CA;California;06013;Contra Costa;37,9878;-122,07;4775;2454;shape;FALSE;FALSE;America/Los_Angeles;2;1840018898
+West Pittston;West Pittston;PA;Pennsylvania;42079;Luzerne;41,3296;-75,8;4764;2244;shape;FALSE;TRUE;America/New_York;2;1840000774
+Royersford;Royersford;PA;Pennsylvania;42091;Montgomery;40,1862;-75,5382;4760;2335;shape;FALSE;TRUE;America/New_York;2;1840001376
+Seat Pleasant;Seat Pleasant;MD;Maryland;24033;Prince George's;38,8952;-76,9016;4753;2472;shape;FALSE;TRUE;America/New_York;2;1840005979
+Highlands;Highlands;NJ;New Jersey;34025;Monmouth;40,4036;-73,9898;4746;2475;shape;FALSE;TRUE;America/New_York;2;1840003688
+Ellisburg;Ellisburg;NJ;New Jersey;34007;Camden;39,9199;-75,0093;4722;2014;shape;FALSE;FALSE;America/New_York;2;1840033268
+Fountain Hill;Fountain Hill;PA;Pennsylvania;42077;Lehigh;40,6029;-75,3961;4693;2464;shape;FALSE;TRUE;America/New_York;2;1840001049
+Stock Island;Stock Island;FL;Florida;12087;Monroe;24,5658;-81,7351;4692;2165;shape;FALSE;FALSE;America/New_York;2;1840029082
+Rio Bravo;Rio Bravo;TX;Texas;48479;Webb;27,3648;-99,482;4686;2784;shape;FALSE;TRUE;America/Chicago;2;1840021001
+Bethel Manor;Bethel Manor;VA;Virginia;51199;York;37,0972;-76,4243;4666;3567;shape;TRUE;TRUE;America/New_York;2;1840043173
+Neptune City;Neptune City;NJ;New Jersey;34025;Monmouth;40,2005;-74,0333;4654;2005;shape;FALSE;TRUE;America/New_York;2;1840003677
+West York;West York;PA;Pennsylvania;42133;York;39,9534;-76,761;4636;3408;shape;FALSE;TRUE;America/New_York;2;1840001467
+Mount Ephraim;Mount Ephraim;NJ;New Jersey;34007;Camden;39,8805;-75,0918;4591;2005;shape;FALSE;TRUE;America/New_York;2;1840003772
+Breckenridge Hills;Breckenridge Hills;MO;Missouri;29189;St. Louis;38,7158;-90,3684;4590;2212;shape;FALSE;TRUE;America/Chicago;2;1840006127
+Pine Manor;Pine Manor;FL;Florida;12071;Lee;26,573;-81,8774;4582;3828;shape;FALSE;FALSE;America/New_York;2;1840028755
+Friendship Heights Village;Friendship Heights Village;MD;Maryland;24031;Montgomery;38,9633;-77,0898;4577;7695;shape;FALSE;TRUE;America/New_York;2;1840073677
+Bridgeport;Bridgeport;PA;Pennsylvania;42091;Montgomery;40,1042;-75,3437;4576;2680;shape;FALSE;TRUE;America/New_York;2;1840003694
+Avalon;Avalon;PA;Pennsylvania;42003;Allegheny;40,5011;-80,068;4558;2853;shape;FALSE;TRUE;America/New_York;2;1840001200
+Daytona Beach Shores;Daytona Beach Shores;FL;Florida;12127;Volusia;29,1696;-80,9796;4552;2067;shape;FALSE;TRUE;America/New_York;2;1840015069
+South Bound Brook;South Bound Brook;NJ;New Jersey;34035;Somerset;40,5535;-74,5277;4541;2719;shape;FALSE;TRUE;America/New_York;2;1840001057
+Comerío;Comerio;PR;Puerto Rico;72045;Comerío;18,22;-66,2246;4512;3870;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023541
+Capitol Heights;Capitol Heights;MD;Maryland;24033;Prince George's;38,8765;-76,9075;4505;2227;shape;FALSE;TRUE;America/New_York;2;1840005983
+Jenkintown;Jenkintown;PA;Pennsylvania;42091;Montgomery;40,0962;-75,1296;4418;2948;shape;FALSE;TRUE;America/New_York;2;1840003702
+Esperance;Esperance;WA;Washington;53061;Snohomish;47,7937;-122,3469;4410;2351;shape;FALSE;FALSE;America/Los_Angeles;2;1840037867
+Metzger;Metzger;OR;Oregon;41067;Washington;45,4493;-122,7621;4402;2236;shape;FALSE;FALSE;America/Los_Angeles;2;1840018553
+Adjuntas;Adjuntas;PR;Puerto Rico;72001;Adjuntas;18,1638;-66,7235;4360;2246;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035603
+King City;King City;OR;Oregon;41067;Washington;45,4012;-122,8069;4345;2068;shape;FALSE;TRUE;America/Los_Angeles;2;1840019934
+Garwood;Garwood;NJ;New Jersey;34039;Union;40,6513;-74,3231;4341;2577;shape;FALSE;TRUE;America/New_York;2;1840003615
+Loch Lomond;Loch Lomond;VA;Virginia;51153;Prince William;38,7812;-77,4817;4325;2323;shape;FALSE;FALSE;America/New_York;2;1840006101
+University Gardens;University Gardens;NY;New York;36059;Nassau;40,7752;-73,7281;4310;3133;shape;FALSE;FALSE;America/New_York;2;1840005280
+Narberth;Narberth;PA;Pennsylvania;42091;Montgomery;40,0077;-75,2634;4304;3304;shape;FALSE;TRUE;America/New_York;2;1840003704
+West Reading;West Reading;PA;Pennsylvania;42011;Berks;40,3337;-75,947;4293;2788;shape;FALSE;TRUE;America/New_York;2;1840001194
+Garden City South;Garden City South;NY;New York;36059;Nassau;40,712;-73,6607;4254;4118;shape;FALSE;FALSE;America/New_York;2;1840005258
+Tarpey Village;Tarpey Village;CA;California;06019;Fresno;36,7941;-119,7012;4222;2066;shape;FALSE;FALSE;America/Los_Angeles;2;1840024782
+Hometown;Hometown;IL;Illinois;17031;Cook;41,7312;-87,7311;4216;3399;shape;FALSE;TRUE;America/Chicago;2;1840007031
+Cockrell Hill;Cockrell Hill;TX;Texas;48113;Dallas;32,7382;-96,8885;4200;2786;shape;FALSE;TRUE;America/Chicago;2;1840019434
+Bradley Beach;Bradley Beach;NJ;New Jersey;34025;Monmouth;40,2018;-74,0128;4175;2640;shape;FALSE;TRUE;America/New_York;2;1840001356
+Minersville;Minersville;PA;Pennsylvania;42107;Schuylkill;40,6908;-76,2594;4174;2453;shape;FALSE;TRUE;America/New_York;2;1840002766
+Lake Sarasota;Lake Sarasota;FL;Florida;12115;Sarasota;27,2948;-82,4323;4148;2392;shape;FALSE;FALSE;America/New_York;2;1840029050
+Aldan;Aldan;PA;Pennsylvania;42045;Delaware;39,9224;-75,2881;4146;2682;shape;FALSE;TRUE;America/New_York;2;1840000688
+Broadmoor;Broadmoor;CA;California;06081;San Mateo;37,6916;-122,4814;4140;3700;shape;FALSE;FALSE;America/Los_Angeles;2;1840017623
+Northwoods;Northwoods;MO;Missouri;29189;St. Louis;38,7035;-90,2824;4099;2265;shape;FALSE;TRUE;America/Chicago;2;1840008593
+Boyertown;Boyertown;PA;Pennsylvania;42011;Berks;40,3322;-75,6375;4061;2027;shape;FALSE;TRUE;America/New_York;2;1840001173
+San Castle;San Castle;FL;Florida;12099;Palm Beach;26,5652;-80,0611;4061;3730;shape;FALSE;TRUE;America/New_York;2;1840042878
+Singac;Singac;NJ;New Jersey;34031;Passaic;40,8849;-74,2431;4054;3407;shape;FALSE;FALSE;America/New_York;2;1840033411
+Woodson Terrace;Woodson Terrace;MO;Missouri;29189;St. Louis;38,7286;-90,36;4044;2019;shape;FALSE;TRUE;America/Chicago;2;1840010748
+Herricks;Herricks;NY;New York;36059;Nassau;40,7567;-73,6635;4032;2717;shape;FALSE;FALSE;America/New_York;2;1840005264
+Oak Valley;Oak Valley;NJ;New Jersey;34015;Gloucester;39,8055;-75,1589;4018;2224;shape;FALSE;FALSE;America/New_York;2;1840033371
+Santa Bárbara;Santa Barbara;PR;Puerto Rico;72029;Canóvanas;18,3954;-65,9172;4005;2335;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023714
+Lincoln Village;Lincoln Village;CA;California;06077;San Joaquin;38,0054;-121,334;3991;2096;shape;FALSE;FALSE;America/Los_Angeles;2;1840028163
+Toa Alta;Toa Alta;PR;Puerto Rico;72135;Toa Alta;18,3879;-66,2508;3976;2187;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023642
+Silver Lake;Silver Lake;NJ;New Jersey;34013;Essex;40,7804;-74,1829;3970;7979,2;shape;FALSE;TRUE;America/New_York;2;1840042853
+Coronita;Coronita;CA;California;06065;Riverside;33,876;-117,6109;3968;2544;shape;FALSE;TRUE;America/Los_Angeles;2;1840075705
+Mahanoy City;Mahanoy City;PA;Pennsylvania;42107;Schuylkill;40,8126;-76,1382;3963;3001;shape;FALSE;TRUE;America/New_York;2;1840002763
+Oaklyn;Oaklyn;NJ;New Jersey;34007;Camden;39,9023;-75,0813;3961;2438;shape;FALSE;TRUE;America/New_York;2;1840001515
+Campanilla;Campanilla;PR;Puerto Rico;72137;Toa Baja;18,4225;-66,2391;3912;2891;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035630
+Highland Beach;Highland Beach;FL;Florida;12099;Palm Beach;26,4087;-80,0661;3907;2810;shape;FALSE;TRUE;America/New_York;2;1840015995
+Kutztown University;Kutztown University;PA;Pennsylvania;42011;Berks;40,5103;-75,7851;3898;3416;shape;FALSE;TRUE;America/New_York;2;1840043333
+The College of New Jersey;The College of New Jersey;NJ;New Jersey;34021;Mercer;40,2689;-74,7764;3864;3487;shape;FALSE;FALSE;America/New_York;2;1840143267
+Lake Park;Lake Park;NC;North Carolina;37179;Union;35,0849;-80,6349;3851;2023;shape;FALSE;TRUE;America/New_York;2;1840017879
+Avenue B and C;Avenue B and C;AZ;Arizona;04027;Yuma;32,7192;-114,6598;3847;2019;shape;FALSE;TRUE;America/Phoenix;2;1840075233
+Manhasset Hills;Manhasset Hills;NY;New York;36059;Nassau;40,7592;-73,6809;3808;2486;shape;FALSE;FALSE;America/New_York;2;1840034055
+Guayanilla;Guayanilla;PR;Puerto Rico;72059;Guayanilla;18,0222;-66,7898;3783;2064;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023620
+Bystrom;Bystrom;CA;California;06099;Stanislaus;37,6198;-120,9813;3763;2671;shape;FALSE;FALSE;America/Los_Angeles;2;1840028337
+University;University;MS;Mississippi;28071;Lafayette;34,3655;-89,5379;3749;2055;shape;FALSE;FALSE;America/Chicago;2;1840032487
+Warminster Heights;Warminster Heights;PA;Pennsylvania;42017;Bucks;40,1884;-75,0841;3726;2282;shape;FALSE;FALSE;America/New_York;2;1840035296
+West Menlo Park;West Menlo Park;CA;California;06081;San Mateo;37,4339;-122,2034;3720;2961;shape;FALSE;FALSE;America/Los_Angeles;2;1840028407
+North El Monte;North El Monte;CA;California;06037;Los Angeles;34,1029;-118,0239;3709;3366;shape;FALSE;FALSE;America/Los_Angeles;2;1840028391
+Merchantville;Merchantville;NJ;New Jersey;34007;Camden;39,9502;-75,0504;3702;2408;shape;FALSE;TRUE;America/New_York;2;1840003770
+Millvale;Millvale;PA;Pennsylvania;42003;Allegheny;40,4818;-79,9736;3686;2300;shape;FALSE;TRUE;America/New_York;2;1840001245
+Watergate;Watergate;FL;Florida;12099;Palm Beach;26,3359;-80,2125;3658;3457;shape;FALSE;TRUE;America/New_York;2;1840042907
+SUNY Oswego;SUNY Oswego;NY;New York;36075;Oswego;43,4515;-76,5439;3656;4503,3;shape;FALSE;TRUE;America/New_York;2;1840043282
+Frackville;Frackville;PA;Pennsylvania;42107;Schuylkill;40,7833;-76,2329;3632;2358;shape;FALSE;TRUE;America/New_York;2;1840002758
+Rollingwood;Rollingwood;CA;California;06013;Contra Costa;37,9654;-122,3306;3612;3192,2;shape;FALSE;FALSE;America/Los_Angeles;2;1840028352
+Imbéry;Imbery;PR;Puerto Rico;72017;Barceloneta;18,4371;-66,5566;3612;2155;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035464
+Pine Lawn;Pine Lawn;MO;Missouri;29189;St. Louis;38,6953;-90,2757;3604;2262;shape;FALSE;TRUE;America/Chicago;2;1840009768
+Kennesaw State University;Kennesaw State University;GA;Georgia;13067;Cobb;34,0379;-84,5826;3568;3513;shape;FALSE;FALSE;America/New_York;2;1840143246
+Golf Manor;Golf Manor;OH;Ohio;39061;Hamilton;39,1878;-84,4469;3566;2389;shape;FALSE;TRUE;America/New_York;2;1840003820
+Rexland Acres;Rexland Acres;CA;California;06029;Kern;35,3051;-118,997;3487;2590;shape;FALSE;FALSE;America/Los_Angeles;2;1840147392
+Celada;Celada;PR;Puerto Rico;72063;Gurabo;18,2667;-65,9621;3483;2011;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023584
+Old Stine;Old Stine;CA;California;06029;Kern;35,3478;-119,047;3477;2176;shape;FALSE;FALSE;America/Los_Angeles;2;1840147390
+Linwood;Linwood;PA;Pennsylvania;42045;Delaware;39,8254;-75,4253;3473;2064;shape;FALSE;FALSE;America/New_York;2;1840035067
+East Richmond Heights;East Richmond Heights;CA;California;06013;Contra Costa;37,945;-122,314;3473;2312;shape;FALSE;FALSE;America/Los_Angeles;2;1840028372
+Rochester;Rochester;PA;Pennsylvania;42007;Beaver;40,7025;-80,2838;3468;2276;shape;FALSE;TRUE;America/New_York;2;1840001008
+Brentwood;Brentwood;MD;Maryland;24033;Prince George's;38,9439;-76,9571;3443;2793,1;shape;FALSE;TRUE;America/New_York;2;1840005982
+South Nyack;South Nyack;NY;New York;36087;Rockland;41,0797;-73,9127;3359;2148;shape;FALSE;TRUE;America/New_York;2;1840004985
+Oaklawn-Sunview;Oaklawn-Sunview;KS;Kansas;20173;Sedgwick;37,6084;-97,2984;3354;2412;shape;FALSE;TRUE;America/Chicago;2;1840035328
+Sharpsburg;Sharpsburg;PA;Pennsylvania;42003;Allegheny;40,494;-79,9249;3347;2675;shape;FALSE;TRUE;America/New_York;2;1840001262
+Keego Harbor;Keego Harbor;MI;Michigan;26125;Oakland;42,6088;-83,3442;3323;2589;shape;FALSE;TRUE;America/Detroit;2;1840002446
+Mount Oliver;Mount Oliver;PA;Pennsylvania;42003;Allegheny;40,4113;-79,9856;3304;4251,8;shape;FALSE;TRUE;America/New_York;2;1840001246
+Hartford;Hartford;SD;South Dakota;46099;Minnehaha;43,621;-96,9424;3300;479;shape;FALSE;TRUE;America/Chicago;2;1840002653
+Cabán;Caban;PR;Puerto Rico;72005;Aguadilla;18,445;-67,1363;3282;2795;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035478
+North Wales;North Wales;PA;Pennsylvania;42091;Montgomery;40,2111;-75,2745;3271;2150;shape;FALSE;TRUE;America/New_York;2;1840001371
+Desert View Highlands;Desert View Highlands;CA;California;06037;Los Angeles;34,5903;-118,1535;3259;2853;shape;FALSE;FALSE;America/Los_Angeles;2;1840028320
+Ingram;Ingram;PA;Pennsylvania;42003;Allegheny;40,4447;-80,0685;3210;2858;shape;FALSE;TRUE;America/New_York;2;1840001239
+Loíza;Loiza;PR;Puerto Rico;72087;Loíza;18,4309;-65,8801;3209;2399;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035508
+Coplay;Coplay;PA;Pennsylvania;42077;Lehigh;40,671;-75,4961;3204;2026;shape;FALSE;TRUE;America/New_York;2;1840001047
+Casa Conejo;Casa Conejo;CA;California;06111;Ventura;34,1848;-118,9445;3184;2606;shape;FALSE;FALSE;America/Los_Angeles;2;1840017912
+Pitcairn;Pitcairn;PA;Pennsylvania;42003;Allegheny;40,4079;-79,7765;3180;2428;shape;FALSE;TRUE;America/New_York;2;1840001253
+Port Washington North;Port Washington North;NY;New York;36059;Nassau;40,8434;-73,7014;3180;2565;shape;FALSE;TRUE;America/New_York;2;1840005319
+Homestead;Homestead;PA;Pennsylvania;42003;Allegheny;40,4073;-79,9097;3168;2123;shape;FALSE;TRUE;America/New_York;2;1840001238
+El Cenizo;El Cenizo;TX;Texas;48479;Webb;27,3318;-99,5028;3164;2370;shape;FALSE;TRUE;America/Matamoros;2;1840021000
+South Hempstead;South Hempstead;NY;New York;36059;Nassau;40,6814;-73,6233;3157;2107;shape;FALSE;FALSE;America/New_York;2;1840005277
+Brackenridge;Brackenridge;PA;Pennsylvania;42003;Allegheny;40,6079;-79,7411;3155;2373;shape;FALSE;TRUE;America/New_York;2;1840001208
+Ocean Grove;Ocean Grove;NJ;New Jersey;34025;Monmouth;40,2119;-74,0083;3151;2608,1;shape;FALSE;FALSE;America/New_York;2;1840005446
+Carrizales;Carrizales;PR;Puerto Rico;72065;Hatillo;18,4811;-66,7879;3151;2151;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023532
+Wesleyville;Wesleyville;PA;Pennsylvania;42049;Erie;42,1369;-80,0123;3147;2293;shape;FALSE;TRUE;America/New_York;2;1840000488
+Cottonwood;Cottonwood;CA;California;06029;Kern;35,3464;-118,9851;3121;2602;shape;FALSE;FALSE;America/Los_Angeles;2;1840153160
+Mount Penn;Mount Penn;PA;Pennsylvania;42011;Berks;40,3287;-75,8897;3112;2927;shape;FALSE;TRUE;America/New_York;2;1840001184
+Ridgewood;Ridgewood;IL;Illinois;17197;Will;41,534;-88,0436;3089;2659;shape;FALSE;FALSE;America/Chicago;2;1840152643
+Helemano;Helemano;HI;Hawaii;15003;Honolulu;21,5362;-158,0194;3089;2564;shape;TRUE;FALSE;Pacific/Honolulu;2;1840152937
+McSherrystown;McSherrystown;PA;Pennsylvania;42001;Adams;39,8036;-77,0199;3076;2320;shape;FALSE;TRUE;America/New_York;2;1840000685
+Marin City;Marin City;CA;California;06041;Marin;37,871;-122,5137;3040;2186;shape;FALSE;FALSE;America/Los_Angeles;2;1840026767
+Paloma Creek;Paloma Creek;TX;Texas;48121;Denton;33,2253;-96,9371;3015;2531;shape;FALSE;TRUE;America/Chicago;2;1840041379
+Round Lake Heights;Round Lake Heights;IL;Illinois;17097;Lake;42,3855;-88,1038;3009;2019;shape;FALSE;TRUE;America/Chicago;2;1840011172
+Bal Harbour;Bal Harbour;FL;Florida;12086;Miami-Dade;25,8935;-80,1258;2980;3169,3;shape;FALSE;TRUE;America/New_York;2;1840018330
+Penbrook;Penbrook;PA;Pennsylvania;42043;Dauphin;40,2781;-76,8483;2973;2570;shape;FALSE;TRUE;America/New_York;2;1840001294
+East Greenville;East Greenville;PA;Pennsylvania;42091;Montgomery;40,4057;-75,5059;2945;2222;shape;FALSE;TRUE;America/New_York;2;1840003698
+Penndel;Penndel;PA;Pennsylvania;42017;Bucks;40,1551;-74,9147;2928;2706;shape;FALSE;TRUE;America/New_York;2;1840001308
+Woodlynne;Woodlynne;NJ;New Jersey;34007;Camden;39,9167;-75,0957;2911;4914,8;shape;FALSE;TRUE;America/New_York;2;1840033448
+Tangelo Park;Tangelo Park;FL;Florida;12095;Orange;28,456;-81,4465;2899;2748,7;shape;FALSE;FALSE;America/New_York;2;1840014087
+Meridian Village;Meridian Village;CO;Colorado;08035;Douglas;39,528;-104,8258;2840;2152;shape;FALSE;FALSE;America/Denver;2;1840144682
+North Beach;North Beach;MD;Maryland;24009;Calvert;38,708;-76,5346;2790;2604,2;shape;FALSE;TRUE;America/New_York;2;1840006152
+Marlborough;Marlborough;MO;Missouri;29189;St. Louis;38,5683;-90,3392;2727;2152,2;shape;FALSE;TRUE;America/Chicago;2;1840012823
+Gervais;Gervais;OR;Oregon;41047;Marion;45,1081;-122,8964;2726;2583;shape;FALSE;TRUE;America/Los_Angeles;2;1840019960
+Potala Pastillo;Potala Pastillo;PR;Puerto Rico;72075;Juana Díaz;17,9921;-66,4966;2700;2048;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023579
+Channel Islands Beach;Channel Islands Beach;CA;California;06111;Ventura;34,1625;-119,2241;2699;2465;shape;FALSE;FALSE;America/Los_Angeles;2;1840028360
+Munsey Park;Munsey Park;NY;New York;36059;Nassau;40,799;-73,6799;2696;2016;shape;FALSE;TRUE;America/New_York;2;1840005311
+Aguada;Aguada;PR;Puerto Rico;72003;Aguada;18,3803;-67,1884;2687;2439,7;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023528
+Morton;Morton;PA;Pennsylvania;42045;Delaware;39,9115;-75,3267;2671;2142,2;shape;FALSE;TRUE;America/New_York;2;1840000704
+Verona;Verona;PA;Pennsylvania;42003;Allegheny;40,505;-79,8419;2669;2033;shape;FALSE;TRUE;America/New_York;2;1840001268
+East Lansdowne;East Lansdowne;PA;Pennsylvania;42045;Delaware;39,944;-75,2608;2661;7278;shape;FALSE;TRUE;America/New_York;2;1840000696
+Cabana Colony;Cabana Colony;FL;Florida;12099;Palm Beach;26,8555;-80,0864;2660;2395;shape;FALSE;TRUE;America/New_York;2;1840042855
+University Park;University Park;MD;Maryland;24033;Prince George's;38,9719;-76,9445;2653;2042;shape;FALSE;TRUE;America/New_York;2;1840003827
+North Middletown;North Middletown;NJ;New Jersey;34025;Monmouth;40,4395;-74,1179;2652;2361;shape;FALSE;FALSE;America/New_York;2;1840005444
+East Newark;East Newark;NJ;New Jersey;34017;Hudson;40,751;-74,1623;2634;8616;shape;FALSE;TRUE;America/New_York;2;1840003596
+Luis Lloréns Torres;Luis Llorens Torres;PR;Puerto Rico;72075;Juana Díaz;18,0565;-66,5267;2625;2201;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023578
+Lauderdale;Lauderdale;MN;Minnesota;27123;Ramsey;44,9942;-93,2026;2624;2417;shape;FALSE;TRUE;America/Chicago;2;1840007844
+Rose Hills;Rose Hills;CA;California;06037;Los Angeles;34,0089;-118,0419;2619;2320;shape;FALSE;TRUE;America/Los_Angeles;2;1840075983
+Thomaston;Thomaston;NY;New York;36059;Nassau;40,7875;-73,7153;2602;2488;shape;FALSE;TRUE;America/New_York;2;1840005329
+Union;Union;NJ;New Jersey;34039;Union;40,6966;-74,2693;2591;2859,3;shape;FALSE;FALSE;America/New_York;2;1840153043
+West Belmar;West Belmar;NJ;New Jersey;34025;Monmouth;40,1707;-74,0376;2556;2104;shape;FALSE;FALSE;America/New_York;2;1840005453
+Colwyn;Colwyn;PA;Pennsylvania;42045;Delaware;39,9119;-75,253;2541;5315,3;shape;FALSE;TRUE;America/New_York;2;1840000694
+Rockledge;Rockledge;PA;Pennsylvania;42091;Montgomery;40,0822;-75,0898;2536;3517,8;shape;FALSE;TRUE;America/New_York;2;1840001375
+Menlo Park Terrace;Menlo Park Terrace;NJ;New Jersey;34023;Middlesex;40,5534;-74,3243;2503;2975,2;shape;FALSE;FALSE;America/New_York;2;1840081040
+Montalvin Manor;Montalvin Manor;CA;California;06013;Contra Costa;37,9977;-122,33;2490;4537,5;shape;FALSE;TRUE;America/Los_Angeles;2;1840028314
+Pine Air;Pine Air;FL;Florida;12099;Palm Beach;26,6586;-80,1075;2488;2642,6;shape;FALSE;TRUE;America/New_York;2;1840042877
+Hopelawn;Hopelawn;NJ;New Jersey;34023;Middlesex;40,5286;-74,2936;2457;2171;shape;FALSE;FALSE;America/New_York;2;1840080892
+Hamilton City;Hamilton City;CA;California;06021;Glenn;39,7427;-122,011;2446;2307;shape;FALSE;FALSE;America/Los_Angeles;2;1840017542
+Antón Ruíz;Anton Ruiz;PR;Puerto Rico;72069;Humacao;18,1883;-65,8079;2367;2060;shape;FALSE;FALSE;America/Puerto_Rico;2;1630035459
+St. George;St. George;MO;Missouri;29189;St. Louis;38,5376;-90,3121;2168;2591,5;shape;FALSE;FALSE;America/Chicago;2;1840141651
+Southwest Greensburg;Southwest Greensburg;PA;Pennsylvania;42129;Westmoreland;40,2919;-79,5478;2145;2113;shape;FALSE;TRUE;America/New_York;2;1840001161
+Spring Park;Spring Park;MN;Minnesota;27053;Hennepin;44,9364;-93,632;2136;2085,3;shape;FALSE;TRUE;America/Chicago;2;1840008926
+Orchard Grass Hills;Orchard Grass Hills;KY;Kentucky;21185;Oldham;38,3234;-85,5236;2120;2107;shape;FALSE;TRUE;America/New_York;2;1840030806
+Redington Shores;Redington Shores;FL;Florida;12103;Pinellas;27,8293;-82,8277;2115;2398;shape;FALSE;TRUE;America/New_York;2;1840018295
+Bear Creek;Bear Creek;FL;Florida;12103;Pinellas;27,7542;-82,7285;2114;2106;shape;FALSE;TRUE;America/New_York;2;1840038846
+Bellerose Terrace;Bellerose Terrace;NY;New York;36059;Nassau;40,7221;-73,7252;2084;5764,7;shape;FALSE;FALSE;America/New_York;2;1840005231
+Lake Belvedere Estates;Lake Belvedere Estates;FL;Florida;12099;Palm Beach;26,6888;-80,1326;2079;2428,8;shape;FALSE;FALSE;America/New_York;2;1840028988
+Elmwood Place;Elmwood Place;OH;Ohio;39061;Hamilton;39,1855;-84,4891;2071;3299,2;shape;FALSE;TRUE;America/New_York;2;1840003816
+Roosevelt Gardens;Roosevelt Gardens;FL;Florida;12011;Broward;26,1406;-80,181;2068;2310,5;shape;FALSE;FALSE;America/New_York;2;1840029108
+Landover Hills;Landover Hills;MD;Maryland;24033;Prince George's;38,9425;-76,8945;2043;2945;shape;FALSE;TRUE;America/New_York;2;1840005987
+Parkside;Parkside;PA;Pennsylvania;42045;Delaware;39,8674;-75,378;2043;3145,1;shape;FALSE;TRUE;America/New_York;2;1840000706
+San Pasqual;San Pasqual;CA;California;06037;Los Angeles;34,1393;-118,1027;2038;2745,2;shape;FALSE;TRUE;America/Los_Angeles;2;1840028271
+Cheltenham Village;Cheltenham Village;PA;Pennsylvania;42091;Montgomery;40,0632;-75,0934;2012;2609,9;shape;FALSE;FALSE;America/New_York;2;1840153018
+Cedar Heights;Cedar Heights;MD;Maryland;24033;Prince George's;38,9037;-76,9059;1977;2612,6;shape;FALSE;FALSE;America/New_York;2;1840148532
+Merrionette Park;Merrionette Park;IL;Illinois;17031;Cook;41,6812;-87,7012;1973;3393,7;shape;FALSE;TRUE;America/Chicago;2;1840011297
+Stewart Manor;Stewart Manor;NY;New York;36059;Nassau;40,7202;-73,6854;1966;3449,3;shape;FALSE;TRUE;America/New_York;2;1840005328
+Hillsboro Beach;Hillsboro Beach;FL;Florida;12011;Broward;26,2837;-80,0796;1964;2538,8;shape;FALSE;TRUE;America/New_York;2;1840017270
+Shippensburg University;Shippensburg University;PA;Pennsylvania;42041;Cumberland;40,0618;-77,5231;1887;3766,5;shape;FALSE;TRUE;America/New_York;2;1840043364
+South Palm Beach;South Palm Beach;FL;Florida;12099;Palm Beach;26,5898;-80,039;1855;3120,7;shape;FALSE;TRUE;America/New_York;2;1840018305
+Suárez;Suarez;PR;Puerto Rico;72087;Loíza;18,4311;-65,8515;1784;2280,2;shape;FALSE;FALSE;America/Puerto_Rico;2;1630023696
+South Floral Park;South Floral Park;NY;New York;36059;Nassau;40,7135;-73,7004;1752;4954,9;shape;FALSE;TRUE;America/New_York;2;1840005327
+Rouse;Rouse;CA;California;06099;Stanislaus;37,6196;-121,0084;1684;4636,1;shape;FALSE;TRUE;America/Los_Angeles;2;1840042936
+Parcelas de Navarro;Parcelas de Navarro;PR;Puerto Rico;72063;Gurabo;18,2301;-66,0043;1644;4148,7;shape;FALSE;TRUE;America/Puerto_Rico;2;1630025221
+Arbury Hills;Arbury Hills;IL;Illinois;17197;Will;41,5353;-87,8461;1637;2452,4;shape;FALSE;FALSE;America/Chicago;2;1840027275
+Royal Palm Estates;Royal Palm Estates;FL;Florida;12099;Palm Beach;26,6817;-80,1328;1615;2437,5;shape;FALSE;FALSE;America/New_York;2;1840029001
+Shiremanstown;Shiremanstown;PA;Pennsylvania;42041;Cumberland;40,2224;-76,9555;1611;2327,3;shape;FALSE;TRUE;America/New_York;2;1840001393
+Victory Gardens;Victory Gardens;NJ;New Jersey;34027;Morris;40,8762;-74,5435;1604;2879,9;shape;FALSE;TRUE;America/New_York;2;1840000954
+Woodmont;Woodmont;CT;Connecticut;09009;New Haven;41,2282;-72,993;1601;2142,9;shape;FALSE;TRUE;America/New_York;2;1840004853
+Worthington Hills;Worthington Hills;KY;Kentucky;21111;Jefferson;38,3093;-85,527;1585;2242,7;shape;FALSE;TRUE;America/New_York;2;1840015204
+Lincoln Park;Lincoln Park;PA;Pennsylvania;42011;Berks;40,3147;-75,9886;1572;2242;shape;FALSE;FALSE;America/New_York;2;1840035063
+West Lawn;West Lawn;PA;Pennsylvania;42011;Berks;40,3289;-75,9938;1547;2979,4;shape;FALSE;FALSE;America/New_York;2;1840035253
+Southside Place;Southside Place;TX;Texas;48201;Harris;29,7089;-95,4366;1515;2217,7;shape;FALSE;TRUE;America/Chicago;2;1840022200
+Taft Heights;Taft Heights;CA;California;06029;Kern;35,1337;-119,4711;1509;3522,4;shape;FALSE;FALSE;America/Los_Angeles;2;1840019150
+Villa Hugo II;Villa Hugo II;PR;Puerto Rico;72029;Canóvanas;18,4;-65,8928;1454;3226,5;shape;FALSE;FALSE;America/Puerto_Rico;2;1630152321
+Lakeshire;Lakeshire;MO;Missouri;29189;St. Louis;38,54;-90,3384;1435;2166,3;shape;FALSE;TRUE;America/Chicago;2;1840008600
+William Paterson University of New Jersey;William Paterson University of New Jersey;NJ;New Jersey;34031;Passaic;40,9478;-74,1989;1359;2168,6;shape;FALSE;FALSE;America/New_York;2;1840146685
+Saint John Fisher College;Saint John Fisher College;NY;New York;36055;Monroe;43,1143;-77,5108;1357;2280,3;shape;FALSE;FALSE;America/New_York;2;1840145796
+University Heights;University Heights;IA;Iowa;19103;Johnson;41,6551;-91,5589;1332;3916,4;shape;FALSE;TRUE;America/Chicago;2;1840010190
+West Easton;West Easton;PA;Pennsylvania;42095;Northampton;40,6781;-75,2357;1311;2984,3;shape;FALSE;TRUE;America/New_York;2;1840000983
+Kensington;Kensington;NY;New York;36059;Nassau;40,7932;-73,7222;1276;2051;shape;FALSE;TRUE;America/New_York;2;1840005298
+Airport;Airport;CA;California;06099;Stanislaus;37,6337;-120,972;1276;2469,6;shape;FALSE;TRUE;America/Los_Angeles;2;1840075978
+Millbourne;Millbourne;PA;Pennsylvania;42045;Delaware;39,9637;-75,2528;1258;5475,3;shape;FALSE;TRUE;America/New_York;2;1840000703
+Bonnie Brae;Bonnie Brae;IL;Illinois;17197;Will;41,5999;-88,0343;1248;2163,6;shape;FALSE;FALSE;America/Chicago;2;1840148193
+Haverford College;Haverford College;PA;Pennsylvania;42045;Delaware;40,0081;-75,3065;1243;3044,8;shape;FALSE;TRUE;America/New_York;2;1840043365
+Indian Shores;Indian Shores;FL;Florida;12103;Pinellas;27,8536;-82,8438;1232;2355,9;shape;FALSE;TRUE;America/New_York;2;1840017243
+Country Club Hills;Country Club Hills;MO;Missouri;29189;St. Louis;38,7208;-90,2751;1232;2100,2;shape;FALSE;TRUE;America/Chicago;2;1840007441
+Bellerose;Bellerose;NY;New York;36059;Nassau;40,7243;-73,7167;1230;4080,3;shape;FALSE;TRUE;America/New_York;2;1840005337
+Heidelberg;Heidelberg;PA;Pennsylvania;42003;Allegheny;40,3914;-80,0923;1228;2137;shape;FALSE;TRUE;America/New_York;2;1840001237
+Maywood Park;Maywood Park;OR;Oregon;41051;Multnomah;45,5524;-122,5617;1224;2318,1;shape;FALSE;TRUE;America/Los_Angeles;2;1840019940
+Great Neck Gardens;Great Neck Gardens;NY;New York;36059;Nassau;40,797;-73,7225;1213;2051;shape;FALSE;FALSE;America/New_York;2;1840034034
+Whitaker;Whitaker;PA;Pennsylvania;42003;Allegheny;40,4007;-79,8863;1212;2027,7;shape;FALSE;TRUE;America/New_York;2;1840001275
+Flordell Hills;Flordell Hills;MO;Missouri;29189;St. Louis;38,7174;-90,2648;1188;2124,6;shape;FALSE;TRUE;America/Chicago;2;1840008585
+Point Lookout;Point Lookout;NY;New York;36059;Nassau;40,5906;-73,5796;1175;2172,6;shape;FALSE;FALSE;America/New_York;2;1840005251
+Cottage City;Cottage City;MD;Maryland;24033;Prince George's;38,9384;-76,9492;1150;2444,2;shape;FALSE;TRUE;America/New_York;2;1840005986
+Palm Beach Shores;Palm Beach Shores;FL;Florida;12099;Palm Beach;26,7775;-80,0367;1149;2100,2;shape;FALSE;TRUE;America/New_York;2;1840017268
+Pasadena Hills;Pasadena Hills;MO;Missouri;29189;St. Louis;38,7083;-90,2921;1123;2049,6;shape;FALSE;TRUE;America/Chicago;2;1840009746
+Dale;Dale;PA;Pennsylvania;42021;Cambria;40,3122;-78,905;1121;2050,1;shape;FALSE;TRUE;America/New_York;2;1840001107
+Martin's Additions;Martin's Additions;MD;Maryland;24031;Montgomery;38,9796;-77,0693;1089;2801,9;shape;FALSE;TRUE;America/New_York;2;1840031470
+Baxter Estates;Baxter Estates;NY;New York;36059;Nassau;40,8338;-73,6948;1076;2103,6;shape;FALSE;TRUE;America/New_York;2;1840033846
+Enhaut;Enhaut;PA;Pennsylvania;42043;Dauphin;40,2324;-76,8253;1060;2462,1;shape;FALSE;FALSE;America/New_York;2;1840034952
+Villa Calma;Villa Calma;PR;Puerto Rico;72137;Toa Baja;18,4428;-66,2321;1060;2693,3;shape;FALSE;FALSE;America/Puerto_Rico;2;1630151540
+Ivyland;Ivyland;PA;Pennsylvania;42017;Bucks;40,2083;-75,0733;1035;2210,7;shape;FALSE;TRUE;America/New_York;2;1840001323
+Hillsdale;Hillsdale;MO;Missouri;29189;St. Louis;38,6858;-90,2869;1029;2311,5;shape;FALSE;TRUE;America/Chicago;2;1840012818
+Hi-Nella;Hi-Nella;NJ;New Jersey;34007;Camden;39,8367;-75,022;1018;2064,5;shape;FALSE;TRUE;America/New_York;2;1840003780
+Hilltop;Hilltop;MN;Minnesota;27003;Anoka;45,0536;-93,2501;1007;2624,6;shape;FALSE;TRUE;America/Chicago;2;1840006721
+Harbor Isle;Harbor Isle;NY;New York;36059;Nassau;40,6018;-73,6647;1004;3808,5;shape;FALSE;FALSE;America/New_York;2;1840005263
+Somerset;Somerset;MD;Maryland;24031;Montgomery;38,9666;-77,0963;952;5193,2;shape;FALSE;TRUE;America/New_York;2;1840005859
+Belle Vernon;Belle Vernon;PA;Pennsylvania;42051;Fayette;40,1256;-79,8671;952;2193,7;shape;FALSE;TRUE;America/New_York;2;1840001499
+Midway;Midway;PA;Pennsylvania;42001;Adams;39,8081;-77,0053;935;2103,4;shape;FALSE;FALSE;America/New_York;2;1840145546
+Chevy Chase Section Three;Chevy Chase Section Three;MD;Maryland;24031;Montgomery;38,9793;-77,0742;900;2801,9;shape;FALSE;TRUE;America/New_York;2;1840031469
+Velda Village Hills;Velda Village Hills;MO;Missouri;29189;St. Louis;38,6923;-90,2877;869;2311,5;shape;FALSE;TRUE;America/Chicago;2;1840012828
+Rutledge;Rutledge;PA;Pennsylvania;42045;Delaware;39,901;-75,3274;820;2681,8;shape;FALSE;TRUE;America/New_York;2;1840000710
+Alto;Alto;CA;California;06041;Marin;37,9056;-122,5186;818;2275,6;shape;FALSE;FALSE;America/Los_Angeles;2;1840027992
+Bella Villa;Bella Villa;MO;Missouri;29189;St. Louis;38,5436;-90,2855;798;2566;shape;FALSE;TRUE;America/Chicago;2;1840007448
+Landfall;Landfall;MN;Minnesota;27163;Washington;44,9508;-92,9766;796;2020,4;shape;FALSE;TRUE;America/Chicago;2;1840007818
+Valle Hill;Valle Hill;PR;Puerto Rico;72029;Canóvanas;18,3953;-65,894;785;3226,5;shape;FALSE;FALSE;America/Puerto_Rico;2;1630149263
+Tortugas;Tortugas;NM;New Mexico;35013;Doña Ana;32,2697;-106,7546;762;2033,8;shape;FALSE;FALSE;America/Denver;2;1840082799
+Blue Ridge Manor;Blue Ridge Manor;KY;Kentucky;21111;Jefferson;38,2434;-85,5647;761;2467,7;shape;FALSE;TRUE;America/New_York;2;1840013209
+Indian Creek;Indian Creek;IL;Illinois;17097;Lake;42,2272;-87,9783;760;3559,2;shape;FALSE;TRUE;America/Chicago;2;1840011165
+Briny Breezes;Briny Breezes;FL;Florida;12099;Palm Beach;26,509;-80,0542;738;2383,5;shape;FALSE;TRUE;America/New_York;2;1840015991
+North Brentwood;North Brentwood;MD;Maryland;24033;Prince George's;38,945;-76,951;713;2793,1;shape;FALSE;TRUE;America/New_York;2;1840031456
+Parkway Village;Parkway Village;KY;Kentucky;21111;Jefferson;38,2113;-85,7381;713;2700,4;shape;FALSE;TRUE;America/New_York;2;1840014299
+Acacia Villas;Acacia Villas;FL;Florida;12099;Palm Beach;26,6457;-80,1104;643;2257,1;shape;FALSE;TRUE;America/New_York;2;1840042854
+Hillsboro Pines;Hillsboro Pines;FL;Florida;12011;Broward;26,3253;-80,1947;628;2257,8;shape;FALSE;FALSE;America/New_York;2;1840029106
+Stacey Street;Stacey Street;FL;Florida;12099;Palm Beach;26,6978;-80,1239;610;2253,3;shape;FALSE;FALSE;America/New_York;2;1840029007
+Arcadia University;Arcadia University;PA;Pennsylvania;42091;Montgomery;40,0917;-75,1652;595;3074,2;shape;FALSE;TRUE;America/New_York;2;1840043391
+Villa de Sabana;Villa de Sabana;PR;Puerto Rico;72137;Toa Baja;18,4346;-66,1901;588;4811,8;shape;FALSE;FALSE;America/Puerto_Rico;2;1630150458
+Golden Beach;Golden Beach;FL;Florida;12086;Miami-Dade;25,966;-80,121;586;2618,2;shape;FALSE;TRUE;America/New_York;2;1840017277
+Pasadena Park;Pasadena Park;MO;Missouri;29189;St. Louis;38,711;-90,2974;573;2049,6;shape;FALSE;TRUE;America/Chicago;2;1840012824
+Connecticut Farms;Connecticut Farms;NJ;New Jersey;34039;Union;40,693;-74,2716;566;2859,3;shape;FALSE;FALSE;America/New_York;2;1840149434
+Mountain View;Mountain View;CO;Colorado;08059;Jefferson;39,7748;-105,0567;565;2451,3;shape;FALSE;TRUE;America/Denver;2;1840022438
+Strathmoor Village;Strathmoor Village;KY;Kentucky;21111;Jefferson;38,2208;-85,6778;563;2350;shape;FALSE;TRUE;America/New_York;2;1840030590
+Johnson City;Johnson City;OR;Oregon;41005;Clackamas;45,4046;-122,5794;539;2477,1;shape;FALSE;TRUE;America/Los_Angeles;2;1840018570
+Malverne Park Oaks;Malverne Park Oaks;NY;New York;36059;Nassau;40,6816;-73,6645;535;2092,4;shape;FALSE;FALSE;America/New_York;2;1840034037
+Madison Place;Madison Place;OH;Ohio;39061;Hamilton;39,1553;-84,3765;525;2691,6;shape;FALSE;FALSE;America/New_York;2;1840145735
+Sea Ranch Lakes;Sea Ranch Lakes;FL;Florida;12011;Broward;26,2007;-80,0981;519;2749,9;shape;FALSE;TRUE;America/New_York;2;1840018329
+Saddle Rock Estates;Saddle Rock Estates;NY;New York;36059;Nassau;40,794;-73,7414;518;2627,8;shape;FALSE;FALSE;America/New_York;2;1840033949
+Norbourne Estates;Norbourne Estates;KY;Kentucky;21111;Jefferson;38,2466;-85,6465;510;2254,8;shape;FALSE;TRUE;America/New_York;2;1840030542
+Las Gaviotas;Las Gaviotas;PR;Puerto Rico;72137;Toa Baja;18,4368;-66,1907;462;4811,8;shape;FALSE;FALSE;America/Puerto_Rico;2;1630142758
+Villa Hugo I;Villa Hugo I;PR;Puerto Rico;72029;Canóvanas;18,3976;-65,8908;450;3275,3;shape;FALSE;FALSE;America/Puerto_Rico;2;1630149260
+North Lynbrook;North Lynbrook;NY;New York;36059;Nassau;40,6685;-73,6736;436;3261,3;shape;FALSE;FALSE;America/New_York;2;1840034039
+Strathmoor Manor;Strathmoor Manor;KY;Kentucky;21111;Jefferson;38,219;-85,6836;419;2047,8;shape;FALSE;TRUE;America/New_York;2;1840030589
+Mechanicsville;Mechanicsville;PA;Pennsylvania;42107;Schuylkill;40,6908;-76,1807;407;2360,9;shape;FALSE;TRUE;America/New_York;2;1840002764
+Wilbur Park;Wilbur Park;MO;Missouri;29189;St. Louis;38,5532;-90,3087;406;2396,7;shape;FALSE;TRUE;America/Chicago;2;1840012831
+Linndale;Linndale;OH;Ohio;39035;Cuyahoga;41,445;-81,7665;334;2075,2;shape;FALSE;TRUE;America/New_York;2;1840000609
+Loch Arbour;Loch Arbour;NJ;New Jersey;34025;Monmouth;40,2323;-74,0013;217;5107,2;shape;FALSE;TRUE;America/New_York;2;1840003672
+Sycamore;Sycamore;KY;Kentucky;21111;Jefferson;38,2468;-85,5612;186;2467,7;shape;FALSE;TRUE;America/New_York;2;1840030809
+Meadowview Estates;Meadowview Estates;KY;Kentucky;21111;Jefferson;38,2227;-85,6353;132;2016,8;shape;FALSE;TRUE;America/New_York;2;1840015193
+Smith Village;Smith Village;OK;Oklahoma;40109;Oklahoma;35,4508;-97,457;73;2118,6;shape;FALSE;TRUE;America/Chicago;2;1840022733
+Tildenville;Tildenville;FL;Florida;12095;Orange;28,5384;-81,6025;43;2599,2;shape;FALSE;FALSE;America/New_York;2;1840014089
+Lazy Lake;Lazy Lake;FL;Florida;12011;Broward;26,1563;-80,1452;25;3559,2;shape;FALSE;TRUE;America/New_York;2;1840028718
